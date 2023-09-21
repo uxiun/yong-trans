@@ -1,0 +1,38 @@
+Case sensitive, V=無子音 (for e.g. 爱 ai4)
+有效行: ^\s*[a-z]\s+\S+.*$
+
+
+u sh
+i ch
+o zh
+v V
+
+q iu
+w ei
+r uan
+t ue
+t ve
+y un
+o uo
+o vo
+p ie
+s ong
+s iong
+d ai
+f en
+g eng
+h ang
+j an
+k uai
+k ing
+l uang
+l iang
+z ou
+x ua
+x ia
+c ao
+v ui
+v v
+b in
+n iao
+m ian

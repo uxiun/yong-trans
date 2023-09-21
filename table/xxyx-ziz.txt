@@ -1,0 +1,6518 @@
+[DATA]
+baaaa 别
+baaee 卟
+baaue 呗
+baaui 蹦 嘣
+baeee 啵
+baeii 踣
+baeue 咇
+baiae 哺
+baioe 跋
+baiua 哔 跸
+baiuu 吡
+baoee 叭
+baoue 趵
+bauaa 鄙
+bauau 吧
+bauoe 跛
+bbaaa 剥
+bbaui 臂
+bbeee 屄
+bbeia 辟
+bbeie 襞
+bbeoa 屏
+bbeue 避
+bbiae 檗
+bbiai 壁
+bbiie 璧
+bbiou 弼
+bboei 鐾
+bboia 擘
+bbuoi 嬖
+bcaie 濒
+bcaue 瀑
+bcaui 畚
+bceee 滨
+bceie 瀌 汴
+bceue 泌
+bciai 浡
+bciao 渤
+bciei 灞
+bcioa 弁
+bcioi 畚
+bciuu 沘
+bcoaa 濞
+bcoae 浜
+bcoai 泊
+bcoiu 滗
+bcuoe 波
+bdaue 赑
+bdeee 髌 贝
+bdeio 蚄
+bdeua 蝙
+bdiae 幖 罢 蛃
+bdiia 蚌
+bdioa 豳 畀
+bdoaa 睥 髀
+bdoee 贝 贬
+bdoie 败
+bdoui 崩
+bduau 岜
+beaee 补
+beaii 褙
+beaua 扁
+beeee 必
+beeio 谤
+beeua 褊
+beeue 遍
+beiie 裱
+beoaa 裨
+beoae 褓
+beuaa 邲
+beuoe 被
+bfaoo 步
+bfaui 背
+bfeee 槟
+bfeii 棓
+bfeio 榜
+bfeue 悲
+bfiae 柄
+bfiao 彬
+bfiia 梆 棒
+bfiie 标
+bfioe 杯
+bfiua 辈
+bfoai 柏
+bfoee 朳
+bfooe 板
+bfooo 彪 彬
+bfoue 杓
+bfouu 龅 北
+bfuaa 邶
+bgeee 薄 菠
+bgeia 蔀
+bgeie 藨 苄
+bgeio 蒡
+bgeoe 蔽
+bgeua 萹
+bgiae 菝 蔈
+bgiai 苯 荸
+bgioe 茇
+bgiua 荜
+bgiuu 蓖 芘
+bgoaa 萆
+bgoae 葆
+bgoai 蓓
+bgoau 蓖
+bgoei 蕃
+bgouu 苞
+bguau 芭
+bguia 薜
+bhaae 醭
+bhaue 贲
+bheee 丙 鬓
+bheoa 靽
+bheue 逋
+bhiaa 鞴
+bhiae 博
+bhiii 本
+bhoae 鞭
+bhoee 僰
+bhooo 髟
+bhoui 鹁
+bhuaa 邴
+bhuai 孛
+bhuau 靶
+bhuoo 勃
+biaaa 刨
+biaue 狈
+biaui 备
+bieoa 饼
+bieoe 飚
+bieua 鳊
+bieue 逼 惫
+biiae 鳔
+biiai 鲾 饽
+biioe 鲅
+biiui 狴
+bioai 鲌
+bioui 鸨
+biouu 飑 饱 鲍
+biuau 鲃
+biuiu 包
+biuuu 匕
+bjaua 捌
+bjaue 摆
+bjeee 摈
+bjeie 抃
+bjeio 搒
+bjeoa 拌
+bjiae 捕 搏
+bjiai 霸
+bjioe 拔
+bjoaa 捭
+bjoee 扒
+bjoei 播
+bjoeo 扮
+bjooe 扳 搬
+bjouu 抱 雹
+bjuae 报
+bjuau 把
+bjuia 摒
+bjuoe 拨
+bkaue 曝
+bkeua 匾
+bkeue 毖
+bkiaa 毕
+bkiae 晡 暴
+bkiou 毙
+bkouu 比
+bkuea 昪
+blaii 琲
+blaua 帮
+bleii 斑
+bleoi 班
+bliia 琫
+blioi 碧
+bloeo 玢
+bloue 表
+bluaa 邦
+bluau 耙
+bluoe 玻
+bmaua 布
+bmaue 泵
+bmaui 百
+bmeee 不 殡
+bmeii 碚
+bmeio 磅
+bmeua 碥
+bmiaa 奔
+bmiae 礴
+bmioa 奔
+bmoaa 碑
+bmoee 砭
+bmoua 甭
+bmoue 飙
+bmuoo 夯
+bneee 办
+bneue 边
+bniie 婊
+bnioe 妭
+bniuu 妣
+bnoaa 婢
+boaua 箅
+boeee 秉 簿
+boeei 箔
+boeue 秘
+boiae 簸
+boiai 馞 笨
+boiia 拜
+boiua 筚
+boiuu 秕
+booaa 稗
+booau 篦
+booea 掰
+booia 犇
+booiu 笔
+bouau 笆
+bouoe 笾
+bpeee 膑
+bpeio 膀
+bpiae 膘 膊
+bpiai 脖
+bpiuu 舭
+bpoai 舶
+bpooe 舨
+bpoue 般
+bpouu 胞
+bpuoe 彼
+bqiao 闭
+braua 痹
+braue 禀 冰
+breee 卞
+breoa 辨
+breua 辩
+briae 病 瘭
+briie 禀
+briii 癍 斌
+briue 瓿
+briuu 庇
+broaa 庳
+broae 褒
+broau 瘪
+broiu 亳
+brooa 瓣
+brooe 瘢
+bruaa 部
+bruau 疤
+bruee 变
+bruua 辫
+bsaue 保
+bseee 傧 卜
+bseie 儦
+bseii 倍
+bseio 傍
+bseoa 伴
+bseoe 煲
+bsiae 便
+bsiai 堡
+bsiie 俵
+bsioa 倴
+bsioi 佰
+bsoaa 俾
+bsoai 伯
+btaaa 半
+btaue 爆 蹩
+bteii 焙
+bteua 煸
+bteue 憋 迸
+btiaa 糒
+btiae 熛 炳
+btiia 并
+btioa 弊
+btoie 敝
+btoui 鳖
+btouu 炮
+btuau 粑
+buaio 埗
+buaue 坝
+bueee 八
+bueio 塝
+buiai 坌
+buioe 颁
+buiue 甏
+buoaa 埠
+buoie 攽
+buooe 坂
+buoue 豹
+buuaa 邠
+buuau 爸
+bveee 缤
+bveoa 绊
+bveua 编
+bviae 骠
+bviia 绑
+bvoae 缏
+bvoee 驳
+bvoui 绷
+bweie 忭
+bwiai 悖
+bwiie 宝
+bwioa 怖
+bwoae 宾
+bwoee 窆
+bwoie 愎
+bxiui 陛
+bxooe 阪
+bxouu 孢
+bxuoe 陂
+bxuuu 巴
+byaaa 币
+byaua 帛 鼻
+byaue 钡
+byaui 镚
+byeee 镔
+byeie 镳
+byeio 镑
+byeue 铋
+byiaa 卑
+byiae 镖 镈
+byiai 钵
+byiii 白
+byioa 钸 锛
+byioe 钚 钹 魃
+byoai 铂
+byoee 兵
+byooe 版 钣
+byoui 鹎
+byuau 钯
+caaia 踔
+caaiu 跐 呲
+caaoo 吵
+caaua 喘 踹
+caaue 嘬
+caaui 唱
+caeea 蹿
+caeee 嚓
+caeia 啐
+caeie 蹴
+caeii 躔
+caeoa 啴
+caeoe 蹲
+caeoi 蹉 蹭 噌
+caeue 逞
+caiae 嗔 吋 哧
+caiai 嘈 喳 躇 嘲
+caiie 踌
+caiii 呈
+caioe 蹰
+caoee 踩
+caoii 踟
+caoiu 吃
+caoue 吹
+caouu 叱
+cauae 嗤
+cauee 啜
+cauie 呎
+cauuu 巛
+cbeee 尺
+cbeoa 羼
+cbeue 迟
+cbiie 层
+cbuai 孱
+cbuau 弛
+cbuoi 弨
+ccaiu 泚
+ccaua 测 翀
+ccaue 澂
+ccauu 涔
+cceee 淙 叉
+cceia 淬 翠
+cceie 澈
+cceii 淳 澶
+cceio 浐
+cceuu 沉 沈
+cciae 濋
+cciai 潮 漕
+ccioo 参
+cciue 戳
+ccoeu 沧
+ccooo 参
+ccuae 滁
+ccuau 池
+ccuea 涌
+ccuee 汊
+ccuei 澄
+ccuii 潺
+ccuoe 皴
+cdaaa 串
+cdaei 瞠
+cdauo 赐
+cdeee 崇 虫
+cdeia 崒
+cdeie 螭
+cdeii 幢
+cdeoa 蝉
+cdeoi 嵯
+cdeue 遄
+cdiae 瞋
+cdiai 螬 嵖
+cdiao 财
+cdiie 帱 畴
+cdiii 蝽
+cdoai 崔
+cdoee 睬 蜍
+cdoeu 岑
+cdoie 瞅
+cdoue 眵
+cdoui 蟾
+cduaa 黜
+cduei 蛏
+cdueo 黪
+cduoo 畅
+ceaui 昶 裎
+ceeeu 诧
+ceeoa 禅
+ceiae 衬
+ceiai 褚
+ceiau 谌
+ceiie 诪
+ceioe 诚
+ceoee 谶
+ceoou 褫
+ceoue 谗
+ceoui 襜 谄
+ceuee 衩
+ceuii 词 祠
+ceuoo 初
+cfaue 龊
+cfaui 查
+cfauu 梣 觇
+cfeee 檫
+cfeie 榱 榇
+cfeoe 粲
+cfeoi 鹾 槎
+cfeue 逴
+cfiaa 郴
+cfiae 柴 村
+cfiai 槽 楮 楂
+cfiao 材
+cfieu 樗
+cfiie 楱
+cfiii 椿
+cfioe 橱
+cfoae 槌 梴
+cfoai 椎 雌
+cfoea 齿
+cfoee 枞 梌 餐
+cfoia 杵
+cfoie 枨
+cfoii 棰
+cfoui 栅 椆
+cfouu 此 龀
+cfuaa 郴
+cfuae 楚
+cfuee 杈
+cfuei 柽 橙
+cfuue 椽
+cgaaa 艹
+cgaiu 茈
+cgaua 草
+cgaui 菖
+cgeia 萃
+cgeie 蔟 茨
+cgeiu 茺
+cgiai 尘
+cgioa 藏
+cgioe 蒇
+cgioi 茬
+cgoai 茌
+cgoee 苁 菜 茶
+cgoei 莝
+cgoeu 苍
+cgoie 苌
+cgoue 葱 蔡
+cguuu 莼
+chaaa 刺
+chaii 耻
+chaui 曹 酲
+cheee 寸
+cheie 裁
+cheii 醇
+cheoa 酬
+cheoe 聪
+chiai 醋 矗
+choie 敕
+choii 酢
+chooo 才
+choui 朝 韂
+chuei 翅
+ciaee 处 鲿
+ciaue 触
+ciaui 鲳 猖
+cieee 匆
+cieia 猝
+ciiae 豉
+ciiai 馇 猹
+ciiii 猜 册
+ciiua 舛
+cioai 雏
+cioio 饬
+cioue 馋
+cioui 鸱
+ciueo 鲹
+ciuii 刍
+cjaea 撑
+cjaii 扯
+cjaoo 抄
+cjaua 抻 揣
+cjaue 撮 操
+cjaui 摧 抽
+cjeea 撺
+cjeee 擦
+cjeie 撤
+cjeii 搐
+cjeoi 搓
+cjiae 搽 持
+cjiai 措
+cjieu 摴
+cjiii 摏
+cjoei 挫
+cjoie 攒
+cjoii 插 捶
+cjooe 拆
+cjoou 搋
+cjoue 搀
+cjueo 掺
+ckaaa 车
+ckaua 臣
+ckaue 虿
+ckaui 昌
+ckiie 辏
+ckioe 晨
+ckoee 晁
+ckouu 匙
+ckuaa 邨
+ckuee 辍
+claaa 刬 亍
+claie 璨
+claoo 耖
+claue 琡 蠢 蚕
+claui 璀 春
+cleee 琮
+cleue 琛
+cliii 瑃
+cloae 璁
+cloai 舂
+cloua 琤
+cmaua 厕
+cmaue 蹙
+cmaui 盛 殂 唇
+cmeee 成
+cmeoe 磁
+cmeoi 磋
+cmiae 礤 厨
+cmiai 碴 厝
+cmiie 残 辰
+cmiua 砗
+cmooo 厂
+cmuaa 础
+cmuai 存
+cmueo 碜
+cnaea 嫦
+cnaui 娼
+cneeu 姹
+cneoa 婵
+cniai 婼
+cnioe 娠
+cnoui 婤
+cnuae 媸
+coaie 乘
+coaue 篡
+coaui 程
+coeee 长 乘
+coeia 辞
+coeie 簇
+coeue 愁
+coiae 策
+coiea 秤
+coiie 筹
+coiii 垂 重
+cooaa 氚
+cooei 矬
+cooia 掣
+cooiu 毳
+cooou 篪
+cooue 称
+cooui 稠
+couee 篡
+couei 笞
+cpaaa 彳
+cpaei 徜
+cpaue 斶
+cpaui 徂
+cpeee 斥
+cpeii 膪 艟
+cpeoi 塍
+cpeue 惩
+cpiai 舡 艚
+cpiie 腠
+cpiuo 彻
+cpoei 脞
+cpoeu 舱
+cpoui 船
+cpouu 脆
+cpuoo 肠
+cqaui 阊
+cqeoa 阐
+cquui 闯
+craiu 疵
+craua 冲
+craui 廛 啻 畜
+creia 瘁
+creiu 麤
+creoe 疢
+creoi 瘥
+criae 床 庱
+criie 瘛 凑
+crioe 颤
+criue 瓷
+croea 卒
+croei 痤
+croeu 疮
+croii 痴
+crooo 产
+croue 次
+croui 鹑
+crouu 充
+crueo 瘳
+crueu 充
+csaaa 创
+csaee 偿
+csaei 倘
+csaua 侧 常
+csaue 促 俶
+csaui 倡 催
+csauo 牚
+cseeu 侘
+cseia 侪
+cseie 裳 佽
+cseii 隹
+cseui 储 雠
+csiie 俦 传 尝
+csiii 丛
+csoee 从
+csoeu 伧
+csoie 敞 伥
+csoiu 氅
+csoue 傺 侈
+csoui 鸧
+csuii 伺
+csuoo 仇
+csuuu 仓
+ctaia 焯
+ctaoo 炒
+ctaua 灿 单
+ctaue 炽
+ctaui 曾 粗
+cteia 粹
+cteoe 糍
+cteue 慈
+ctiai 差
+ctoae 熜
+ctoie 糙
+ctoue 炊
+ctoui 鹚
+ctuie 冁
+ctuue 兹
+cuaaa 刹
+cuaei 埫
+cuaua 岔
+cuaue 肏 汆
+cuaui 埕
+cueee 赤
+cueeu 垞
+cuiae 瓻 采
+cuiao 豺
+cuioe 城
+cuoae 赤
+cuoeo 趁
+cuooe 坼
+cuooo 彩
+cuoue 坻
+cuouu 鬯
+cuuaa 郗
+cuuia 墀
+cuuoi 超
+cuuoo 场
+cvaaa 剿
+cvaia 绰
+cvaue 巢
+cvauu 骋
+cveii 缠
+cviuu 纯
+cvoae 骢
+cvoui 绸
+cvuaa 绌
+cvuau 驰
+cvueo 骖
+cvuii 骣
+cwaei 惝
+cwaua 忡 惴 窜 恻
+cweee 悰
+cweia 悴
+cweii 憧
+cweuu 忱
+cwiae 忖 憷 怵
+cwioe 宠 宸
+cwiua 惭
+cwiuo 穿
+cwoae 窗
+cwoeu 怆
+cwoia 忏
+cwoie 怅
+cwoue 察
+cwoui 惆
+cwueo 惨
+cwuoi 怊
+cxaaa 出
+cxaue 蚩
+cxeee 承
+cxiii 丑 丞
+cxiue 陈
+cxoee 除
+cxoii 陲
+cyaaa 川
+cyaei 铛
+cyaoo 钞
+cyauo 锄
+cyeea 镩
+cyeee 镲
+cyeie 魑
+cyeio 铲
+cyeiu 铳
+cyiaa 镡
+cyiae 爨
+cyiai 错
+cyiii 囱
+cyioe 臭 铖
+cyoaa 钏
+cyoei 锉
+cyoii 锤 锸
+cyoue 镵 囱
+cyuee 钗
+daaua 吊
+daeee 啶
+daeie 踱 蹾
+daeii 踮 嘀
+daeoe 蹲 啖
+daiaa 叮 嘟
+daiae 喋 蹀 呆
+daiai 嗒
+daioe 跶 哒 呔
+daiuu 吨
+daoee 嗲
+daoei 蹈
+daoie 跌
+daooe 嘚
+daoue 跺 咚 哚 哆
+dauaa 咄
+dauei 噔 蹬
+dauii 叼
+dauoo 叨
+dbaaa 弔
+dbaua 屌
+dbeoa 弹
+dbeue 逮
+dbiae 导
+dbiii 刁
+dboue 殿
+dcaaa 剟
+dcaui 沓 洞 叠
+dceee 淀
+dceie 渡
+dceii 滴
+dceoe 淡
+dceue 怠 迨 怼
+dciae 渎 对 滇
+dciai 登
+dciuu 沌
+dcoai 翟
+dcoiu 沲
+dcoue 涤
+dcoui 澹
+dcouu 凳
+dcuaa 邓 凼
+dcuei 澄
+dcuii 汈
+ddaei 蟷
+ddaue 髑
+ddaui 峒
+ddeea 蚪
+ddeoe 赕
+ddeoo 睇
+ddeue 迪
+ddeuu 眈
+ddiaa 町 盯
+ddiae 蝶 巅 黩
+ddiai 睹 赌
+ddiie 帱
+ddiue 岽
+ddiuu 囤 盹
+ddoee 典
+ddoue 骶
+dduei 瞪 嶝
+dduiu 鼎
+dduuu 电
+deaei 裆
+deaeu 谠
+deaii 扂
+deeia 谛
+deiaa 订
+deiae 读 谍
+deiai 褡
+deiie 祷
+deoae 诞
+deoue 祋 诋
+deoui 襜 调
+deuee 裰
+deuei 诒
+dfaei 档
+dfaui 督
+dfeee 点
+dfeeu 柁
+dfiae 椟
+dfiai 杜
+dfioe 杕
+dfiue 栋
+dfoae 椴
+dfooi 楯
+dfoue 柢
+dfuie 棣
+dgeee 萣
+dgeei 菪
+dgeeo 荡
+dgeia 蒂
+dgiai 芏
+dgioe 荙
+dgoau 蔸
+dgoii 董
+dgoue 荻
+dgoui 萏
+dhaaa 丁
+dhaua 带
+dhaue 蠹 戴
+dhaui 聃 靼
+dhauu 觌
+dheuu 耽
+dhiaa 耵 酊
+dhioe 鞑 蠹 顶 颠
+dhiui 耋
+dhuaa 都
+dhuau 髢
+diaaa 剁
+diaua 岛
+diaue 独
+diaui 甸 豆
+dieee 氐 冬
+dieoe 狄
+dieue 逗
+diiae 朵 鲽
+diiii 鸟 丹
+dioai 雕
+dioue 多
+dioui 鲷
+diuaa 邸
+djaei 挡
+djaia 掉
+djaue 提
+djaui 担
+djeea 抖
+djeii 掂
+djeoa 掸
+djiaa 打
+djiae 揲
+djiai 搭 垫
+djiua 捯
+djiuu 扽
+djoua 捣
+djoue 抵
+djuee 掇
+dkaaa 到
+dkaue 趸
+dkeee 东
+dkiai 甙
+dkiii 旦
+dkioe 顿
+dkiue 戥
+dkoui 鸫
+dlaei 珰
+dlaii 玷
+dlaue 纛
+dleee 靛 焘
+dliaa 玎
+dloae 玳
+dluie 叇
+dluoo 动
+dluue 毒
+dmaue 碘
+dmaui 石 硐
+dmeee 碇 大 歹
+dmeia 碲
+dmeie 礅
+dmeoa 殚
+dmeue 达
+dmiae 夺 碟
+dmiai 耷
+dmiuu 砘
+dmoai 碓
+dmoue 砥
+dmoui 碉
+dmuei 殆 磴
+dmuoo 砀
+dnaui 妲
+dneii 嫡
+dneoo 娣
+dneuo 妒
+dnooo 刀
+dnuei 嬥
+doaei 筜
+doaui 笛 笪
+doeoa 簖 箪
+doeoe 氮
+doeue 迭
+doiaa 簟
+doiae 等 犊
+doiai 短
+dooaa 氘
+dooau 篼
+dooei 答 稻
+dooie 敌
+dooue 氡
+douee 丢
+douei 簦
+douio 第
+douui 笃
+dpaue 得
+dpaui 胆 胴
+dpeee 腚
+dpeeu 舵
+dpeii 膻
+dpeue 遁
+dpiae 待 德
+dpiai 肚 盾
+dpiue 胨
+dpoie 瓞
+draii 店
+draua 帝 端
+draui 疸 盗
+dreoa 瘅
+dreue 憝
+driaa 疔
+driae 癫
+driai 瘩 痘
+driue 冻
+droie 敦
+droue 底
+droui 凋
+druee 度
+druie 癜
+dsaua 岱
+dsaue 贷 黛
+dsaui 佃 侗 但
+dseie 袋
+dsiaa 仃
+dsiie 傣
+dsiua 倒
+dsiue 代
+dsoue 低
+dsoui 儋
+dsouu 党
+dsuii 当
+dtaua 单
+dtaui 炟
+dtauu 兑
+dteue 道 递
+dtiaa 灯
+dtioe 奠
+dtiuu 炖
+dtoae 煅
+dtooa 断
+dtoue 羝
+dtuaa 郸
+dtuio 弟
+duaei 垱
+duaii 坫
+duaue 氹 堤
+duaui 垌
+dueie 墩
+dueoe 籴
+duiae 厾 堞
+duiai 塔 堵
+duioe 垯
+duiui 垤
+duoae 塅
+duoai 堆
+duoii 埵
+duoue 垛 坻 爹
+duuau 地
+duuie 埭
+duuoi 貂
+dveia 缔
+dveoo 绨
+dvioe 驮
+dviui 绖
+dvoae 缎
+dvoii 缍
+dvuei 绐 骀
+dwaaa 斗
+dwaia 悼
+dwaui 恫 怛
+dweii 惇 惦
+dweoa 惮
+dwiaa 斗
+dwiae 窦 定
+dwiai 懂
+dwioi 惰 宕
+dwoui 憺 窎
+dwuoo 忉
+dxaii 阽
+dxaue 蛋
+dxaui 疍
+dxiae 陡
+dxiai 堕
+dxoee 队
+dyaei 铛
+dyaua 铞
+dyaue 锝
+dyaui 钿
+dyeea 钭
+dyeee 锭
+dyeie 镦 镀
+dyeii 镝
+dyiaa 钉
+dyiae 牍 牒
+dyiuu 钝
+dyoae 锻
+dyoee 铫
+dyoie 铤 铥
+dyoue 的 段 躲 钓
+dyouu 兜
+dyuea 铎
+dyuei 镫
+faaii 啡
+faiae 黼
+faiia 唪
+faiie 呋 趺
+faioe 吠 黻
+faoae 跗 咐
+faoei 蹯
+faoeo 吩
+fbaaa 弗
+fbaue 费
+fbouu 艴
+fceii 涪
+fceoe 瀵
+fciae 法
+fciia 沣
+fcoee 泛
+fcoei 滏 浮
+fcoeo 汾
+fcoua 浲
+fcoue 沨
+fcouu 淝
+fcuia 沸
+fdaae 幞
+fdeio 蚄
+fdeua 罚
+fdiae 赙 崶
+fdiai 幅 蝠
+fdiie 蚨
+fdiii 赋
+fdioe 罘
+fdoei 蜉 幡
+fdoie 蝮
+fdooe 畈 贩
+fdoua 峰 蜂
+fdoue 帆
+feaee 讣
+feaii 扉 诽
+feeio 房 访
+feiai 福
+feioe 祓
+feoae 袱
+feoue 讽
+ffaaa 剕
+ffaii 非
+ffaue 蜚
+ffeie 斐
+ffeio 枋
+ffeoe 焚
+ffiii 非
+ffioe 樊
+ffiui 榧
+ffoei 桴
+ffoeo 棼
+ffoue 枫 梵
+ffuei 翡
+fgaii 菲
+fgeei 藩
+fgeeu 范
+fgeio 芳
+fgiaa 芾
+fgiae 葑
+fgiie 芙
+fgioe 芣
+fgoae 茯 苻
+fgoei 莩 蕃
+fgoeo 芬
+fgoie 蘩
+fgoue 菔
+fguia 茀
+fheee 甫
+fhoeo 酚
+fhoie 敷
+fhooe 覆
+fiaaa 副
+fiaii 鲱
+fiaue 负
+fieee 凡
+fieio 鲂
+fieue 逢
+fiiae 鲼
+fiiai 匐
+fioae 鲋
+fioee 风
+fioei 孵
+fioie 鳆
+fiooe 饭
+fiouu 凫
+fiuee 凤
+fiuia 狒
+fiuuu 犯
+fjaii 霏
+fjiie 扶
+fjiiu 抚
+fjoae 拊
+fjuia 拂
+fkaii 匪
+fkiae 辅
+fkiai 辐
+flaaa 丰
+fleee 夫
+fliae 珐
+fliia 奉
+fliie 麸
+flioe 韨
+floei 琈 璠
+floeo 玢
+fluaa 酆
+fmaui 否 奋
+fmiae 砝
+fmoue 矾 砜
+fmuia 砩
+fneee 飞 发
+fneio 妨
+fnuee 发
+fnuii 妇
+fnuiu 妃
+foaaa 缶
+foaue 复
+foeio 牥
+foiai 簠
+foiui 篚
+fooae 符 筏
+fooei 稃
+fooeo 氛
+fooie 馥
+fouaa 缶
+fouia 氟
+fouue 繁
+fpaii 腓
+fpeie 腑
+fpeio 肪 彷 舫
+fpeue 返
+fpiaa 肺
+fpiae 脯
+fpiie 肤
+fpoie 腹
+fpuae 服
+fpuau 肥
+fpuee 反
+fqoae 阀
+fraii 痱
+fraue 腐
+froae 府
+froie 放
+frooo 方
+froue 疯
+fruaa 邡
+fruoe 废
+fruui 冯
+fseie 俯
+fseio 仿
+fsiae 偾 付 傅
+fsiai 垡
+fsiia 俸
+fsioe 伏
+fsiue 伐
+fsoei 俘
+fsoeo 份
+fsuia 佛
+ftiae 粪
+ftioe 烦
+ftoei 燔
+ftoeo 粉
+ftoua 烽
+fuaee 赴
+fuaui 番
+fueee 父 乏
+fueie 坟
+fueio 坊
+fueue 忿
+fuiae 封
+fuiii 釜
+fuoee 父
+fuoei 垺
+fuooa 斧
+fuuaa 郛
+fuuai 孚
+fuuei 翻
+fuuoo 分
+fvaii 绯
+fveio 纺
+fviae 缚
+fvioe 绂
+fvoae 驸
+fvoeo 纷
+fvoue 缝
+fvuia 绋
+fwaii 悱
+fwiae 愤
+fwiai 富
+fwuia 怫
+fxeio 防
+fxoae 附
+fyeio 钫
+fyiaa 阜
+fyoeo 鼢
+fyoua 锋
+fyoue 钒
+fyuie 镄
+gaaaa 剐
+gaaeu 咣
+gaaue 呙
+gaiaa 嗝
+gaiae 哽 唝
+gaiai 咕 咁
+gaiau 噶
+gaioe 嘎
+gaooe 呱
+gaoui 咯
+gaouu 跪
+gauie 跟 哏
+gauoi 咖
+gbeee 艮 夬
+gboie 改 敢
+gbuuu 弓
+gcaeu 洸
+gcaue 涡
+gcaui 汩
+gcauu 观
+gceei 涫
+gceie 滚
+gciae 浭
+gciai 沽 泔 灌
+gciau 港
+gciie 癸
+gcioe 颈
+gcoei 淦
+gcoeu 矜
+gcoue 沟
+gcouu 氿
+gcuie 澉
+gcuiu 溉
+gdaaa 刚 刿
+gdaue 岗 帼 蜾 贵
+gdaui 蛊 崮 蝈 骨
+gdeee 果
+gdeie 赅
+gdeii 崞
+gdiai 罡 蛄 罟 固
+gdiie 国
+gdoee 蚣 冈
+gdoei 蛤
+gdoiu 虼
+gdoue 购
+gdoui 骼 鹘 岣
+geaue 祼
+geeie 该
+geiae 褂
+geiai 诂 诖
+geiie 冠
+geoai 雇
+geoii 诰
+geooi 诟
+geoui 袼
+geouu 诡
+gfaeu 桄
+gfauu 棍
+gfeei 棺
+gfeii 槁 椁
+gfiae 栱 梗
+gfiai 杠 柑 桂
+gfiia 杆
+gfiuu 柜
+gfoaa 槔
+gfoee 桧
+gfoii 梏 栝
+gfoue 构
+gfoui 枸 格
+gfuie 根 橄
+gfuiu 概
+ggaoe 尜
+ggaui 蓇
+ggauu 葛
+ggeeu 莞
+ggeie 荄 藁
+ggiae 藁
+ggiai 苷
+ggiie 蒄
+ggioe 尜
+ggoea 芥
+ggoui 苟 鹳
+gguae 菰
+gguie 茛
+gguii 归
+gguoi 菇
+ghaaa 革
+ghaee 恭
+ghaoe 恭
+ghaua 革
+ghaue 贡 汞 贾
+ghaui 古
+gheee 更
+gheia 辜
+gheoe 耿
+gheue 过
+ghiai 哥 酤
+ghiia 酐
+ghiii 甘 鞲 工
+ghoee 共
+ghoie 攻 故
+ghoii 聒
+ghoiu 乾
+ghoue 歌 巩
+ghoui 鸪
+ghuie 嘏
+ghuoo 功
+ghuuu 丐
+giaeu 觥
+giaua 鬲
+giaue 鳏 猓
+giaui 亘 鲴 句 各
+giauu 龟
+gieei 馆
+gieio 犷
+gieue 逛
+giiae 鲠
+giiai 鲑
+giioe 鳜
+gioai 雊
+gioii 鳤
+giooe 觚
+gioue 鲧 够
+gioui 狗
+giuee 勾
+gjaue 掴
+gjauo 拐
+gjeai 搁
+gjeee 夹
+gjeii 搞
+gjiaa 擀
+gjiae 拱
+gjiai 扛 挂
+gjoii 括
+gjuue 掼
+gkaue 匮
+gkauu 辊
+gkeee 戈
+gkeoe 炅
+gkiae 杲
+gkiai 轱
+gkiia 旰
+gkiuo 匦
+gkoui 晷 臵
+gkuoo 轨
+gkuuu 轧
+glaaa 干
+glauu 规 觏
+gleei 琯
+gleue 遘
+gliae 珙
+gliai 珪 瓘
+gliia 耕
+gloae 瑰
+gmaai 尴
+gmeie 磙
+gmeue 感
+gmiae 龚
+gmiai 硅 矼
+gmiia 矸
+gmioe 顾
+gmoea 尬
+gmoui 硌
+gnaai 尴
+gnaoe 尕
+gnaui 旮
+gneei 婠
+gneoe 妫
+gniai 姑 哿
+gniii 媾
+gniue 戤
+gnoea 尬
+gnooi 姤
+gnouu 姽
+goaaa 刮
+goaiu 乖
+goaui 告
+goeei 管
+goeeu 筦
+goeii 稿 篙
+goiaa 箍
+goiae 筻
+goiai 牯 筀 玍 罐 缸
+goiia 秆 竿
+goiii 篝
+gooea 搿
+gooii 牿
+gooui 鸹 鹄 笱
+gouaa 郜
+gouii 簋
+gouuu 乖
+gpaeu 胱
+gpaue 腘
+gpeee 瓜
+gpiaa 膈
+gpiae 臌
+gpiai 舸 肛
+gpiia 肝
+gpioe 肱
+gpooe 胍
+gpoue 股
+gpoui 胳
+gqiai 闺
+gqoui 阁
+graue 赓 裹
+graui 痼 膏 高
+greue 戆
+griae 庋
+griai 冮 疳
+groee 衮
+groiu 疙
+grooo 广
+groue 赣
+groui 鹒
+gruaa 郭
+gruee 衮
+gruie 庚
+gsaaa 刽 个
+gsaui 合
+gseei 倌
+gsiae 供
+gsiai 估
+gsioe 颌
+gsoae 傀
+gsoiu 仡
+gsoui 鸽 佝
+gsouu 光
+gsuoi 伽
+gtaue 粿
+gtaui 盖
+gteee 羔
+gteoe 糕 羹
+gtiai 爟
+gtiie 关
+gtiui 馘
+gtoue 羖
+gtuie 炔
+guaee 卦
+guaeu 垙
+guaiu 虢
+guaue 埚
+guaui 谷 瞽
+gueie 垓
+guiaa 塥
+guiae 埂 鼓
+guiai 圭 坩 堌
+guiia 赶
+guoiu 圪
+guooe 坬
+guooi 垢
+guoue 彀 毂
+guuaa 邽
+guuee 公
+gvaue 贯 纲
+gvauu 绲
+gveii 缟
+gviae 绠
+gviai 红 绀
+gviii 毌
+gvoae 缑
+gvoei 给
+gvoeu 纶
+gvoiu 纥
+gwaaa 割
+gwaui 官 宫
+gwioo 寡
+gwuei 怪
+gwuoo 宄
+gwuue 惯
+gxeie 陔
+gxiaa 隔
+gxooe 孤
+gyaue 锅 钢
+gyaui 锢 盥
+gyauu 锟
+gyeee 鬼
+gyeii 镐
+gyiaa 睾 镉
+gyiai 钴
+gyiau 钙
+gyioa 皋
+gyoii 锆
+gyooe 皈
+gyoue 钩
+gyoui 铬
+gyuee 鬼
+gyuiu 躬
+gyuuu 钆
+haaiu 唬
+haaue 踝 哕 嘿
+haauu 喝
+haeee 嗨
+haeei 嗐
+haeia 哼
+haeie 嚎 咳
+haeiu 吭
+haiae 哄 吓 唝
+haiai 嗬 嚆 咁 呵
+haiei 嚯
+haioe 咴
+haioi 喊
+haiuu 号
+haoaa 哗 嗥
+haoae 喉
+haoai 喤
+haoea 呼
+haoei 哈
+haoia 吽
+haoue 唿 唤
+hauau 吼
+hauue 喙
+hbeue 憨
+hbooe 弧
+hbuee 弘
+hcaeu 洸
+hcaia 滹
+hcaue 灏 溃 淏 漶
+hcaui 涸 洄 溷 滑
+hcauu 混
+hceeu 浣
+hceia 漷
+hceie 濠
+hceii 翯
+hceiu 沆
+hceua 浒 浑
+hceuo 沪
+hciae 洪 潢
+hciai 湖 鸿 瀚 洹 河
+hciia 汗
+hciua 翚
+hciuu 汇
+hcoai 湟 淮
+hcoee 浍
+hcoei 浛
+hcoie 海
+hcoii 活 浩
+hcoua 浲
+hcoue 涣 淴 欢
+hcoui 鸿
+hcuaa 涵
+hcuee 汉
+hcuie 泓
+hdaue 圜
+hdaui 回 蛔
+hdauu 幌
+hdeee 黑
+hdeie 骸
+hdeue 患
+hdiae 蟪 蠖 蟥 虾
+hdiai 蝴 蚶 岵 虹
+hdioi 嵅 贿
+hdoai 蝗
+hdoei 蛤
+hdoiu 蚝
+hdooi 骺
+hdoue 夥
+hdoui 鹘 鹮
+hdouo 囫
+heaue 祸
+heauu 扈 褐
+heeea 戽
+heeei 隺
+heeua 诨
+heiai 祜 讧 诃
+heiau 谎
+heiia 讳 罕
+heioe 诙
+heoie 诲
+heoii 话
+heooo 户
+heoui 鹤
+hfeie 核
+hfeiu 杭
+hfiae 橞 横
+hfiai 壑 桓
+hfoaa 桦
+hfoae 槐
+hfoee 桧
+hfoiu 龁
+hfooa 桁
+hfoua 槲
+hfouu 虎
+hgaaa 劐
+hgaui 茴
+hgauu 薨
+hgeei 菏
+hgeii 蒿
+hgeiu 荒
+hgeoa 蔊
+hgiae 蕻 蕙
+hgiai 葫 荁
+hgiei 藿
+hgiou 薨
+hgiua 荤
+hgoai 荷 萑
+hgoau 花 荒
+hgoee 荟
+hgooa 蘅
+hgoue 获
+hguaa 菡
+hguoe 薅
+hguui 荭
+hhaue 黄 鬟
+hhauu 鞨
+hheue 惠
+hhiai 醐 酣
+hhiia 韩
+hhioa 卉
+hhioi 醢
+hhoei 翰
+hhoui 胡 鹕
+hhuaa 邯
+hhuiu 巷
+hiaua 画
+hiaue 奂
+hiaui 猾 昏
+hiauu 馄
+hieea 斛
+hieeu 鲩
+hieii 訇
+hieue 忽
+hiiae 鹱
+hiiai 獾 猢
+hiiia 犴
+hioae 猴
+hioai 鳇 凰
+hioei 饸
+hiooe 狐
+hiooi 鲘
+hiuaa 郇
+hiuei 翮
+hiuie 狠
+hjaua 捍
+hjaue 擐
+hjeua 挥
+hjeuo 护
+hjiei 攉
+hjioe 撼
+hjoai 霍
+hjoue 换
+hjuie 撖
+hkaaa 划
+hkaeu 晃
+hkaui 或
+hkeua 晖
+hkeue 惑
+hkeuo 昈
+hkiia 旱
+hkiie 昊
+hkiii 互
+hkioe 颢
+hkoea 轷
+hkoei 晗
+hkoie 晦
+hkoui 鹖
+hkouu 曷
+hkuee 轰
+hlaiu 琥
+hleua 珲
+hleue 慧
+hliae 璜
+hliai 玒 瑚
+hlioe 环 顸
+hlioi 砉
+hloae 魂
+hloei 耠
+hloiu 耗
+hlooa 珩
+hluaa 邗
+hluii 彗
+hmaue 虺
+hmaui 厚
+hmeoe 灰
+hmeue 还
+hmiae 磺 硔
+hmooe 瓠
+hmuei 翃
+hmuoo 夯
+hnaia 嫭
+hnaue 贺 嬛
+hniaa 嬅 婳
+hniai 姮
+hnoui 婚
+hnuai 好
+hoaue 秽
+hoaui 和 盉
+hoeee 禾
+hoeie 氦
+hoiae 簧
+hooae 篌
+hooai 篁
+hooui 鹄
+hoouo 笏
+hpaii 徊
+hpaue 徽
+hpaui 后
+hpeie 胲
+hpeiu 航
+hpeue 逅
+hpiai 垕
+hpiia 行
+hpiii 鸻
+hpoai 徨
+hpoua 衡
+hpoui 鸻
+hpuaa 郈
+hpuie 很
+hpuue 後
+hqeie 阂
+hqiai 阖
+hqioe 闳
+hqoui 阍
+hquie 阚
+hraui 肓
+hreee 亥
+hriae 癀
+hrioe 竑 豪 颃
+hriui 冱
+hroae 瘊
+hroee 亥
+hroiu 毫 麾
+hroue 痪
+hruaa 亨
+hruie 痕
+hruoo 劾
+hsaue 货
+hsaui 含 盒 合
+hseoe 伙
+hseua 辉
+hsiaa 华
+hsiai 何
+hsiie 会
+hsioe 颔 颌
+hsoie 龢
+hsoii 佸
+hsouu 化
+hsuaa 郃
+hsuie 候 侯
+htaua 焊
+hteee 火
+hteii 熇
+htiae 烘
+htiai 煳 糊
+htioe 豢
+htoae 糇
+htoai 煌
+htoea 烀
+htoee 烩
+htoei 焓
+htoue 焕
+huaaa 乎
+huaai 壶
+huaua 垾
+huaui 盍
+hueie 壕
+hueue 恚
+huiae 谼 赫
+huiai 堼 貆
+huioe 坏
+huoae 堠
+huoue 觳
+huoui 垎 貉
+huuaa 郝
+hvaue 缳 缋
+hveie 骇
+hviai 红
+hvioe 纮
+hvoaa 骅
+hvoee 缓 绘
+hvoiu 纥
+hvooa 绗
+hvuuu 幻
+hwaeu 恍
+hwaua 悍
+hwaue 寰
+hweee 寒
+hweue 逭
+hwiae 黉
+hwiai 怙 恒
+hwiau 慌
+hwiii 害
+hwioe 怀 憾 恢 宏
+hwiua 宦
+hwoai 惶
+hwoei 豁
+hwoie 悔
+hwoue 惚
+hwoui 鲎 惛
+hwuie 恨
+hxeie 孩
+hxoai 隍
+hxoee 隳
+hxuaa 函
+hyaue 镮
+hyeii 镐
+hyeoe 钬
+hyeue 遑
+hyiae 镬
+hyiia 鼾
+hyiii 皇
+hyoaa 皞 铧
+hyoee 锾
+hyoei 铪
+hyoii 皓
+hyoue 锪 毁
+hyoui 齁
+jaaie 噱
+jaaui 咀 旧 监
+jaeea 斝
+jaeia 哜 跻
+jaeie 蹴 跤
+jaeoi 蹐 嗟
+jaiae 噤 戢
+jaiai 咭 坚
+jaiia 趼
+jaiie 践
+jaioe 蹶 噘
+jaioi 踦
+jaiui 喈
+jaiuu 距
+jaoae 踽 噍
+jaoee 嚼
+jaoei 鉴
+jaoie 啾
+jaoui 鹃
+jaouu 叽
+jauaa 叫 郏
+jauia 唧
+jauie 踺 跽
+jauii 踞
+jauoi 跏
+jauue 紧
+jbaaa 剧
+jbaue 强
+jbaui 暨 君 届
+jbeee 尽
+jbeie 弶
+jbeue 忌
+jbiai 疆 居
+jbiuu 既
+jboia 犟
+jbooe 屐
+jbooi 屦
+jbuaa 郡 即
+jbuai 局
+jbuee 建
+jbuei 弪
+jbuuu 己
+jcaaa 刭
+jcaue 濈 溅
+jcaui 沮 泂 矞 涓
+jceai 涧
+jceia 济
+jceoa 湔
+jceue 迳
+jceui 滘
+jciae 漖
+jciai 溍 江 酒 洁
+jciee 浃
+jciie 浅
+jcioe 颈
+jciua 渐
+jciui 湝
+jciuu 浇
+jcoae 激
+jcoai 洎
+jcoeu 矜
+jcoie 湫
+jcoua 洚
+jcoue 漈
+jcoui 泃 鸡
+jcouu 氿
+jcuee 浚
+jcuei 泾
+jcuia 津
+jcuie 浸 艰 浕
+jcuoe 汲
+jcuoo 劲
+jdaaa 甲 巾
+jdaua 岬
+jdauu 觊
+jdeie 蛟
+jdeii 嵴
+jdeou 圈
+jdeue 迥
+jdiai 虹 羁
+jdiao 蜐
+jdiee 蛱
+jdiie 贱
+jdiii 且 睛
+jdioi 畸
+jdiue 睫
+jdoae 矍
+jdoai 瞿 雎
+jdoea 蚧 骱 界
+jdoee 具
+jdoei 睑
+jdoeu 囧
+jdoia 峤
+jdouu 虮 见
+jduai 囝
+jduee 峻 矍
+jduia 崛
+jduie 赆
+jduii 崌
+jduoe 岌
+jeaui 肩 扃
+jeeai 裥
+jeeia 褯
+jeeoo 谫
+jeiaa 计
+jeiae 谏 襟
+jeiai 诘 谨
+jeiia 讲 讦
+jeiua 诫 军
+jeiuu 讵
+jeoei 袷
+jeoeu 衿
+jeouu 讥
+jeuei 谲
+jeuie 祲 诀
+jeuii 裾
+jeuiu 记
+jeuoe 皲
+jfaai 槛
+jfaie 椒
+jfaue 冀
+jfaui 龃 楫
+jfauu 枧
+jfeea 榉
+jfeee 杰
+jfeie 校
+jfeue 遽
+jfiai 槿 桔
+jfiie 禁
+jfiii 韭
+jfioe 橛
+jfiue 柩
+jfiui 楷
+jfiuu 柜
+jfoai 桕
+jfoei 检
+jfoua 檞 桷
+jfoui 枸
+jfouu 机
+jfuei 橘
+jfuie 楗
+jfuii 椐
+jfuoe 极
+jfuoi 枷
+jfuuu 乩
+jgaaa 荆
+jgaue 蕺 菌 茧
+jgaui 苴 莒 藠
+jgeee 蕉
+jgeei 菅 茳
+jgeia 荠
+jgeie 茭 蒺 蒋
+jgeii 蒟 警
+jgeoe 蒹
+jgiae 芰
+jgiee 荚
+jgiii 藉 菁
+jgioe 蕨 尖
+jgioi 荐
+jgiuu 苣
+jgoae 葰 蕉
+jgoea 芥
+jgoei 莶
+jgoie 敬
+jgoua 蓟
+jgoue 菊
+jguaa 节
+jguei 茎
+jguie 荩 葭
+jguii 莙
+jguoe 芨
+jguoi 茄
+jguoo 艽
+jhaie 醵
+jhaue 赍 贾
+jhaui 堇 晋
+jhauu 觐
+jheee 柬
+jhiae 棘
+jhiai 髻 酵 鞯 墼 基
+jhiau 兢
+jhiue 戬 戟
+jhoae 醮 聚
+jhoai 截
+jhoie 教 救 鬏
+jhooa 靳
+jhoue 鞠
+jhoui 鞫
+jhuaa 鄄
+jhuie 鞬 嘏
+jiaai 鲣
+jiaoe 系
+jiaue 飓
+jiaui 咎 狷 句 狙
+jieee 久
+jieia 鲚
+jieie 饺 狡 鲛 鲸
+jieiu 獍
+jieoe 灸
+jieue 急
+jiiae 桀
+jiiai 馑 豇 鲒
+jiiie 祭 饯
+jiioe 獗
+jiioi 觭
+jioua 角
+jiouu 饥
+jiuee 馂
+jiuia 鲫
+jiuie 觖
+jiuii 鲪
+jiuiu 鱾
+jiuoa 解
+jiuuu 几
+jjaue 攫
+jjaui 捐
+jjauu 揭
+jjeee 夹
+jjeeu 搅
+jjeia 挤 霁
+jjeii 接
+jjeoe 搛
+jjiae 技
+jjiai 拮
+jjiee 挟
+jjioe 撅 颊
+jjioi 掎
+jjiue 捷 拣
+jjiui 拒
+jjoei 捡
+jjoia 挢
+jjoie 揪
+jjoue 掬
+jjoui 拘
+jjuia 掘
+jjuie 抉
+jjuii 捃 据
+jkaaa 车
+jkaui 晶 辑
+jkeie 较 景
+jkeoe 炅
+jkiae 暕
+jkioa 戒
+jkoai 皆
+jkoia 轿
+jkooa 匠
+jkuee 晙
+jkuii 巨
+jlaaa 井 击
+jlaue 璟
+jlauu 靓
+jleea 斠
+jleee 戋
+jleue 进 恝
+jliai 瑾 瑨
+jliie 琎 珏
+jliii 耩
+jloua 静
+jloue 玖
+jlouu 玑
+jluaa 击
+jluia 珒
+jluie 玦
+jluii 琚 珺
+jluoi 珈
+jmaaa 劂 丌 剞
+jmauu 碣
+jmeoe 厥
+jmiai 殣 礓 奇
+jmioi 碱
+jmiue 戛
+jmiuu 奆
+jmoae 礁
+jmoei 硷
+jmoia 歼
+jmouu 矶
+jmuai 殛
+jmuie 砄
+jmuiu 厩
+jnaui 娟 加 姐
+jneee 及 嫁
+jneie 嫉 袈 姣
+jneue 迦
+jniae 架 妓
+jniai 姞
+jniia 奸
+jniii 婧
+jniua 姬
+jniue 婕
+jnoeu 妗
+jnoia 娇
+jnooo 九
+jnoui 鸠
+jnuui 驾
+joaue 犋 积 稷
+joauu 笕
+joeai 简
+joeee 稼
+joeoa 箭
+joiae 箕 榘
+joiai 秸 筠
+joiia 笄
+joiie 笺
+joiii 籍
+joioa 嵇
+joioi 犄 稽
+joiuu 矩
+jooia 矫
+jooue 穄
+joouo 筋
+jouai 季
+jouie 毽 犍
+jouoe 笈
+jouoi 笳
+jpaaa 斤
+jpaua 胛
+jpauu 舰
+jpeie 胶
+jpeue 近
+jpiaa 脚 街
+jpiia 肼
+jpiii 腈
+jpoae 徼
+jpouu 肌
+jpuei 径 胫
+jpuie 膙 腱
+jpuii 腒
+jqaui 间
+jqouu 阄
+jraaa 剂
+jraii 齑
+jraoe 京
+jraue 浆 京
+jraui 脊 疽
+jrauu 竞 竭
+jreii 瘠
+jreue 迹
+jriae 桨
+jriai 廑 酱
+jriii 靖
+jrioe 就 奖
+jrioi 减
+jroea 疥
+jroee 交
+jroie 麇 疾
+jroii 旌
+jroua 净
+jroue 疚 将
+jroui 鹫
+jrouu 竟 麂
+jruaa 疖 郊
+jruee 竣
+jruei 痉
+jruie 决 瘕
+jruoi 痂
+jsaaa 剑
+jsaue 俱
+jsauu 偈
+jseee 焦
+jseie 佼 倞 僦
+jseou 倦
+jseui 傕
+jseuu 今
+jsiae 伎 儆 集
+jsiai 僵 佶 借 佳
+jsiui 僭
+jsiuu 侥
+jsoaa 介
+jsoae 僬
+jsoea 价
+jsoei 俭
+jsoia 件 牮
+jsoui 鹪
+jsuee 俊 仅
+jsuia 倔
+jsuie 假 健
+jsuii 倨
+jsuoe 伋
+jsuoi 伽
+jsuoo 隽
+jtaue 蠲
+jtaui 炯 眷
+jtauu 羯
+jteee 煎
+jtiae 桊 粳
+jtiii 精
+jtiue 兼
+jtiuu 炬
+jtoee 爝
+jtoui 鹣
+jtuee 焌
+jtuei 翦
+jtuie 烬 糨 兼
+jtuii 焗
+jtuoi 姜
+jtuoo 剪
+jtuuu 卷
+juaue 爵
+juaui 趄 吉
+jueiu 境
+jueoi 嘉
+juioe 颉
+juoai 垍
+juoui 均
+juuaa 赳
+juuie 爵
+juuoe 圾
+juuoi 嘉
+juuoo 劫
+jvaaa 剿
+jvaie 骥
+jvaue 畿
+jvaui 缉 绢
+jveie 绞
+jveoe 缣
+jveou 继
+jviai 缰 结 缙
+jviie 绩
+jvioi 骑 缄
+jvoae 缴
+jvoei 给
+jvoia 骄
+jvoua 绛
+jvoui 驹
+jvouu 绝
+jvuaa 纠
+jvuee 骏
+jvuei 经
+jvuiu 纪
+jvuoe 级
+jwaie 寂
+jwaue 蹇 憬 惧
+jwauu 觉
+jweie 恔 惊
+jweii 謇
+jweoi 窭
+jwiia 举
+jwioe 家
+jwioi 寄
+jwiua 悈
+jwoii 窖 悸
+jwuii 窘
+jwuoe 忣
+jwuoo 究
+jxaua 岊
+jxeee 孓
+jxiia 阱
+jxiie 际
+jxiii 亟 孑
+jxoea 阶
+jxoua 降
+jxuuu 卺
+jyaua 钾
+jyauo 舅
+jyeai 锏
+jyeee 镓
+jyeie 铰 皎
+jyeiu 镜
+jyeou 锩
+jyiee 铗
+jyiii 金 臼
+jyioe 镢
+jyiuu 钜
+jyoaa 锦
+jyoae 皦
+jyoao 镌
+jyoee 皭
+jyoie 敫
+jyoui 钧
+jyuie 键
+jyuii 锔 锯
+kaaie 咔
+kaaii 啃
+kaaui 喟
+kaeei 喀
+kaeie 咳
+kaeiu 吭
+kaiai 跬 呵 嗑
+kaiia 哢
+kaiii 口
+kaioe 哭
+kaioi 喹
+kaiou 跨
+kaiui 哐
+kaoee 哙
+kaoiu 趷
+kaoui 咯
+kauaa 叩
+kauoi 咖
+kbeue 恳
+kbiai 垦
+kbuoo 尻
+kcaue 溃
+kcauu 渴
+kciai 溘
+kciui 洭
+kcoee 浍
+kdaaa 剀
+kdaoi 岿
+kdaue 髁
+kdauo 圐
+kdauu 贶
+kdeei 崆
+kdeeu 髋
+kdiae 嵌 崁 困
+kdiai 骷 瞌 蚵 岢
+kdioe 颗
+kdioi 蝰
+kdiue 眍
+kdiui 眶
+kdoia 蝌
+kdoii 蛞
+kdouu 凯
+kduee 睽
+kduie 瞰
+keaue 课
+keeia 裤
+keeua 裈
+keiai 诃
+keiui 诓
+keoui 诳
+keuie 裉
+kfaai 槛
+kfaee 卡
+kfaue 棵
+kfaui 肯
+kfeee 卡
+kfiai 枯 柯
+kfiau 栲
+kfiui 框 楷
+kfoaa 櫆
+kfoii 栝
+kfuie 龈
+kgaaa 蒯
+kgaue 蒉
+kgeee 蔻
+kgiae 莰
+kgiai 苛 苦
+kgiui 蒈
+kguau 芤
+kguee 葵
+khaaa 剋
+khaue 聩
+khaui 可
+khauu 克 醌
+kheue 恐
+khiae 尅
+khiou 髡
+khiue 戡
+khiuu 考
+khoii 酷
+khuoo 勘
+kiaue 馈
+kiauu 鲲
+kieoi 馗
+kiiii 狂
+kioee 狯
+kjaue 捆
+kjaui 扣
+kjeei 控
+kjeio 扩
+kjeiu 抗
+kjiai 扛
+kjiau 拷
+kjiou 挎
+kjiue 抠
+kjiui 揩
+kjoii 括
+kjuee 揆
+kkaue 匮
+kkeio 旷
+kkiai 轲
+kkiii 匡
+kkiuu 昆
+kkoei 匼
+kkoui 鹍
+kkuee 暌
+klaaa 刊 开
+klauu 琨
+kliai 珂
+kluuu 亏
+kmaaa 刳
+kmaui 盔
+kmeio 矿
+kmiai 矼 砢 磕 奎
+kmiao 磡
+kmiiu 夸
+kmoaa 夼
+kmoiu 矻
+kmoue 砍
+kmuie 硍
+kneoi 馗
+koaii 靠
+koaue 篑 稞
+koaui 看
+koeea 科
+koeee 筷
+koeei 箜
+koeii 犒
+koiai 筘
+koiau 氪
+koiui 筐
+kpaie 胩
+kpiou 胯
+kpoee 脍
+kqaue 阃
+kqauu 闿
+kqeei 阔
+kqeiu 闶
+kquie 阚
+kraaa 刻
+krauu 况
+kreia 廓
+kriai 堃 疴
+kriie 廒
+krioe 颏
+kriua 库
+kroui 竘
+krouu 亢
+kruaa 邝
+kruie 康
+ksaie 佧
+ksauu 侃
+kseei 倥
+kseiu 伉
+ksiie 会
+ksioe 龛
+ksiou 侉
+ksoae 傀
+ksoee 侩
+ksuaa 郐
+ktauu 焜
+kteie 糠
+kteii 熇
+kteiu 炕
+ktiai 炣
+ktiau 烤
+ktioi 煃
+ktoae 夔
+ktoea 炌
+kuaua 坤
+kuauu 垲
+kueei 埪
+kueio 圹
+kueiu 坑
+kueue 逵
+kuiai 坷 壸
+kuiao 墈
+kuiau 堪
+kuiou 垮
+kuoue 坎 款
+kuouu 壳
+kuuia 堀
+kuuie 块
+kuuuo 坳
+kvaue 骒
+kveio 纩
+kviaa 缂
+kviou 绔
+kwaue 悃 愦 窠
+kwaui 悝
+kwauu 恺
+kweie 慷
+kwiai 空
+kwiau 宽
+kwiie 寇
+kwiiu 窥
+kwiua 悈
+kwoae 愧
+kwoii 喾
+kwoiu 忾
+kwoui 客 恪
+kwuia 窟
+kwuie 快
+kwuiu 慨
+kxiai 牁
+kxoae 隗
+kxuuu 孔
+kyaai 铿
+kyaue 锞
+kyauu 铠 锟
+kyeaa 锎
+kyeea 魁
+kyeiu 钪
+kyiai 钶
+kyiau 铐
+kyiui 锴
+laaue 啰
+laaui 吕 哩
+laauu 览
+laeoi 喽
+laeua 啷
+laeue 唳 踉
+laiaa 喇
+laiae 啉
+laiai 躏 啦
+laiao 唠 嘞
+laiia 哢
+laioa 咧
+laioe 嘹 咙
+laioi 喱
+laioo 呖
+laoee 呤
+laoii 临
+laoue 跞
+laoui 噜 蹓 咯 路 鹭
+lauoo 另 叻
+lauuu 躐
+lbaee 录
+lbeee 隶
+lbeoe 灵
+lbeoi 屡
+lbeue 逯
+lbooe 履
+lcaai 滥
+lcaie 滤
+lcaio 泸
+lcaue 漯
+lcaui 澧 泪 潞
+lceae 澜
+lceia 浏
+lceie 漓 滦 濂
+lceiu 漉 流
+lceoe 粱
+lceoi 溇
+lceue 浪
+lciae 濑 溧 梁 淋
+lciai 垒 漤
+lciao 涝
+lciee 涞
+lcioa 洌
+lcioe 泷 潦
+lcioo 沥
+lciue 戮 涟
+lcoee 潋 泠
+lcoei 鎏
+lcoeu 沦
+lcoia 浰
+lcoue 泺
+lcoui 鹨 澛 溜 洛
+lcuai 漋
+lcuao 泐
+lcuie 漏 渌
+lcuoo 勠
+ldaue 螺
+ldeei 罹
+ldeie 蠊
+ldeii 詈
+ldeoa 嶙 瞵
+ldeoi 嵝 髅 蝼
+ldeua 螂
+ldeue 逻
+ldiaa 罱 蝲
+ldiae 崚
+ldiai 蜡
+ldiao 崂
+ldiee 崃 睐
+ldiii 里
+ldioe 瞭 眬
+ldioo 蛎
+ldoee 蛉 囹 岭
+ldoeu 囵
+ldoia 蜊
+ldoue 岚 罗
+ldoui 赂 罶 略
+ldueo 髎
+lduue 累
+leaai 褴
+leaue 裸
+leeae 谰
+leeee 良
+leeie 谅
+leeoi 褛
+leiae 祾
+leiie 诔
+leioe 戾
+leiue 裢
+leoei 裣
+leoeu 论
+leoui 朗
+leuaa 郎
+leuie 禄
+leuuu 礼
+lfaau 榄
+lfaio 栌
+lfaue 椤 卤
+lfaui 梠
+lfauo 楞
+lfeai 榈
+lfeie 椋 檩
+lfeiu 麓
+lfeoi 楼 栏
+lfeua 榔
+lfeue 虑
+lfiae 楝 林 棱
+lfiau 栳
+lfiei 檑
+lfiii 卤
+lfioe 栊 橑 颅
+lfioo 枥
+lfiue 梿
+lfoee 柃 龄
+lfoua 柳
+lfoue 栎
+lfoui 橹 鸬 榴
+lfuai 李
+lfuie 棂
+lfuio 卢
+lfuoi 婪
+lfuoo 虏
+lgaai 蓝
+lgaue 萝
+lgaui 蕗
+lgeai 蔺
+lgeee 蒗
+lgeei 落
+lgeie 蓠
+lgeoi 蒌
+lgeue 莨
+lgeui 蓢
+lgeuo 芦
+lgiae 菱
+lgiee 莱
+lgiei 蕾
+lgioe 茏
+lgioo 苈
+lgiue 莲
+lgoai 莅
+lgoee 蔹 苓
+lgoia 荦 莉
+lgoie 藜
+lgooa 葎
+lgueo 蓼
+lguie 菉
+lguoo 荔 劳 劣
+lhaaa 剌
+lhaui 醴
+lheee 两 吏
+lheie 醨
+lheoe 联
+lhiae 栗
+lhoee 酹 聆
+lhoua 聊
+lhoue 赖
+lhoui 酪
+lhouu 老
+lhueo 醪
+lhuoo 勒
+lhuuu 鬣
+liaio 鲈
+liaua 鬲
+liaue 猡 丽
+liaui 狸 鲤 鳢 留 鲁
+lieee 乐
+lieoa 鳞
+lieue 遛 逦 狼
+liiae 鲮 鲡
+liiai 猎
+liiao 鳓
+liioe 獠
+liiue 鲢
+lioai 雒
+lioia 猁
+lioui 馏 鹠 饹 鹂
+liuaa 郦
+liuae 卵
+ljaau 揽
+ljaio 掳
+ljaue 摞 赉
+ljaui 撂 雷 露
+ljeee 来
+ljeie 掠
+ljeii 拉
+ljeoi 搂 拦
+ljeue 捩
+ljiae 霖
+ljiao 捞
+ljiei 擂
+ljioe 拢 撩
+ljioo 雳
+ljoee 捋 零 拎
+ljoeu 抡
+ljoui 撸
+ljuaa 酃
+lkaio 轳
+lkaui 量
+lkeie 辌 晾
+lkeiu 辘
+lkeoa 辚
+lkeue 连
+lkiae 辆 暕
+lkioe 昽
+lkoeu 轮
+lkoue 轹
+lkoui 辂
+lkuoo 旯
+llaui 理 璐
+llauu 靓
+lleee 耒
+lleie 璃
+lleiu 琉
+lleoa 璘
+lleoi 耧
+lleue 琅
+lliae 瑓 琳
+lliao 耢
+llioa 弄
+llioe 珑
+llioi 嫠
+lliue 琏
+lloee 玲
+lloia 琍
+lloui 珞
+lluie 琭
+lmaaa 列
+lmaui 厘
+lmeee 烈 龙 尨
+lmeie 裂
+lmeii 砬
+lmeiu 硫
+lmeoa 磷
+lmiai 垄 聋
+lmiei 礌
+lmioi 砻 磊
+lmioo 砺
+lmiue 奁
+lmiuo 厉
+lmoei 殓
+lmoue 砾 尥
+lmoui 鹩 硌
+lmuie 碌
+lmuoo 历 励
+lnaue 嫘
+lnaui 娌
+lniau 姥
+lnioe 嫽
+lnoee 姈
+lnooo 力
+lnueo 嫪
+loaaa 利
+loaai 篮
+loaue 黧 箩
+loaui 稆
+loeie 篱
+loeii 笠
+loeiu 簏
+loeoi 篓
+loeue 稂
+loiae 篥 梨 籁
+loiao 簕
+loioe 笼
+looee 黎
+looia 犁
+looui 氇
+louie 氯 箓
+louuu 乱
+lpaaa 甪
+lpaio 胪 舻
+lpaue 脶
+lpeie 臁
+lpeoa 膦
+lpiai 腊
+lpiee 徕
+lpioe 胧
+lpoee 脟
+lpoei 脸
+lpuia 律
+lpuoo 肋
+lqaui 闾
+lqeue 阆
+lqiae 阑
+lraaa 刘
+lraua 峦
+lraue 羸 蠃 瘰 脔 离
+lraui 膂 吝
+lreae 斓
+lreie 廪 凉 凛
+lreoa 麟
+lreoe 廉
+lreoi 瘘 立
+lreua 廊
+lreue 恋
+lreuo 庐
+lriaa 瘌
+lriae 凌 栾 癞 凓 辣
+lriao 痨
+lriei 癗
+lriii 立
+lrioa 冽
+lrioo 疬
+lriuo 疠
+lriuu 鹿
+lroee 冷 六
+lroei 銮
+lroia 痢 挛
+lroie 旅
+lroiu 旒
+lroue 羸 蠃
+lroui 瘤 鸾
+lrouu 亮
+lruaa 疗
+lruai 孪 癃
+lrueo 廖
+lruoi 娈
+lruua 率
+lsaue 倮 赁
+lsaui 儡 侣 俚
+lseie 倞
+lseoi 偻
+lseue 令
+lsiae 傈 俪 俩
+lsiau 佬
+lsiee 俫
+lsioa 例
+lsioe 僚 领
+lsiue 瓴
+lsoee 伶
+lsoeu 伦
+lsoia 俐
+lsoie 敛
+lsouu 仑
+lsuaa 邻
+lsuei 翎
+lsueo 僇
+lsuoo 仂
+lteea 料
+lteii 粒
+lteoa 燐
+lteoi 烂
+lteue 遴 粮
+lteuo 炉
+ltiii 兰
+ltioe 类 燎
+ltioo 粝
+ltiue 炼
+ltoee 羚
+ltoui 烙 熘
+ltuoi 娄
+ltuuu 粼
+luaio 垆
+luauo 塄
+lueee 墚
+lueii 垃
+luiae 堎
+luioa 趔
+luioe 垅
+luioo 坜
+luoee 埒
+luuia 垏
+luuuu 〇
+lvaau 缆
+lvaue 蠡 缧 骡
+lveie 缡
+lveoi 缕
+lveue 邋
+lveuo 驴
+lviae 绫 骊
+lvioe 缭
+lviue 练
+lvoeu 纶
+lvoui 绺 骝 骆 络
+lvuie 绿
+lwaua 帘
+lwaui 悝
+lwauo 愣
+lweie 懔
+lweue 悢
+lwiae 懒
+lwioe 寮
+lwoee 怜
+lwoia 牢
+lwuai 窿
+lwueo 寥
+lxaaa 了
+lxeue 辽
+lxiae 陵
+lxiau 陋
+lxiia 陆
+lxioe 陇
+lxoui 隆
+lyaue 锣 镙
+lyaui 铝 锂
+lyeae 镧
+lyeie 镰
+lyeiu 锍
+lyeoi 镂
+lyeue 锒
+lyiae 魉
+lyiao 铹
+lyiau 铑
+lyiee 铼
+lyiei 镭
+lyioe 镣
+lyiue 链
+lyoee 铃 锊
+lyoui 镥 镏
+lyuaa 钌
+lyuuu 镴
+maaue 槑 嘿
+maauu 黾
+maeea 嘧
+maeie 嘛
+maeoa 咩
+maeoe 咪
+maiai 喵
+maiie 唛
+maiiu 呒
+maoui 鸣
+mauea 哞
+mauui 吗 骂 呣
+mbeue 愍
+mbiai 弭
+mboue 弥
+mbuuu 民
+mcaoo 矛
+mcaue 蟊 蝥 漫 淼
+mcaui 汨 瞀
+mcauo 渺
+mcauu 渑
+mceoe 洣
+mceue 懑 溟 泌
+mciaa 漭
+mciae 濛 沐 满 漠
+mciau 沔
+mciie 沫
+mcioi 湎
+mcoei 鍪
+mcoia 牟
+mcooo 矛
+mcoua 泖
+mcoue 没
+mcoui 洺
+mcouu 浼
+mcuai 湄
+mcuiu 泯
+mdaoo 眇
+mdaue 幔
+mdaui 帽
+mdeiu 虻
+mdeoe 眯
+mdeue 瞑 螟
+mdiaa 蟒
+mdiae 瞒 螨 蟆 蠓 蠛
+mdiai 睦 墨 瞄
+mdiau 眄
+mdiii 目 皿
+mdioe 默
+mdoiu 眊
+mdoua 峁
+mduai 蜢 茻 嵋
+mduea 蛑 眸
+mduiu 眠 岷
+mduui 蚂
+meaua 幂
+meaue 谩 冥
+meeoe 谜
+meeue 祕
+meeui 谧
+meiae 谟 谋
+meoue 祢
+meueo 谬
+meuie 袂
+meuui 祃
+mfaaa 芈
+mfaoo 杪
+mfeee 木
+mfeeu 椀
+mfeiu 杧
+mfeue 懋
+mfiae 模 檬
+mfoaa 棉
+mfoie 梅 枚
+mfoue 梦
+mfuai 楣
+mfuui 杩
+mgaee 慕
+mgaoe 慕
+mgaua 幕
+mgaue 蔓 蔑 蓂 莫
+mgaui 暮 苜 瞢 萌 苗
+mgeeu 茫
+mgeia 藦
+mgeii 蘼 蘑
+mgeiu 芒
+mgiai 墓
+mgiie 蒙 茉
+mgioa 莽
+mgioe 颟 茂
+mgiue 甍
+mgoeu 藐
+mgoia 摹
+mgoie 莓
+mgoua 茆
+mgoui 鹋 茗
+mguee 荬
+mgueo 茅
+mguiu 苠
+mguoo 募
+mguui 蓦
+mheie 醾
+mheoe 醚
+mhiae 某
+mhiie 靺
+mhoie 酶
+mhoiu 耄 髦
+mhoui 酩
+mhouu 鞔
+mhuee 卖
+mhuuu 丏
+miaue 贸 鳗 馒
+miaui 名
+miauu 免
+mieee 么
+mieoe 灭
+miiae 獴 馍
+miiai 猫
+miuaa 卯
+miuai 猸 猛
+miuie 猕
+miuoo 勉
+miuui 犸
+mjeau 扪
+mjiae 摸
+mjiai 描
+mjiie 抹
+mjoei 霾
+mjoie 霉
+mjuiu 抿
+mjuue 拇
+mkaue 曼
+mkaui 盟 冒
+mkeie 旻
+mkeue 迈 暝
+mkiie 昧
+mkooo 万
+mkoua 昴
+mkoui 明
+mkouu 冕
+mkuoo 劢
+mlaui 瑁
+mleee 末
+mleie 玟
+mleii 耱
+mloie 玫
+mloue 麦
+mluiu 珉
+mluui 玛
+mmaui 面
+mmeee 尨
+mmiae 礞
+mmiau 硭
+mmoue 殁
+mmoui 碈
+mmuoo 勔
+mmuui 码
+mnaoo 妙
+mnaue 嫚
+mneie 嬷
+mneoe 媄
+mniae 嫫 媒
+mniau 姥
+mniie 妹
+mnouu 娩
+mnuai 媚
+mnuue 姆
+mnuui 妈
+moaoo 秒
+moaue 篾
+moeiu 牤
+moeue 秘
+moiai 牡
+moiie 秣
+mooao 穆
+mooie 敏 牧
+mooiu 牦
+mooui 鳘
+mouea 毪
+mouue 每
+mouuu 毛
+mpeoe 脒
+mpeue 脉
+mpiae 朦 膜 艨
+mpioi 腼
+mpuai 艋
+mqaue 闽
+mqeie 闵
+mqeue 闷
+mquuu 门
+mraii 靡
+mraue 蛮
+mraui 盲 亩 庙
+mreoe 糜 麋
+mriae 麻 瘼
+mrioi 磨
+mroae 魔
+mroia 摩
+mroiu 旄
+mroue 麽
+mruaa 邙
+mruee 袤
+mruiu 氓
+mruue 縻
+msaua 命
+mseau 们
+msioi 偭
+msoue 仫
+msuea 侔
+mtaue 熳
+mteae 焖
+mteee 米
+mteue 迷
+mtiae 煤
+mtioe 美
+mtoie 敉
+muaue 墁
+muaui 埋
+muauu 觅
+mueee 买
+mueue 邈
+muiae 貘
+muioi 貊
+muoau 貌
+muuue 坶
+mvaoe 糸
+mvaue 缦
+mvauo 缈
+mveee 母
+mviii 马
+mvioi 缅
+mvoaa 绵
+mvueo 缪
+mvuii 缗
+mvuuu 乜
+mwaua 密
+mwaue 慢 蜜
+mweae 悯
+mweiu 忙
+mweue 宓
+mwiae 寞
+mwiai 懵
+mwioi 愐
+mwoui 惛
+mwuae 寐
+mxaui 孟 眉
+mxioi 陌
+mxoui 鹛
+mxuaa 郿
+mxuai 孖
+mxuoo 勐
+myaue 镘
+myaui 钼
+myeau 钔
+myeoe 镁
+myiae 镆
+myiai 锚
+myiau 铓
+myiie 魅
+myoua 铆
+myoui 铭
+myuai 锰 镅
+naaia 啮
+naaue 呐 嗯
+naeea 咛
+naeue 哝
+naiaa 喃
+naiae 囔 嗫 蹑
+naiai 喏
+nauia 哪
+nauiu 呢
+nauoe 呶
+nbaue 尿
+nbouu 尼
+nbuaa 那
+ncaia 淖
+ncaui 涅
+nceea 泞
+nceie 瀼
+nceue 浓
+ncoai 难
+ncouu 能
+ncuii 溺
+ncuiu 泥
+ndeee 内
+ndiaa 蝻
+ndiuu 蛲
+ndoau 睨
+nduoi 囡
+nduoo 男 嬲
+neaue 讷 衲
+neeee 农
+neiai 诺
+neoue 祢
+nfeea 柠
+nfiaa 楠
+nfiie 柰
+nfiui 虐
+nfuai 杻
+ngeea 苧
+ngeoe 糵
+ngiaa 萳
+ngiae 蔫 蘖
+ngioe 萘
+ngoae 糵 蘖
+ngoai 孽
+ngoee 苶
+ngoue 薿
+ngoui 茑
+nguai 孽
+nguoo 艿
+nhaua 南
+nhaue 囊
+nheea 聍
+nheue 酿 迺
+nhiie 囊
+nhiii 廿
+nhioe 颞
+nhuee 聂
+niaii 鲇
+nieea 狞
+nieie 袅
+niiae 馕
+niiii 鸟
+nioau 猊 鲵
+nioee 鲶
+nioei 馁
+niuai 狃
+niuee 猱
+njaii 拈
+njaui 捏
+njeea 拧
+njiae 攮
+njiia 撵
+njioe 捺
+njiuu 挠
+njoau 霓
+njoee 捻
+njoei 挼
+njuai 扭
+njuee 拟
+njuia 挪
+njuii 搦
+njuuo 拗
+nkeie 曩
+nkiai 匿
+nkoee 暖
+nkuiu 昵
+nlioa 弄
+nlioe 耨
+nliua 辇
+nluui 瑙
+nmeue 恧
+nmiae 耐
+nmiie 奈
+nmoae 硇
+nmooo 耏
+nmuie 碾
+nmuoi 孬
+nnaue 胬
+nnauu 鼐
+nneue 娘 怒
+nniae 嫩
+nniii 女
+nnooo 乃
+nnoue 妳
+nnuai 孥 妞
+nnuee 奴
+nnuia 娜
+nnuiu 妮 弩
+nnuoo 奶 努
+nnuui 驽
+noaaa 牛 年
+noaii 黏
+noeue 秾
+noiaa 年
+nouoe 笯
+nouoo 氖
+npaue 肭
+npeia 脑
+npeue 脓
+npiaa 腩
+npiea 臑
+npiue 腻
+npuie 脲
+nqeia 闹
+nriui 疟
+nroiu 旎
+nroue 凝
+nseue 恁 念 您 侬
+nsiai 佴
+nsiii 佞
+nsioe 傉
+nsoau 倪
+nsoia 拿
+nsoue 你
+nsuei 傩
+nsuiu 伲
+ntaii 粘
+nteue 逆
+ntiea 糯
+nueia 垴
+nuioe 堧
+nuoee 埝
+nuuae 赧
+nuuiu 坭
+nvaue 纳
+nvuai 纽
+nvuuu 乜
+nwaua 甯
+nweia 恼
+nwiaa 宁
+nwiea 懦
+nwuai 忸
+nwuiu 怩
+nxaui 陧
+nxuue 乸
+nyaue 钠
+nyiae 臬 齉 镊
+nyiai 锘
+nyiuu 铙
+nyoae 镍
+nyoea 镎
+nyuai 钮 衄
+nyuiu 铌
+nyuoi 钕
+paaae 蹼 噗
+paaui 品
+paeua 蹁
+paiae 嘌 蹒 喷
+paiai 啪
+paiao 嘭
+paioi 呸
+paiuu 吡
+paoaa 啤
+paoee 趴
+paooe 哌
+paouu 跑 咆
+pauia 噼
+pbeia 辟
+pbeii 譬
+pbeoa 屏
+pbiue 甓
+pbiuu 屁
+pboui 弸
+pbuoo 劈
+pcaua 淠
+pcaue 瀑
+pceio 滂
+pceoa 洴 泮
+pceoi 潽
+pciaa 沛
+pciae 溥 漂 浦
+pciao 澎
+pciea 泙
+pciiu 潖
+pcoae 濮
+pcoai 泊
+pcoei 湓 潘
+pcoia 湃
+pcooe 派
+pcoui 淜
+pcouu 泡
+pcuia 澼
+pcuoe 泼
+pcuoi 婆
+pdeee 罴
+pdeii 赔
+pdeio 髈 螃
+pdeoa 畔 帡
+pdiae 罴 螵 瞟 圃
+pdiao 蟛
+pdiea 蚲
+pdiuu 蚍 毗
+pdoaa 蜱 睥
+pdoai 帕
+pdoei 蟠
+pdoeo 盼
+pduoe 帔
+peaua 扁
+peeio 房
+peeoa 袢
+peeoi 谱
+peeua 谝
+peiaa 襻
+peiea 评
+peoaa 裨
+peouu 袍
+peuei 翩
+pfaee 朴
+pfaui 榀
+pfeie 裴
+pfeii 棓
+pfeoi 椪
+pfiea 枰
+pfioa 攀
+pfioe 频
+pfiuu 枇
+pfoaa 颦
+pfoae 楩
+pfoui 棚
+pfuau 杷
+pfuee 攴
+pgeea 萍
+pgeee 蒲 蒎
+pgeie 藨
+pgeii 菩
+pgeoa 荓
+pgiae 蒱 莆
+pgiea 苹
+pgioi 苤
+pgiuu 芘
+pgoau 葩
+pgoei 莩
+pgoue 芃 蓬 葡
+phaaa 剽
+phauu 聘
+pheii 醅
+phiae 酺
+phiie 票
+phooe 瓢
+phoue 飘
+phuiu 配
+piaaa 刨
+pieio 鳑
+pieue 逄
+piiae 匍
+piiea 鲆
+piioi 狉
+piouu 狍
+pjaaa 平
+pjaee 扑
+pjaii 排
+pjeea 霈
+pjeii 掊
+pjeio 搒
+pjeoa 拼
+pjeoe 撇
+pjiea 抨
+pjiia 捧
+pjioe 抔
+pjiuo 雱
+pjiuu 批
+pjoai 拍
+pjoee 扒
+pjuea 拚
+pjuia 擗 霹
+pjuoe 披
+pjuoo 抛
+pkaue 曝
+pkaui 叵
+pkiae 暴
+pkouu 匹
+plaae 璞
+pleio 耪
+pliea 玶
+pliuu 琵
+ploai 珀
+ploua 珮
+pluau 琶 耙
+pmaui 否
+pmeio 磅
+pmeoi 碰
+pmiea 砰
+pmiii 丕
+pmiuu 砒
+pmoei 殍
+pmoui 硼
+pmouu 匏
+pmuaa 邳
+pmuoe 破
+pnauu 娉
+pneee 嫔 皮
+pneoa 姘
+pniae 嫖
+pnioe 颇
+pnoau 媲
+pnuee 皮
+pnuiu 妃
+poaae 穙
+poeoi 氆
+poeua 篇 犏
+poiai 馞
+poiau 筢
+poiui 笸
+poooo 氕
+pooue 篷
+poouu 牝
+pouue 繁
+ppaii 徘
+ppaui 盘
+ppeio 膀 彷
+ppeoa 胖 胼
+ppiae 脯 槃
+ppiao 膨
+ppioi 胚 磐
+ppoaa 脾
+ppoei 脬
+ppoui 朋 鹏
+ppuau 爬
+praaa 剖
+preee 烹
+preio 旁
+prioe 庞
+prioi 痞
+proae 裒
+proia 旆
+prouu 庀 疱 庖
+pruia 癖
+pruoe 疲
+pruui 冯
+psaee 仆
+psaii 俳
+psauu 俜
+pseua 偏
+psiae 便
+psiai 堡
+psioi 伾
+psiuu 仳
+psoua 佩
+psouu 凭
+psuia 僻
+ptaaa 判
+ptaui 普 瞥
+ptiue 瓶
+ptoai 粕
+ptooe 叛
+ptouu 炮
+puaue 贫
+puaui 盆 番
+pueii 培
+puiae 埔
+puiea 坪
+puioi 嚭 坯
+puoaa 埤 鼙
+puoau 貔
+puoei 垺
+puooo 彭
+puoui 堋
+puuaa 鄱
+puuiu 圮
+puuoe 坡
+pvaui 辔
+pveoa 骈
+pveua 骗
+pviae 缥 骠
+pviuu 纰
+pvoae 缏
+pwiea 怦
+pwoai 怕
+pxeee 疋
+pxeii 陪
+pxoaa 陴
+pxooo 爿
+pxuoe 陂
+pyaae 镤
+pyaee 钋
+pyeee 乓
+pyeii 锫
+pyeoi 镨
+pyeue 迫 牖
+pyiae 铺
+pyioe 衃
+pyiui 钷
+pyoaa 牌
+pyoae 魄
+pyoai 皛
+pyoei 皤
+pyooo 乒
+pyuaa 郫
+pyuoe 铍
+pyuuu 片
+qaeue 吣
+qaiae 跂
+qaiai 咭
+qaiie 嗪
+qaioe 嘁
+qaioi 踦 器
+qaiuu 跷
+qaoee 蹊 噙
+qaoeu 跄 呛
+qaoii 蹻
+qbaue 强
+qbeoa 群
+qbuaa 屈
+qcaue 泅
+qcaui 呇
+qceii 泣
+qceiu 巯
+qceue 沁 逡
+qciae 渠 淇 柒 漆
+qciie 溱 浅
+qciii 清 潜
+qciuo 沏
+qcoei 洽
+qcoie 湫
+qcoiu 汽 汔
+qcouu 氿
+qcuoo 劝
+qdaei 峭
+qdaue 蠼
+qdaui 蛆 蛐
+qdeei 髂
+qdeia 蛴
+qdeie 黥
+qdeoi 蝤
+qdeou 蜣 圈 蜷
+qdeue 遣
+qdiae 岐 蜞 赇 嵌
+qdiai 畦
+qdiia 岍
+qdiie 螓
+qdiii 蜻 圊 曲 且
+qdioe 畎
+qdioi 崎
+qdiue 岖
+qdoae 瞧
+qdoai 蚯 瞿
+qdoee 囚
+qdoeu 黔
+qdoia 峤
+qdoie 囷
+qdoiu 氍
+qduee 黢
+qduiu 岂 屺
+qduuu 虬
+qeaei 诮
+qeaue 谴
+qeaui 启
+qeeei 隺
+qeeoe 谦
+qeiae 棨 祛 祺
+qeiii 请
+qeoae 谯
+qeoei 袷 诠
+qeoiu 讫
+qeooa 祈
+qeouu 祇
+qeuaa 诎 祁
+qeuie 襁
+qeuii 裙
+qeuue 綮
+qfaee 卡
+qfauu 觑 桤
+qfeie 虔
+qfeou 棬
+qfeui 榷
+qfiae 棋 歧
+qfiai 栖 樯
+qfioe 槭
+qfoae 龋 樵
+qfoee 檎
+qfoeu 枪
+qfoia 杄 桥
+qfoie 楸
+qfoiu 橇
+qfuee 权
+qfuiu 杞
+qgaie 蘧
+qgaui 苘 葺
+qgeee 蕖
+qgeia 荠
+qgeoa 蕲
+qgiae 萁 檠
+qgiai 茜 蔷
+qgiie 葜
+qgioe 颧
+qgioi 葴
+qgiui 萋
+qgiuu 苣
+qgoai 雀
+qgoei 荃
+qgoeu 芩
+qgoia 芊 荞 擎
+qgoie 萩
+qgooa 芹
+qgoue 芡
+qgouu 芪
+qguia 茕
+qguie 荨
+qguiu 芑
+qguoi 茄
+qhaei 鞘
+qhaua 覃
+qhaue 蛩 跫
+qhaui 耆
+qheee 其 求
+qheie 裘
+qheou 鬈
+qheue 逑
+qhiai 醛
+qhioi 碁
+qhiuu 巧
+qhoee 其
+qhoei 銎
+qhoia 鞒
+qhoiu 乾
+qhoue 麴 欺
+qhoui 鹊 期
+qhuaa 邛
+qhuee 取
+qhuoi 娶
+qhuoo 勤
+qhuue 綦
+qieee 欠
+qieii 訄
+qiiae 鲯
+qiiai 鳍
+qiiii 鲭
+qiioi 觭
+qioae 鳈
+qioee 欠
+qioie 鳅
+qioui 鸲
+qiuia 卿
+qiuoo 劬 犰
+qjaie 拤
+qjeui 掮
+qjoee 擒
+qjoeu 抢
+qjoia 扦
+qjoie 揿
+qjoiu 撬
+qjoui 掐
+qkeee 炁
+qkiae 椠
+qkiai 堑
+qkiii 晴
+qkioe 顷
+qkoee 区
+qkoei 辁
+qkuei 翘 轻
+qkuoi 妻
+qkuoo 切
+qkuuu 七
+qlaaa 亓
+qlaie 璩
+qlaui 青
+qleie 琼
+qliae 球 琪
+qlioe 契
+qlioi 琦
+qloae 瑔 亓
+qloeu 玱 琴
+qloia 挈
+qloie 秦
+qloue 麹
+qlueo 璆
+qluiu 玘
+qmaie 戚
+qmeee 犬 磲
+qmiai 奇 矼
+qmiie 碛
+qmiuo 砌
+qmiuu 硗
+qmoia 牵 硚
+qmoua 确
+qmoue 磜 欹
+qneou 婘
+qniai 嫱
+qnioi 婍
+qnoee 孅
+qoaaa 千
+qoeoe 秋
+qoeue 迄 憩 迁
+qoiaa 筇
+qoiai 箝
+qoiii 氰 箐
+qoioi 稽
+qoiue 箧
+qooaa 乔
+qooei 签 筌
+qooui 鹙
+qouei 氢
+qouie 缺 犍
+qouuu 气 乞
+qpaua 衢
+qpeei 腔
+qpeia 脐
+qpeue 愆
+qpiae 胠
+qpioe 颀
+qpoue 肷
+qpoui 朐
+qqaue 阒
+qqeoe 阙
+qquee 阕
+qraie 敲
+qraui 癯
+qriae 亲 麒
+qriai 廑
+qrioa 弃
+qrioe 庆
+qriue 庼
+qriui 凄
+qroaa 齐
+qroei 痊
+qroie 旗
+qroue 将
+qroui 竘
+qruea 弃
+qruoe 瘸
+qruoi 妾
+qruoo 勍
+qsaaa 劁
+qsaei 俏
+qsaii 企
+qseei 佥
+qseie 禽 衾
+qseui 傕
+qsiae 俅
+qsiii 全 倩
+qsiue 倾 戗
+qsoia 侨 仟
+qsuee 俟
+qsuie 侵
+qsuoi 伽
+qsuoo 仇
+qtaua 前
+qtaui 酋
+qteue 遒
+qtiai 酋
+qtiiu 羌
+qtoae 糗
+qtoeu 炝
+qtoia 拳
+qtoue 歉
+qtuee 焌
+qtuei 羟
+qtuie 炔
+qtuoo 券
+qtuuu 羌
+quaui 趄
+queii 謦
+queue 悫
+quiae 趣
+quiai 墙
+quioi 埼 磬
+quoia 罄
+quooa 圻
+quoui 趋
+quouu 壳
+quuaa 却 郄
+quuee 去
+quuiu 起
+qvaue 缲 缱
+qvaui 缉
+qveou 绻
+qviae 骐
+qvioi 骑 绮
+qviue 驱
+qvoia 纤
+qvuie 骎
+qwaai 悭
+qwaei 悄
+qweie 寝 褰
+qweoe 慊
+qwiae 怯
+qwiai 慬 愭
+qwiau 窍
+qwiii 情
+qwiue 惬
+qwiuo 窃
+qwoae 憔
+qwoei 恰
+qwoia 搴
+qwoie 愀
+qwuee 悛
+qwuiu 穹
+qwuoo 穷
+qwuui 骞
+qxiii 亟
+qxiue 戕
+qxoia 阡
+qyaue 泉
+qyeie 锵
+qyiai 钳
+qyiie 钱 锲
+qyiii 锖 丘
+qyiue 躯
+qyoei 铨
+qyoeu 钤
+qyoia 钎
+qyoie 锹
+qyoue 钦
+qyoui 鼩 铅
+qyuaa 邱
+qyuie 锓 镪
+qyuoo 鼽
+qyuuu 钆
+raeie 嚷
+raiai 喏
+raiea 嚅
+rauee 蹂
+rbuii 弱
+rcaue 汭
+rceai 润
+rceei 溶
+rceie 瀼
+rciae 柔 染
+rciea 濡
+rcioe 溽
+rcuee 叒
+rcuoi 汝 洳
+rdaue 蚋
+rdaui 蚺
+rdeee 肉
+rdiae 蝾 嵘
+rdiea 蠕
+rdiii 冉
+reaii 让
+reeie 禳
+reiea 襦
+reioe 褥
+reoee 认
+reoii 衽
+reouu 冗
+reuoe 讱
+rfaue 枘
+rfaui 睿
+rfeei 榕
+rfioi 睿
+rfiuu 桡
+rfuee 叡
+rgaue 芮
+rgaui 苒
+rgeei 蓉
+rgeie 蘘
+rgeue 惹 蕊
+rgiae 荣
+rgiai 茸
+rgiau 葚
+rgiea 薷
+rgioe 蓐
+rgioi 若 蕤
+rgiuu 荛
+rgoai 荏
+rguaa 鄀
+rguii 蒻
+rguoi 茹
+rhaui 髯
+rhuee 鞣
+riaue 融
+rieee 然
+riiuo 狨
+riiuu 饶
+rioii 饪
+rjeee 热
+rjeie 攘
+rjioe 扰 颥
+rjuee 揉
+rjuoo 扔
+rkiii 日
+rkioo 戎
+rkoue 软
+rkuoe 轫
+rlaua 瑞
+rliea 瓀
+rluoe 韧
+rmiae 辱
+rnaui 如
+rneee 刃
+rneue 忍
+rniai 婼
+rniuu 娆
+rnoii 妊
+roeie 穰
+roiai 箬
+roiii 壬
+rooee 稔
+rpiiu 朊
+rpooo 肜
+rqiii 闰
+rrooe 瓤
+rseee 人
+rseie 儴
+rsiai 偌
+rsiea 儒
+rsiii 仁
+rsoii 任
+rsuoe 仞
+rsuoo 仍
+rteei 熔
+rtoue 燃
+rtuee 糅
+rueee 入
+rueie 壤
+ruioe 堧
+ruuuu 乳
+rvaui 驲
+rvioe 缛
+rviuo 绒
+rviuu 绕
+rvuoe 纫
+rwoei 容
+rxiea 孺
+rxiiu 阮
+ryeei 镕
+ryeou 锐
+ryuoi 铷
+saaee 唢
+saaei 哨
+saaii 嘘
+saaua 呻
+saaue 虽
+saaui 肾
+saeei 蹜 噻
+saeie 嗾
+saeii 唼 竖
+saeoi 嗍
+saiaa 嘶 叶
+saiae 嗽 嗦
+saiai 哂 嗜
+saiie 嗉
+saioe 嗄
+saoae 嗖
+saoei 啥
+saoii 噬
+saoui 跚
+sauee 嗓 唆
+saueu 吮
+sauia 唰
+sauii 嗣
+sauui 咝
+sbaaa 刷
+sbaue 尿
+sbaui 司
+sbeee 肃
+sbeoe 屎
+sboae 属
+sbooo 尸
+sbuuu 巳
+scaie 淑
+scaio 涉
+scaoa 浉
+scaoo 沙
+scaua 汕
+scaue 湜
+scaui 濉 湿
+scauu 泗 渑
+sceea 渖
+sceee 水
+sceie 裟
+sceoi 溯
+sceue 深
+sceuu 沈
+sciaa 澌
+sciae 桑 漱 淞 澍 沭 涑 滠 潵
+sciai 潸 圣 洒
+sciii 叁
+scioe 颡
+scioi 叁
+scioo 参
+scoae 溲
+scoia 挲
+scoii 潲
+scoiu 毵
+scooo 参
+scoui 鲨
+scuee 双
+scueo 渗
+scuia 涮
+scuiu 汜
+scuoi 娑 涩
+scuoo 汤
+sdaaa 山 申
+sdaei 蛸
+sdaoa 蛳
+sdeee 史
+sdeeu 蛇
+sdeia 蟀
+sdeii 嵩
+sdeoe 睒
+sdeoi 蟮
+sdeue 思
+sdiae 崧 峙 赎
+sdiai 署 眭 墅
+sdioe 髓
+sdoae 螋 瞍
+sdoai 睢
+sdoea 瞬
+sdoee 赊
+sdoie 嵊
+sdoii 睡
+sdoue 蜀 骰 岁
+sdoui 赡
+sdouu 兕 四
+sduaa 邖
+sduee 睃
+seaua 讪 神
+seaue 识 谡
+seauu 视
+seeia 谇
+seeoa 禅
+seeoe 襚
+seeoi 谥
+seeou 说
+seiae 诗
+seiai 社
+seiui 试
+seoai 谁
+seoee 讼 谂
+seoiu 诜
+seooe 诉
+seooo 衫
+seoue 设
+seuea 诵
+seuei 扇
+seuiu 祀
+sfaei 梢
+sfaue 楒
+sfeee 术
+sfeeo 桫
+sfeia 柿
+sfeiu 梳
+sfeue 述
+sfiae 森
+sfiau 椹
+sfiii 上
+sfiue 枢
+sfoaa 榫
+sfoee 松
+sfoei 栓
+sfooi 楯
+sfooo 杉
+sfoue 杓
+sfoui 栅
+sfuee 梭 树 叔
+sfuoi 柖
+sgaie 菽
+sgaii 苫
+sgaua 帅
+sgaue 莳
+sgaui 薯 省
+sgeeo 莎
+sgeia 莘
+sgeie 蓑
+sgeoe 薮
+sgeoi 蒴
+sgiaa 师
+sgiae 蔌 菘
+sgiai 蓍
+sgiau 葚
+sgiie 蒜
+sgoae 蒐 葰
+sgoei 荽
+sgooo 少
+sgoue 芍 芟
+sguae 荪
+sguao 萨
+sguau 蔬
+sguoe 苏
+sguoi 苕
+shaaa 十 事
+shaei 鞘
+shaue 贳
+shaui 啬
+sheee 束
+sheoe 粟
+sheue 速
+shiae 酾
+shoeu 甚
+shoie 散 酥
+shoii 甦
+shooa 斯
+shoue 靸
+shuee 酸
+shuia 肆
+shuoe 丧
+shuue 索
+shuuu 世 甚
+siaaa 删
+siaoa 狮
+siaue 鳃 鲥 蚀
+sieee 狩 勺 煞
+sieii 鳣
+sieoi 鳝
+siiae 觫 馓
+siioe 夙
+sioae 飕 馊
+sioee 飧
+sioei 猞
+sioia 饰
+sioie 稣
+sioio 觞
+siuae 狲
+siuau 色
+siuee 狻 鳋 殳
+siueo 鲹
+siuii 饲
+siuoe 鲺
+siuuu 甩 氏
+sjaaa 手
+sjaei 捎
+sjaie 摅
+sjaue 损
+sjeia 摔
+sjeii 擅 霎 霅 誓
+sjeoa 掸
+sjeoe 擞
+sjeoi 搠
+sjeue 逝
+sjeui 搧
+sjiaa 撕
+sjiae 摄 揲 撒
+sjiai 霜
+sjiui 拭
+sjoae 搜
+sjoee 授
+sjoei 拴 拾
+sjooa 折
+sjuea 抒
+sjuee 搡 搔
+sjueo 掺
+sjuii 扫
+sjuoo 势
+skaui 曙
+skiae 是 时
+skiai 暑 晒 式
+skioe 晟
+skiui 轼
+skoai 晌
+skoea 输
+skoia 昇
+skouu 匙
+slaee 琐
+slaoe 示 素
+slaua 珅
+slaui 耜
+sleoe 璲
+sleue 瑟
+sliae 寿
+sliii 三
+sloui 珊
+sluue 素
+smaaa 卅
+smaoo 砂
+smaua 砷 厕
+smaue 蜃
+smaui 昚 石 盛
+smeee 豕 奭 戍
+smeia 碎
+smiaa 厮
+smiai 殖 奢
+smioe 硕 厦
+smioi 奭
+smiua 厍
+smoee 爽
+smoie 殊
+smoio 殇
+smouu 死
+smuee 磉
+smuoi 耍
+snaie 婌
+snaui 召
+sneea 婶
+sneii 嬗
+sneue 恕
+sniei 孀
+snioe 娠
+sniuo 娀
+snoae 嫂
+snoie 姝
+snoue 妁
+snoui 姗
+snuaa 邵
+snuee 姒
+snuei 始
+snuoo 劭
+soaaa 升 剩
+soaei 筲 稍
+soaiu 乘
+soaoa 筛
+soaua 算
+soaui 眚 舌
+soauo 甥
+soeee 乘 厶 失 矢
+soeoe 穟
+soeou 税
+soeue 适
+soiae 簌 秫 穗
+soiai 筮 穑
+soiii 生
+sooee 黍
+sooii 笙 牲
+sooue 歃
+soouu 舐
+souee 私
+souia 矧
+souii 笥
+souio 笋
+spaei 艄
+spaua 胂 舢 腨
+spaue 腮 臊
+speii 膻
+speoi 膳 艏
+spoae 艘
+spoea 腧
+spoee 脎
+spoii 胜
+spooa 所
+sqiii 闩
+sqoee 闪
+sraua 疝 市
+sraue 衰
+sraui 商
+sreee 熟 庶
+sreeo 痧
+sriae 凇 竦
+sriai 塾
+sroae 瘦 麝
+sroie 旞
+sroiu 施
+sroue 飒 衰
+sruee 瘙
+srueo 瘆
+sruoe 孰
+sruoi 韶
+sruua 率
+ssaua 伸 俞
+ssaue 赏
+ssaui 畲 尚 售
+sseie 裳
+sseoa 伞
+sseoi 僧
+sseue 食 怂
+ssiaa 隼 什
+ssiae 侍 僳 使
+ssiai 仕 耸
+ssiie 佘 傃
+ssiii 舍 仨
+ssoae 傻
+ssoei 俗
+ssoie 俬
+ssoio 伤
+ssoiu 毹
+ssoue 歙 倏
+ssoui 翛
+ssuaa 鄃
+ssuea 舒
+ssuee 俟 似
+ssuii 伺
+staaa 剡
+staua 单
+staui 善 兽
+steii 熵
+steoe 燧
+steue 遂 送
+steui 煽
+stiae 燊 槊
+stiai 塑
+stioi 炻
+stiuu 烧
+stoai 首
+stoie 数
+stoue 烁
+stoui 朔
+stuaa 鄯
+stuee 羧
+stueo 糁
+suaaa 刹
+suaei 埫
+suaue 螫 埘
+sueii 墒
+sueoi 墡
+suiae 杀 寺
+suiii 士
+suioe 颂
+suiui 弑
+suoae 埏 虱
+suoai 垧
+suoie 赦
+suoua 舜
+suuaa 邿
+suuao 声
+suuea 释
+suuee 受
+suuia 埽
+svaei 绱
+svaoo 纱
+svaua 绅
+svaue 缌 缲 驶
+svauu 驷 绳
+sveee 书
+sveei 缩
+sveoi 缮
+sveui 骟
+sviii 丝
+svoee 绶
+svoei 绥
+svoui 鸶
+svuea 纾
+svuee 骚
+svuie 骕
+svuoi 绍
+svuue 缫
+swaua 审
+swaue 赛
+sweee 实
+sweia 窣
+sweue 邃
+swiae 慎 恃 慑 悚 宋 守
+swiai 塞
+swiie 愫
+swiui 室
+swoai 宿
+swoee 忪
+sxaoe 孙
+sxeiu 疏
+sxeoe 隧
+sxiee 陕
+sxiie 祟
+sxioe 随
+sxioi 隋
+sxoie 收
+syaee 锁
+syaue 锶
+syeia 铈
+syiae 射
+syioe 顺
+syoae 锼
+syoee 铩
+syooo 身 钐
+syoue 铄
+syouu 铯
+syuee 叟
+syueu 鼠
+taaei 蹚
+taaui 蹋 踏
+taauo 踢
+taauu 鼍
+taeeu 跎
+taeia 蹄 啼
+taeoa 啴
+taiae 嚏
+taiai 嗒 吐
+taioe 呔
+taoee 跳 饕
+taoii 唾
+taooa 听
+taooe 跅
+taoua 啕
+tauee 叹 嗵
+tauei 跆
+tauoe 趿
+tauoo 叨
+tbaui 臀
+tbeoa 弹
+tbeue 退
+tbiai 屠
+tbiau 屉
+tbuae 弢
+tcaei 淌
+tcaua 湍
+tcaue 漯 淟
+tcaui 溻 沺 台 沓
+tceei 湉
+tceeu 沱
+tceia 渟
+tceii 溏 潼
+tceoe 炱 烫
+tceoo 涕
+tceue 通
+tciaa 汀 潭
+tciie 添 涛
+tcioe 汰
+tcoee 洮 涂
+tcoei 滔
+tcoua 淘
+tcoui 澹
+tcuaa 邰
+tcuei 滩
+tcuoo 汤
+tdaei 螳
+tdaii 贴 帖
+tdaui 峒
+tdeii 螗 瞳 疃
+tdeou 蜕
+tdiaa 町
+tdiai 同
+tdiao 团
+tdiii 田
+tdioe 炭
+tdiuu 囤
+tdoee 眺
+tdoie 畋 蜓
+tdoue 图 骰
+tdoui 蜩 盷
+teaue 禔
+teaui 袒 褟
+teauo 裼
+teeoe 谈
+teiaa 谭
+teiae 讨
+teoee 祧
+teoiu 讬
+teoui 调
+teuie 褪
+tfaei 樘
+tfaui 桐 榻
+tfeeu 柁
+tfeii 檀
+tfeoo 梯
+tfeue 忐
+tfiie 梼
+tfiii 凸
+tfoee 桃 梌
+tfoie 梃
+tfoii 栝
+tfooe 柝
+tfuai 椭
+tfuea 桶
+tfuoi 龆
+tgaui 萜 茼
+tgeee 葖
+tgeia 葶
+tgeoe 菼
+tgiaa 萚
+tgiai 薹
+tgiue 荑
+tgiui 薹
+tgoee 荼
+tgoie 薙 莛
+tgoua 萄
+tgoue 藤 菟
+tguei 苔
+tguoi 苕
+thaua 覃
+thaue 醍
+thaui 酮
+theeu 酡
+theii 醣
+theue 忑
+thiai 鞳
+thioe 酞 橐
+thoai 髫
+thoee 酴
+thuau 髢
+tiaue 鳀 兔
+tiaui 鲖 鳎
+tieee 兔
+tieeu 鸵
+tieue 逖
+tiiae 条 獭
+tiiuu 饨
+tioiu 饦
+tiooo 彤
+tioue 鲦
+tiuei 鲐
+tiuoo 饧
+tjaue 提
+tjeii 搪
+tjeue 探
+tjiie 掭 抟
+tjioe 挞
+tjioi 拓
+tjoai 推
+tjoee 挑
+tjoie 霆 挺
+tjoiu 拖 托
+tjoua 掏
+tjoue 投
+tjuea 捅
+tjuei 抬 摊
+tkaaa 剔
+tkaue 晪
+tkeie 暾
+tkeii 曈
+tkeue 慝 忒 遢
+tkiie 昙
+tkioe 题
+tkuuu 屯
+tlaee 忝 泰
+tlaei 耥
+tlaoe 忝
+tlaue 瑅
+tlaui 替 吞
+tleee 天 焘
+tleii 璮 瑭
+tloei 韬
+tmaue 碳
+tmeee 太
+tmeeu 砣
+tmeue 态
+tmiaa 厅
+tmiae 套
+tmoee 餮
+tmoei 砼
+tmoeo 殄
+tnaua 帑
+tnaue 媞
+tneia 婷
+tneue 迢
+tnuau 她
+tnuei 嬥
+toaui 筒
+toeii 穜
+toeoe 毯
+toeue 透
+toiaa 箨
+toiae 特
+toiai 甜
+toiie 舔
+toioe 颓
+toouu 秃
+touee 廷
+touoi 笤
+touuu 乇
+tpaei 膛
+tpaue 腆
+tpeoe 滕
+tpeoi 腾
+tpeou 脱
+tpiae 徒
+tpioe 豚 肽
+tpoee 朓
+tpoie 艇
+tpooi 腯
+tpuei 胎
+tpuie 腿
+tqaui 阘
+tqiae 阗
+tqioe 闼
+traui 童
+treoe 痰
+treue 遆
+triaa 亭
+troie 庭
+troue 疼
+truaa 鄌
+truea 痛
+truei 瘫
+truie 庹
+truii 唐
+tsaei 倘
+tsaeu 傥
+tsaue 俶 贪 氽
+tsaui 侗 佃
+tseeu 佗
+tseia 停
+tseii 僮
+tseiu 侂
+tseoe 倓
+tseue 途
+tsiae 棠
+tsiai 仝 体 堂
+tsoea 偷
+tsoee 佻
+tsoue 佟
+tsoui 倜
+tsuau 他
+ttaaa 剃
+ttaue 羰
+tteii 糖 誊 焞
+ttoie 烶
+ttoue 焕
+ttoui 鹈
+ttuaa 郯
+ttuee 熥
+ttuei 烃
+ttuie 煺
+tuaei 趟
+tuaui 塌 垌 埕 坦
+tueeu 坨
+tueii 塘
+tueue 逃
+tuiaa 圢
+tuiae 鼗 填
+tuiai 塔
+tuiie 坛
+tuiii 土
+tuiuu 坉
+tuoue 堍
+tuoui 坍
+tuuai 趯
+tuuoi 妥
+tvaue 缇
+tveeu 驼
+tveiu 统
+tveoo 绨
+tvioe 驮 彖
+tvoua 绹
+tvoue 绦
+tvuei 骀
+twaei 惝
+twauo 惕
+tweee 头
+tweoo 悌
+twiio 恸
+twioe 头 突
+twoee 窕
+twoei 慆
+twoii 恬
+twouu 它
+txeeu 陀
+txeoe 粜
+txoua 陶
+tyaei 躺 镗
+tyaeu 镋
+tyaui 铜 钽
+tyeeo 铴
+tyeeu 铊
+tyeoe 锬
+tyeoo 锑
+tyiaa 镡
+tyiai 钍
+tyioe 钛
+tyiue 铽
+tyoae 魄
+tyoee 铫
+tyoie 铁 铤
+vaaue 嗯
+vaeoa 吖
+vaeoi 嗌
+vaiae 呆 哎
+vaiai 咡 呵 唔
+vaiie 嗷
+vaioe 嗄 颚
+vaioi 嚣
+vaiou 唵 呃
+vaiue 呕
+vaoae 噢
+vaoee 嗳
+vaoia 吽
+vaoie 哦
+vaoui 鹗
+vauaa 鄂
+vauai 啊
+vauee 唉
+vauii 喔
+vbuai 屙
+vciai 洱
+vciue 沤
+vcoae 澳
+vcoie 涐
+vcoue 欸
+vdaui 盎
+vdauu 崿
+vdeii 黯
+vdeue 恩
+vdiii 凹
+vdioa 岸 峏
+vdoie 蛾 峨
+veauu 谔
+veeii 谙
+veiue 讴
+veoau 讹
+veoie 袄
+veuee 诶
+vfeei 桉
+vgaue 蒽
+vgauu 萼
+vgeuu 蔼
+vgiie 藕
+vgiou 苊
+vgoee 艾
+vgoie 莪
+vhaui 噩
+vheei 鞍
+vheue 恶
+vhiai 垩
+vhiii 耳 噩
+viaoe 尔
+viauu 鳄
+vieee 尔
+vieue 迩
+viiai 饵
+viiia 犴
+viioa 鲕
+vioie 饿
+viuaa 卬
+viuuu 儿
+vjaue 摁
+vjeei 按
+vjeii 揞
+vjeuu 霭
+vjioi 捱
+vjiou 扼
+vjuee 挨
+vjuuo 拗
+vkeii 暗
+vkeue 遏
+vkiie 贰
+vkiou 轭
+vkiue 瓯
+vkoee 区 暧
+vkoua 昂
+vkoue 殴 欧
+vkoui 鸥
+vlaua 嶅
+vlaue 耦 螯
+vleee 熬
+vleue 遨
+vliai 聱 珥
+vliie 璈
+vliii 二
+vlioe 獒
+vloee 叆 瑷
+vloei 鏊
+vloie 敖
+vloui 鳌
+vluui 骜
+vmaaa 而
+vmaua 而 奡
+vmaue 碍
+vmaui 有
+vmiae 砹
+vmioa 奡
+vmioe 奀
+vmooo 耏
+vmoui 鸸 鹌
+vmuuu 厄
+vnaui 媪
+vnoee 嫒
+vnoei 姶
+vnoie 娥
+vnuai 婀
+voaua 岙
+voeei 氨
+vooii 矮
+vooui 鹅
+vpauu 腭
+vpeei 胺
+vpeiu 肮
+vpiou 腌
+vraua 癌
+vraue 哀
+vriie 廒
+vriou 庵
+vroei 鏖
+vroue 哀
+vsaue 偶
+vsaui 盦
+vseui 盦
+vsiai 佴
+vsiie 傲
+vsiou 俺
+vsoie 俄
+vuaua 垾
+vueei 垵
+vuioe 爱
+vuiou 埯
+vuuee 埃
+vuuui 毐
+vuuuo 坳
+vwauu 愕
+vwiae 案
+vwioe 额
+vwiue 怄
+vwoae 懊
+vwuoi 安
+vxeoi 隘
+vxiai 阿
+vxioa 陑
+vyauu 皑 锷
+vyeei 铵
+vyeie 锿
+vyiai 铒
+vyioe 奥
+vyoie 锇
+vyuai 锕
+vyuei 翱
+waaue 喂
+waiai 哇 唔
+waiie 味 吴
+waiii 囗
+waoai 唯
+waoei 嗡
+waoii 踒
+waoui 呜
+waouo 吻
+wauii 喔
+wbaue 螱
+wbeue 慰
+wbiae 尉
+wbiui 屋
+wboiu 尾
+wcaua 涠
+wcaue 溦 涡
+wcaui 温 渭
+wceeu 涴
+wceie 汶
+wceiu 湾
+wceoe 沩
+wciai 浯 洼
+wciii 汪
+wciiu 污
+wcioi 洧
+wcoei 鋈
+wcoie 沃
+wcoui 鹜
+wcouu 洈
+wcueu 沇
+wcuii 渥
+wcuoi 婺
+wcuui 骛 潍
+wdaue 蜈 蜗
+wdaui 胃
+wdeeu 畹 蜿
+wdeie 蚊
+wdeou 罔
+wdeue 遗
+wdiai 蛙
+wdiia 围 帏
+wdiii 凹
+wdioi 崴
+wdiue 畏
+wdoae 嵬
+wdoai 帷
+wdoee 网
+wdoie 巍
+wdooe 畖
+wdouu 峗
+wduii 幄
+weaue 误
+weaui 谓
+weiai 诬
+weiie 袜
+weoii 诿
+wfeeu 椀
+wfiai 梧
+wfiii 枉
+wfiou 杌
+wfouu 桅
+wfuii 龌
+wgaue 蔓 莴
+wgeeu 莞 菀
+wgeie 芠
+wgeii 蕹
+wgiia 苇
+wgiiu 芜
+wgioi 葳
+wgoei 蓊
+wgoii 萎
+wgooe 薇
+wgouo 芴
+wguie 蔚
+wguoe 芄
+whaui 吾 軎
+wheue 恶
+whiii 五
+whiou 靰
+whoea 斡
+whoei 巫
+whoui 鹀
+wiaaa 刎
+wiaee 外
+wiaue 猥
+wiaui 猬 鳁
+wieeu 豌
+wiiii 乌
+wiioi 鲔
+wiooo 勿
+wiuaa 邬
+wiuie 鳚
+wiuoo 务
+wiuuu 危
+wjeeu 挖
+wjeie 雯
+wjiae 挝
+wjiai 捂
+wjouo 雾
+wjouu 挽
+wjuie 霨
+wjuii 握
+wkaee 卧
+wkauu 辋
+wkeee 瓦
+wkiai 晤
+wkiia 韪
+wkiii 旺
+wkoia 旿
+wkooo 万
+wkouu 晚
+wlaaa 韦
+wlaii 武
+wleee 未
+wleeu 琬
+wleie 玟
+wleue 违
+wliia 玮
+wliii 王
+wliiu 玩
+wlioe 顽
+wloui 鹉
+wluuu 无
+wmauu 硙
+wmeee 戊
+wmeeu 碗
+wmiai 歪
+wmiii 尪
+wmiui 威
+wmoie 硪
+wmuuu 兀
+wnaue 娲
+wneee 丸
+wneei 婠
+wneeu 婉
+wniai 娃
+wniiu 妩 妧
+wnouu 姽
+wnuiu 娓
+woaaa 午
+woeee 我
+woeue 逶 迕
+woiaa 午
+woiai 牾
+wooae 魏
+wooua 舞
+wooue 稳
+woouo 物
+wouoi 委
+wpaue 微
+wpaui 腽
+wpeeu 腕 脘
+wpeii 往
+wpiiu 肟
+wpuiu 艉
+wqaui 问
+wqiai 闻
+wqiia 闱
+wqoee 阌
+wraui 瘟
+wreee 文
+wreue 忘
+wriai 痦
+wriii 望
+wriiu 庑
+wroee 於
+wroii 痿
+wruiu 弯
+wruoi 妄
+wruue 紊
+wruuu 亡
+wsaue 偎
+wseii 位 隹
+wseoe 伪
+wsiai 伍
+wsiia 伟
+wsiue 佤
+wsoia 仵
+wsoie 侮
+wsoii 倭
+wsuii 偓
+wtaue 煨
+wtaui 煟
+wteee 为
+wteeu 烷
+wteie 炆
+wtiai 焐
+wtiia 炜
+wueiu 塆
+wuiia 圩
+wuiiu 圬
+wuiue 瓮
+wuoui 坞 鹟
+wuuei 翁
+wveei 绾
+wveie 纹
+wviia 纬
+wviii 毋
+wvoai 维
+wvuoe 纨
+wwaaa 剜
+wwaue 窝
+wwauu 惘
+wweeu 惋
+wwiai 悟
+wwiiu 完 怃
+wwoai 惟
+wwoia 忤
+wwooe 窊
+wwouu 宛
+wwuai 寤
+wxaue 隈
+wxiii 卫
+wxiou 阢
+wxoae 隗
+wyauu 魍
+wyeeu 皖
+wyiai 鼯
+wyiie 璺
+wyoui 钨
+xaaie 噱
+xaaii 嘘
+xaaiu 唬
+xaaua 呷
+xaaue 贤
+xaeei 喧
+xaeie 躞
+xaiaa 叶
+xaiae 吓
+xaiai 咁 咺 咭 嘻 哮
+xaiia 吁
+xaioi 嚣
+xaiuu 哓
+xaoae 嗅 咻
+xaoai 响
+xaoea 唏
+xaoee 蹊
+xaoie 跹
+xaoiu 跣
+xaoui 鸮
+xaouu 兄
+xauie 噀 啸
+xauoe 吸
+xauoo 勋
+xbaea 犀
+xbaei 屑
+xbaue 屃
+xbeie 弦
+xbeue 遐 迅
+xbiae 寻 巽
+xbooe 屣
+xbuie 叚
+xcaei 消
+xcaii 瀣
+xcaui 矞
+xceee 熊
+xceei 渲
+xceie 泫 洨 漩
+xceua 浒
+xceui 泻
+xciaa 淅
+xciae 潇 渫 枲
+xciai 湘
+xciau 泄
+xciii 习
+xciue 戏
+xciui 湝
+xcoae 涎 溴
+xcoai 洫 滫
+xcoea 汹 浠
+xcoee 溆 溪
+xcoei 淆
+xcoiu 洗
+xcoua 澥
+xcoue 汐
+xcoui 洵
+xcuee 浚
+xcuia 汛
+xcuie 浔
+xdaei 蛸
+xdaui 蜎 岫
+xdauu 蚬 岘 蝎
+xdeei 瞎
+xdeie 眩
+xdeue 悬
+xdiaa 蜥
+xdiae 蟏 虾
+xdiai 黠
+xdiee 峡
+xdiia 盱
+xdoae 螅
+xdoee 蟋
+xdoei 崄 崤
+xdoue 蟓
+xdoui 盷 峋
+xdouu 见
+xduee 县
+xeaii 谑
+xeaui 诇 袖 禤
+xeauo 裼
+xeeee 心
+xeeoa 祥 详
+xeiai 禧
+xeiie 禊 祆
+xeiui 写 谐
+xeoaa 训
+xeoae 谢
+xeoea 讻
+xeoee 谖
+xeoia 许
+xeoui 询
+xeuei 诩
+xeuia 讯
+xfaai 虚
+xfaua 柙
+xfaui 相 杏
+xfauu 枵
+xfeei 楦
+xfeie 校
+xfeue 想
+xfiai 栖
+xfiie 楔
+xfiii 些
+xfiua 械
+xfiuu 朽
+xfoae 檄 榭
+xfoai 皙
+xfooa 析
+xfoue 橡
+xfuei 栩
+xfuia 樨
+xfuii 榍
+xgaue 葸 荥
+xgaui 省
+xgauu 苋
+xgeee 茓 小
+xgeei 蓿 萱
+xgeia 莘 薪
+xgeii 蓄
+xgeue 芯
+xgiaa 菥 蕈
+xgiai 葙 茜
+xgioi 薤
+xgoaa 薛
+xgoei 莶
+xgoie 薰
+xgooa 荇
+xgooe 蓰
+xgoua 藓 薢
+xgoui 荀
+xguie 荨 萧
+xguiu 芎
+xguuo 芗
+xhaui 醒 昔
+xhauu 觋
+xheee 下
+xheii 醯
+xhiai 鞋
+xhiii 西
+xhioe 献 项
+xhoae 髹
+xhoau 靴
+xhoea 酗
+xhoie 醺
+xhoiu 酰
+xhuai 孝 醑
+xhuiu 巷
+xhuoe 协
+xiaiu 猇
+xiaoe 系
+xiaua 狎
+xiaue 象 蟹
+xiaui 旬 猩
+xieee 夕
+xieie 饻
+xieoa 鲜
+xieoi 馐
+xieue 邂
+xiiae 枭
+xiiee 狭
+xiiei 鳕
+xiiie 玺
+xioai 饷
+xioea 匈
+xioei 猃
+xioie 獯
+xioiu 饩
+xioua 獬
+xioue 鱻 狝
+xioui 馅
+xiuaa 郇
+xiuie 鲟
+xiuoa 解
+xiuoo 饧
+xjaei 霄
+xjaue 踅
+xjeei 揎
+xjiae 霰 撷
+xjiee 挟
+xjioa 需
+xjoaa 擤
+xjoao 携
+xjooe 掀
+xjuie 挦 霞
+xjuii 雪
+xkaai 显
+xkaua 匣
+xkeee 煦 熙
+xkeei 暄 辖
+xkeie 暶 昡
+xkeoe 曦
+xkeue 暹
+xkiaa 晰
+xkiia 轩
+xkiuu 晓
+xkoea 晞
+xkoie 曛
+xkoii 星
+xkooa 昕
+xkoue 歇
+xkoui 昫
+xkuaa 邪
+xkuie 暇
+xkuoo 勖
+xlaaa 刑
+xlaui 琄
+xlauu 现
+xleei 瑄
+xleie 璇
+xliai 型
+xlioe 顼 契
+xlioi 珛 砉
+xloai 珦
+xlooo 形
+xloui 珣
+xluaa 邢
+xluei 珝
+xluie 瑕
+xmaei 硝
+xmeei 碹
+xmeie 袭
+xmeoe 燹
+xmiai 硒 咸 厢
+xmiee 硖
+xmiia 硎
+xmiii 戌
+xmioe 厦
+xmoai 雄
+xmoea 豨
+xmoue 矽 夏
+xmoui 殉
+xmuie 硍
+xnaue 嬛 勰
+xnaui 旭
+xneae 娴
+xneoe 嫌
+xniai 嬉
+xnoae 媳
+xnoee 孅
+xnoii 姓
+xnuai 婿
+xnuue 絮
+xoaia 罅
+xoaua 氙
+xoaui 香
+xoeee 熏
+xoeue 选
+xoiai 箱 牺
+xooae 筱
+xooea 稀
+xooie 笑
+xooiu 筅
+xoouu 先
+xouaa 卸
+xouie 箫
+xouoo 秀
+xpaie 徙
+xpaui 腥
+xpeia 衒
+xpeie 舷
+xpiae 膝
+xpiai 腊 舾
+xpiia 行
+xpioe 须
+xpoae 腺
+xpoee 徐
+xpoia 衔
+xpooi 循
+xpoua 胸
+xpoue 欣
+xpoui 徇
+xpuoe 胁
+xqiae 闲
+xqoau 阋
+xqoui 鹇
+xraaa 辛
+xraua 席
+xraue 襄
+xraui 畜
+xreae 痫
+xreee 玄
+xreie 痃
+xreoa 庠
+xriaa 辛
+xriae 亵
+xroae 庥
+xroie 效 旋
+xroiu 冼
+xrooa 新
+xroua 癣 廨
+xroue 歆
+xruai 享
+xruea 序
+xruee 燮
+xruue 玄
+xsaaa 削
+xsaua 仙
+xsaue 儇
+xsaui 肖
+xseea 斜
+xseie 儴
+xseii 信
+xseue 逍
+xsiae 休
+xsiai 鸺 僖
+xsiee 侠
+xsiui 偕
+xsoee 傒
+xsoue 歙 像
+xsoui 翛 脩
+xsouo 修
+xsuee 叙
+xsuei 翕
+xtaua 籼
+xtaui 煋
+xteei 煊
+xteie 炫 羡
+xteii 熇
+xtiai 烜 粞
+xtoae 熄
+xtoea 烯
+xtoie 羲
+xtooa 炘
+xtoue 欻
+xtoui 鲞
+xtuai 羞 糈
+xtuei 翔
+xtuoo 券
+xuaii 墟
+xuaue 埙
+xuaui 喜
+xueee 熹
+xueia 垿
+xueoa 幸
+xueoi 喜
+xueue 憙 悉
+xuiia 圩
+xuioa 希
+xuioe 颉
+xuiuu 兮
+xuoae 貅
+xuoei 谿
+xuoii 馨
+xuoue 欷
+xuuaa 郄 凶 郗
+xuuue 奚
+xvaei 绡
+xvaui 细
+xveia 骍
+xveie 骧
+xveue 巡
+xviae 缬 续
+xviai 缃 绪
+xviau 绁
+xviie 线
+xviuu 骁
+xvoaa 驯
+xvoee 飨
+xvoia 纤
+xvoio 绣
+xvooo 乡
+xvoui 绚
+xwaei 宵
+xwaua 峃
+xwaue 泶
+xwaui 惺
+xweee 穴
+xweei 愃
+xweie 恔
+xweii 窨
+xwiaa 悻
+xwiai 恓 宣 惜
+xwoai 宿 恤
+xwoee 穴 窸 兴
+xwoie 敩
+xwoii 性
+xwoiu 宪
+xwooa 忻
+xwoua 懈
+xwoue 穸
+xwoui 恂
+xwuai 学
+xxaoe 隙
+xxaue 隰
+xxaui 胥
+xxeue 逊
+xxoei 险
+xxoua 降
+xxoui 陷
+xxuei 陉
+xxuie 限
+xyaei 销 魈
+xyaui 向
+xyauo 锡
+xyeia 锌
+xyeie 镶 铉 镟
+xyeoa 衅
+xyeue 息
+xyiaa 镡
+xyiii 血 囟
+xyioe 臭
+xyiue 魆
+xyoai 皛
+xyoee 鼷
+xyoei 囟 鑫
+xyoio 锈
+xyoiu 铣
+xyooe 锨
+xyoue 舄
+yaaua 嘢
+yaaue 哕 喁 员 咽
+yaaui 嘤
+yaeia 哜
+yaeie 噫 咬
+yaeii 喑 唁 唷
+yaeoa 吖
+yaeoi 嗌
+yaeue 咏
+yaiaa 叶
+yaiai 噎 哑
+yaiau 呓
+yaiia 吁
+yaiii 业
+yaiue 咦
+yaiui 嚚
+yaiuo 呀
+yaoao 咿
+yaoea 喻
+yaoeu 吟
+yaoie 跃
+yauaa 郢 邺 郧
+yauau 邑
+yauea 踊
+yauia 吲
+yauue 吆 哟
+yauuo 呦
+ybaaa 引 聿
+ybeoe 熨
+ybeou 粥
+ybiaa 鬻
+ybiae 尉
+ybioa 异
+yboiu 尾
+ybooo 尹
+ybuei 弪
+ybuuu 已
+ycaaa 予
+ycaua 甬
+ycaue 泱 洇 涢 翼
+ycaui 矞 泂 油
+ycauu 浥
+yceee 又 演
+yceeu 涴
+yceie 淤 瀛 液
+yceii 翌 游
+yceoa 洋
+yceoe 漾
+yceoi 溢
+yceue 恿 泳
+yciae 潆 溁 滢
+yciai 湮
+yciie 沄
+yciiu 滟 沅
+ycioa 羿
+ycioe 源 预
+ycioi 涯
+yciou 淹
+ycoao 洢
+ycoea 渝 渊 瀹
+ycoee 以
+ycoei 淫 浴
+ycoie 矣
+ycooa 沂
+ycoue 豫 汋
+ycoui 渔 漪 鹬 沿
+ycouu 允
+ycuea 涌
+ycuei 羽
+ycueu 沇
+ycuoo 勇
+ycuuu 允
+ydaaa 曱
+ydaue 圜 髃 圆
+ydaui 蚰 蜎
+ydauo 蜴
+ydauu 蝇
+ydeee 禺 央
+ydeeu 蛇
+ydeii 蝣
+ydeoa 蛘
+ydeoe 蚁
+ydeoi 蝤
+ydeue 愚 遇 遗
+ydiaa 圉
+ydiai 崾 圄
+ydiii 甴 由
+ydiiu 园
+ydioe 螈 因
+ydioi 岩 崖 囿 睚
+ydiou 崦 罨
+ydiui 蜮 屿
+ydiuo 蚜 岈
+ydoae 蜒
+ydoea 嵛 蝓
+ydoei 峪
+ydoia 罂
+ydoiu 屹
+ydooo 曳
+ydoue 黟 嶷
+ydoui 鸯 鹦 鸭
+yduaa 邮
+yduai 觃
+yduea 蛹 峄 野
+yduei 眙 贻
+yduia 蚓
+yduie 眼
+yduoi 婴
+yduue 幽
+yduuo 蚴 黝
+yeauu 谒
+yeeee 永
+yeeei 谊
+yeeie 扆
+yeeio 谚
+yeeoe 议
+yeeou 说
+yeiae 谳
+yeiai 禋 语
+yeiia 祎
+yeioi 祐
+yeiuo 讶
+yeoea 谣 谕
+yeoei 裕
+yeoie 谀
+yeoio 诱
+yeoue 冤
+yeoui 诣
+yeuaa 郓
+yeuea 译
+yeuei 诒
+yfaiu 虤
+yfaue 虞
+yfaui 杳 卣 樱 柚
+yfeiu 椸
+yfeoa 样
+yfeoe 棪
+yfeue 栐
+yfiaa 椰
+yfiae 樾 槱
+yfiai 桠 龉
+yfiie 枟
+yfiii 卣
+yfioi 椅
+yfiue 杙
+yfiui 棫
+yfoae 梴
+yfoea 榆
+yfoue 栎
+yfoui 檐
+yfuie 龈
+yfuoi 楹
+yfuoo 杨
+yfuue 橼
+ygaue 茵 萤 英
+ygaui 营
+ygeeu 菀
+ygeie 菸 薏
+ygeoe 荧
+ygiai 茔
+ygiia 芋
+ygiie 莹 芸
+ygiiu 芫
+ygiue 荑
+ygiuo 芽
+ygoae 萸 莜
+ygoee 艾
+ygoei 蓥
+ygoio 莠
+ygoua 茚
+ygoue 莸
+ygoui 莺
+ygouu 苑
+yguai 荫
+yguee 蓣 苡
+yguie 蔚
+yguue 萦 药
+yguui 蕴
+yguuu 艺
+yhaue 燕 鞅
+yheee 雨
+yhiao 酽
+yhiie 酝
+yhiii 亚 酉
+yhiue 焉
+yhooo 严
+yhoue 歅
+yhuaa 鄞 耶 鄢
+yhuau 酏
+yhuoi 要
+yhuuo 靿
+yiaaa 用
+yiaui 鱼 眢
+yieee 夤 乐
+yieia 鳙
+yieii 狺 匀
+yieue 逸 狱 迎 怨
+yiiae 猿
+yiiai 馌
+yiiii 鱼 一
+yiioe 犹 颍 鱿 颖
+yiioi 猗
+yioea 鳐
+yioee 狳 馀
+yioie 饫
+yioue 饮
+yioui 鸳
+yiuaa 印
+yiuee 疑
+yiuei 饴
+yiueu 狁
+yiuia 肄
+yiuoo 飏
+yjaua 押
+yjaui 撄 揖
+yjauo 拽
+yjauu 挹
+yjeei 霪
+yjeie 掖
+yjiaa 揶
+yjiiu 雩
+yjiou 掩
+yjiui 揠
+yjoea 揄 摇
+yjoee 援
+yjoua 拥 抑
+yjuoo 扬
+yjuue 掾
+ykaue 映
+ykaui 彧
+ykeee 夷 弋
+ykeei 晏
+ykeii 昱
+ykeue 迓
+ykiae 辕
+ykiii 与 曰
+ykioe 颐
+ykiou 尧
+ykiua 晕
+ykoaa 晔
+ykoai 雅
+ykoie 轶 医
+ykooo 牙 影
+ykoue 欤
+ykoui 鸦 鸢 昀
+ykouo 易
+ykuaa 邪 郾
+ykuei 曜 翳
+ykuoi 轺
+ykuoo 旸
+ykuuu 轧
+ylaaa 于
+ylaui 璎 韫 盂
+ylauu 鼋
+yleee 玉
+yleoe 烎 琰
+yleue 迂 远 运
+yliae 瑛
+yliie 耘
+yliua 琊
+yliui 玙
+yliuo 玡
+yloae 瑀
+yloea 瑜 瑶
+yloee 瑗 珧
+yloui 玥
+ylouu 元 艳
+yluaa 邘
+yluee 云
+ymaua 厣
+ymaue 殃 殒 赝 页
+ymaui 右
+ymauu 奄 砚
+ymeee 尤
+ymeue 愿
+ymiae 硬 压
+ymiai 殪
+ymiia 研
+ymioe 厌
+ymioi 靥
+ymiuo 砑
+ymoae 魇 原
+ymoai 雁
+ymoee 餍
+ymuaa 郁
+ymuee 友
+ymuie 硍
+ymuuu 尢
+ynaue 姻 娱
+ynaui 盈
+yniae 嫣 嬿 媖
+yniai 娅
+yniia 妍
+yniie 妘
+yniiu 妧
+ynioe 嫄
+yniue 姨 妪
+ynoea 媱
+ynoee 媛 姚
+ynoei 姶
+ynoie 妖
+ynuai 孕
+ynuea 妤
+yoaue 氤 秧
+yoaui 氲
+yoeee 夭
+yoeeu 箢
+yoeiu 毓
+yoeoa 氧
+yoeue 迤
+yoiai 筠 氩
+yoiia 竽
+yooae 筵
+yooie 簃
+yooue 移
+youuu 胤
+ypaaa 刖
+ypaue 胭
+ypeea 衍
+ypeie 臆 腋
+ypeii 臃
+ypeoa 徉
+ypeoe 舣
+ypeoi 媵
+ypiaa 衙
+ypiai 腰
+ypiii 月
+ypiou 腌
+ypiue 胰
+ypoae 腴
+ypoea 徭
+ypoee 艅
+ypoia 御
+ypoue 殷 役
+yqeie 阏
+yqeii 訚
+yqeou 阅
+yqiii 闫
+yqiou 阉
+yqiui 阈
+yqoui 阎
+yraue 嬴 裛 赟 赢
+yraui 裔 膺 瘿 音 育
+yreee 亦 衣
+yreei 应
+yreie 癔 瘀
+yreoa 痒
+yreue 意
+yriai 痖 壅
+yriei 瘗
+yriii 言
+yrioa 弈
+yrioe 奕 疣 颜
+yriue 痍
+yriui 疟
+yroae 瘐 夜 庾
+yroee 饔 於
+yroeu 兖
+yroii 旖
+yrooo 彦
+yroua 痈
+yroue 毅 疫 嬴 赢
+yroui 韵 鹰
+yruae 瘾
+yruei 翊 冶 育
+yrueu 兖
+yruia 庸
+yruoo 疡
+yruui 雍
+ysaua 龠 俞
+ysaue 俣
+ysauu 觎
+yseie 依
+yseoa 佯
+yseoe 仪
+yseue 愈 逾 悠
+ysiaa 倻
+ysiao 俨
+ysiie 余
+ysioa 弇
+ysioe 优
+ysioi 佑 侑 倚
+ysiue 伛
+ysiui 偃
+ysiuo 伢
+ysiuu 侥
+ysoei 佾
+ysoie 佚 攸
+ysoiu 仡
+ysoua 仰 佣
+ysuea 俑
+ysuei 耀
+ysuio 伊
+ysuuu 亿
+ytaaa 丫 剡 羊
+ytaue 烟
+ytaui 煜 煴 益
+yteee 义
+yteoa 烊
+yteoe 焱 燚 炎
+yteue 恙
+ytiia 羊
+ytioe 羱 猷
+ytoaa 养 烨
+ytoae 燠 烻
+ytoue 羑
+ytoui 鹢 焰
+ytuei 熠
+ytuoo 炀
+yuaaa 刈
+yuaue 袁
+yuaui 釉 谷 盐
+yuauo 埸
+yueee 乂
+yueeu 垸
+yueia 墉
+yueie 懿
+yueii 堉
+yueue 遥
+yuiai 垣 垚 垭 堙 壹
+yuiie 爰
+yuioe 塬
+yuioi 肴
+yuiue 越
+yuiui 域 堰
+yuoai 舀
+yuoee 爻
+yuooa 圻
+yuoue 繇 欲
+yuoui 鹞 鹆
+yuuaa 爷
+yuuai 趯
+yuuie 垠
+yuuiu 圯
+yuuuu 乙
+yvaui 缨
+yvauu 邕
+yveee 幺
+yveoa 彝
+yveoi 缢
+yviia 纡
+yviie 纭
+yvioa 彝
+yvoei 验
+yvoue 约
+yvuea 绎 驿
+yvuee 驭
+yvuoo 幼
+yvuue 缘
+ywaue 寓 怏
+ywaui 愠 宜 宴
+ywauu 悒
+yweia 慵
+yweii 窨 誉
+yweou 悦
+yweua 恽
+ywiae 寅
+ywiia 宇
+ywioe 忧 恹
+ywioi 宥
+ywiua 宧
+ywiue 戭
+ywoea 窬 愉
+ywoia 窑
+ywooe 窳
+ywuea 怿
+ywuei 怡
+ywuuo 窈
+ywuuu 忆
+yxaii 阽
+yxaue 陨 隅
+yxaui 阳
+yxeee 疋
+yxeeu 院
+yxoae 隩
+yxoua 陶
+yxoue 隐
+yxoui 阴
+yxuuu 也
+yyaaa 劓
+yyaua 岳
+yyaue 铟
+yyaui 鼬 鼹 铀
+yyeee 臾 禹
+yyeia 镛
+yyeie 镱 铱
+yyeoi 镒
+yyeue 邀 牖
+yyiie 钰
+yyioa 舁
+yyioi 铕
+yyiua 铘
+yyiue 钺
+yyiuu 粤
+yyoee 舆 铫
+yyoui 铅 钥
+yyuaa 鄅
+yyuee 延
+yyuie 银
+yyuoo 钖
+yyuuu 钇
+zaaia 嘴
+zaaie 足
+zaaii 趾
+zaaiu 呲
+zaaue 噪 嘬 躅 躁
+zaaui 咀
+zaeee 踪
+zaeeu 咤
+zaeoa 踯 凿
+zaeoe 黹 嗞
+zaiaa 哳
+zaiae 喋 吱
+zaiai 喳 嘲 啫
+zaiie 啧
+zaioe 啄
+zaioi 跖 咗
+zaiua 咂
+zaiue 啭
+zaoai 咱
+zaoau 唣
+zaoee 只
+zaoei 唑
+zaoie 躜
+zaoii 踵 咋
+zaoiu 吒
+zaooe 踬
+zaoui 啁
+zaouu 咒
+zauie 嘱
+zbaua 帚
+zbaue 咫
+zbaui 昼
+zbeou 粥
+zbiae 展
+zboae 属
+zboie 张
+zcaie 浈
+zcaii 沾
+zcaiu 泚
+zcaue 蚤 浞 澡 浊
+zceea 滓
+zceia 漳
+zceii 注
+zceoa 洲
+zceoe 滋
+zceoi 溠
+zciaa 浙 滞 汁
+zciai 渚 渣
+zciau 湛
+zciie 溱 渍
+zcioe 涿
+zciuu 沌
+zcoai 翟
+zcoie 洙
+zcoue 汋
+zcoui 潴
+zcuae 滍
+zcuea 泽
+zcuee 叕
+zcuei 濯 治
+zcuie 涨
+zcuoi 沼
+zcuui 淄
+zdaaa 则 中
+zdaia 罩
+zdaie 帧
+zdaii 罪
+zdaiu 眦
+zdaue 帜 崽
+zdaui 盅 胄
+zdeei 贮
+zdeia 嶂 蟑 幛 崒
+zdeii 赃 蛀 幢
+zdeoe 嵫 赚
+zdeoi 罾 赠
+zdeue 忠
+zdiae 峙
+zdiai 置
+zdiie 帻
+zdioe 颛 赈
+zdiua 崭
+zdiui 蛭
+zdiuo 贼
+zdoee 眨
+zdoeo 畛
+zdoie 蛛 帙 账 帐
+zdoii 蜘 蚱
+zdoua 峥 睁
+zdoui 瞻 赒
+zduai 虸
+zduie 瞩
+zduoo 助
+zeaie 祯
+zeaii 祉
+zeaue 禔 识
+zeaui 诅 祖
+zeauu 祝
+zeeee 之
+zeeii 谆 谪 谘
+zeeoe 禚
+zeiae 禛 诹
+zeiai 证 诸
+zeiie 诪
+zeioe 诼 冢
+zeiui 谮
+zeoeo 诊
+zeoie 诛
+zeoii 诈 祚
+zeoua 诤
+zeoue 祗
+zeoui 诌 鸩 谵
+zeouu 祇
+zeuei 褶
+zeuia 肇
+zeuoi 诏
+zfaia 棹
+zfaie 桢
+zfaiu 龇
+zfaua 卓
+zfaue 枳 赀 桌 贞
+zfaui 查 占
+zfauu 柷
+zfeee 术 棕
+zfeei 榨
+zfeia 梓 樟
+zfeii 訾 柱 桩
+zfeoe 樽
+zfeui 槠
+zfeuu 枕
+zfiaa 栉 卓
+zfiae 枝 梽 桌
+zfiai 植 楂 榰
+zfiau 椹
+zfiie 栈 榛
+zfiii 止
+zfioe 杖
+zfioi 柘 砦
+zfiue 战
+zfiui 桎
+zfoai 椎
+zfoee 枞
+zfoie 株
+zfoii 柞
+zfoou 栀
+zfoua 觜
+zfoue 柊
+zfoui 栅 椆
+zfuea 杼
+zfuue 紫
+zfuuu 札
+zgaii 芷
+zgaiu 茈
+zgaue 蕞
+zgeea 苧
+zgeee 蒸 藻
+zgeei 苎 菹
+zgeie 蔗
+zgeue 芝
+zgiae 蘸
+zgiai 著
+zgiie 蓁
+zgioa 藏 葬
+zgioi 葴
+zgoaa 茽
+zgoie 茱
+zgoue 茋
+zguaa 茁
+zguae 蒸
+zguue 荮
+zhaiu 髭
+zhaue 职
+zhaui 哉 直 者
+zheea 斟
+zheee 鬃 煮 枣
+zheia 醉
+zheue 遭
+zhiae 栽 酎 鬒
+zhiai 整
+zhiii 正 再
+zhiue 甄
+zhiui 载
+zhoee 真
+zhoie 政
+zhoii 酢
+zhoue 酌
+zhoui 酯 朝
+zhuaa 鄹
+zhuee 支
+zhuei 翥
+ziaii 飐
+ziaua 鲗
+ziaue 螽
+ziaui 旨 昝
+zieia 獐
+zieii 鳣 詹
+zieoa 觯
+zieoe 鳟 炙
+ziiae 鲰 橥
+ziiai 猹 猪 周
+ziiii 鲭
+zioii 鲊
+zioua 狰
+ziuaa 邹
+ziuia 争
+ziuie 馔
+ziuoe 皱
+ziuui 鲻
+ziuuu 氏
+zjaue 蛰 蜇 贽 撮 捉
+zjaui 哲
+zjauo 拽
+zjeeu 挓
+zjeie 摭
+zjeii 拄 霅 撞 摘
+zjeoa 掷
+zjeoe 撙
+zjiae 挝
+zjiai 揸
+zjiie 揍
+zjioe 震 振
+zjiue 找
+zjoia 挚
+zjoie 攥 攒
+zjoii 拃
+zjooa 折
+zjooe 抓
+zjoua 挣
+zjoui 鸷 指
+zjouu 扺
+zjuaa 拙
+zjuai 拯
+zjuea 择
+zjuei 擢 摺
+zjuie 搌 撰
+zjuoe 执
+zjuoi 招
+zjuue 拶 絷
+zjuuu 扎
+zkaua 匝
+zkaue 轵
+zkaui 暂 轴
+zkeee 照
+zkeei 曌
+zkeie 辙
+zkeue 迍
+zkiaa 早
+zkiae 最
+zkiai 至
+zkiau 辄
+zkiie 臻 赜 转
+zkioe 昃
+zkiui 轾
+zkoei 錾
+zkoeo 轸
+zkoie 致
+zkoii 昨
+zkooa 斩
+zkooe 辀
+zkuaa 郅
+zkuie 辗
+zkuoi 昭
+zkuui 辎
+zkuuu 屯 轧
+zlaue 赘 责
+zlaui 盏
+zleee 专
+zleia 璋
+zliie 奏 瑧
+zlioe 琢
+zloeo 珍
+zloie 珠 瓒
+zluai 耔
+zluue 瑑
+zmaii 砧
+zmeee 丈
+zmeii 詟
+zmeue 逐
+zmiai 在 左 殖
+zmiau 臧
+zmiie 碡 砖
+zmiua 砸
+zmoee 仄
+zmoii 砟
+zmooa 斫
+zmoue 磔
+znaui 召 妯
+zneia 嫜
+zniae 杂
+znoui 婤
+znouo 姊
+zoaaa 制
+zoaii 毡 乍
+zoaua 种
+zoaue 赞
+zoaui 智 知 租
+zoeee 长 朱
+zoeii 穜
+zoeue 迮 怎 造
+zoiae 稹 筑
+zoiai 箸 籀
+zoiie 箦
+zoiii 竺 重 乍
+zoioi 箴
+zoiui 簪
+zooai 雉 稚
+zooia 竹
+zooie 簉 秩
+zooii 笮
+zoooe 笊
+zooua 筝
+zoouo 笫 秭
+zouaa 邾
+zouue 篆 纂
+zpaua 舯 肿
+zpaue 徵
+zpaui 舳
+zpeee 舟 腙 爪
+zpeei 膣
+zpeii 脏
+zpeoe 朕
+zpiaa 衠
+zpiae 肘 肢 质
+zpiai 征
+zpiuu 肫
+zpoeo 胗
+zpoie 臜 胀
+zpoii 胙 舴
+zpoue 胝
+zpoui 脂
+zpuuu 卮
+zqaua 闸
+zraii 站
+zraua 章
+zraue 资 衷
+zraui 咨
+zreia 瘴
+zreie 装
+zreii 麈 疰
+zreoe 粢
+zreue 恣 戆 邅 这 遮
+zriaa 章
+zriae 痣
+zriai 壮 庄 症
+zriie 痔
+zriii 主
+zrioa 斋
+zrioe 颤 瘃 状
+zriui 痓
+zroai 准
+zroea 卒
+zroee 疭
+zroei 座
+zroeo 疹
+zroie 族
+zroii 旃 痄
+zrooo 彰
+zroue 瘵 衷
+zroui 鹧
+zruaa 鄣
+zruoi 妆 姿
+zsaia 倬
+zsaie 侦
+zsaua 侧 仲
+zsaui 俎
+zseee 倧
+zseei 伫
+zseii 僮 住 隹
+zseoe 僔
+zsiae 做
+zsiai 坐 值
+zsiie 传 债
+zsioe 仗
+zsioi 佐
+zsiui 侄
+zsoae 僬
+zsoee 众
+zsoia 掌
+zsoie 侏
+zsoii 作
+zsoue 偬
+zsouu 仉
+zsuai 仔
+zsuie 僎
+ztaaa 州
+ztaia 焯
+ztaii 粘
+ztaue 烛 炽 燥
+ztaui 曾 着
+zteee 粽
+zteii 炷
+zteue 总 遵
+ztiae 尊
+ztiai 灶 糟
+ztiue 甑
+ztoae 熜
+ztoii 炸
+ztoue 灼
+ztoui 糌
+ztuaa 郑
+ztuai 孳 籽
+ztuue 兹
+zuaie 走
+zuaii 址
+zuaue 螫
+zueie 趑
+zueoi 增
+zueue 志
+zuiai 埴 喆 赭
+zuioe 頫
+zuoaa 圳
+zuoee 赵
+zuoie 趱
+zuooo 豸
+zuoue 繇
+zuuoe 兆
+zvaue 缲 织
+zvaui 驵 组 甾
+zveee 绽 综
+zveii 驻
+zveoi 缯
+zviae 缜 骤 纣
+zvoae 缒 缴
+zvoai 骓
+zvoee 纵
+zvoie 缵
+zvoiu 彘
+zvoue 终
+zvoui 绉 驺
+zvouu 纸
+zvuee 缀
+zvuia 纼
+zvuui 缁
+zwaua 惴
+zwaui 宙
+zweia 宰
+zweoe 灾
+zweoi 憎
+zwiae 忮 寨
+zwiai 怔
+zwiie 宗
+zwiui 窒
+zwiuu 窀
+zwoee 忪
+zwoie 慥
+zwoii 怍 窄
+zwoiu 宅
+zwuai 字
+zxaio 陟
+zxaui 阻
+zxeia 障
+zxeoa 牂
+zxiae 陬
+zxiai 坠
+zxiii 子
+zxioe 奘
+zxiua 阵
+zxoie 孜
+zxoii 阼
+zxuai 孖
+zxuui 骘
+zyaaa 钊
+zyaii 钻
+zyaua 铡 钟
+zyaue 镯
+zyaui 锃
+zyeie 镞
+zyeoe 镃
+zyeue 追
+zyiaa 针
+zyiae 镇
+zyiai 锗 钲 齄
+zyiie 铸
+zyiii 自
+zyiuu 皂
+zyoai 锥
+zyoie 铢
+zyoii 锺
+zyooe 锧
+zyoua 铮
+zyuui 锱

@@ -138,7 +138,8 @@ impl DictTranslator {
 		let mut init: YongDictSpellWords = HashMap::new();
 		let mut wordpsells = Vec::new();
 		for (word, withspecifieds) in j.into_iter() {
-			for spell in withspecifieds.other_spells {
+			let both = [withspecifieds.other_spells, withspecifieds.specified_for_make_word_spells.clone()].into_iter().flatten();
+			for spell in both {
 				if let Some(mv) = init.get_mut(&spell) {
 					if mv.iter().all(|w| w != &word) {
 						//綴の長さに応じて追加しないようにするかも

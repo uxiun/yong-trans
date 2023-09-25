@@ -2,6 +2,23 @@ use std::{collections::HashMap, hash::Hash, cmp::Ordering};
 
 use nom::Parser;
 
+pub fn hashmap_flip_flatten<K,L>(
+	// base: &mut HashMap<<L as IntoIterator>::Item, K>,
+	h: HashMap<K,L>
+)
+-> HashMap<<L as IntoIterator>::Item, K>
+where L: IntoIterator,
+	<L as IntoIterator>::Item: Hash + Eq + PartialEq + Clone,
+	K: Clone
+{
+	let mut base = HashMap::new();
+	for (k,v) in h.into_iter() {
+		for i in v.into_iter() {
+			base.insert(i, k.clone());
+		}
+	}
+	base.clone()
+}
 
 pub fn union_hashmap<L>(
 	s: &mut HashMap<<L as IntoIterator>::Item,L>, 

@@ -5,7 +5,7 @@ use std::{
   io::{self, BufRead, BufReader, Lines}, path::Path, fmt::Debug,
 };
 
-use crate::{parser::{YongDef, read_line_cangjie_def, read_line_xxyx_def, read_line_yong_def, read_line_custom_add, StringStringsDict, StringStringsEntry}, d, util::unions_hashmap, spell::{YongSpelling, SpecifySpelling, WordSpellsLineFormat}};
+use crate::{parser::{YongDef, read_line_cangjie_def, read_line_xxyx_def, read_line_yong_def, read_line_custom_add, StringStringsDict, StringStringsEntry, read_line_swap_key}, d, util::{unions_hashmap, hashmap_flip_flatten}, spell::{YongSpelling, SpecifySpelling, WordSpellsLineFormat}};
 
 pub fn main(){
   // let merged = to_yong_dict("table/cj5q-90000");
@@ -75,6 +75,14 @@ pub fn from_word_spells_dict<P: AsRef<Path> + Copy + Debug>
     HashMap::new()
   }
   
+}
+
+pub fn to_swap_key_dict<P: AsRef<Path>>(path: P) -> HashMap<String, String> {
+  if let Some(ly) = LinesBufYong::def_part_entire(path) {
+    ly.collect_swap_defs()
+  } else {
+    HashMap::new()
+  }
 }
 
 fn path_file_or_dict_prefix_match<P>(path: P, pat: &str)->bool 
@@ -186,7 +194,15 @@ impl LinesBufYong {
       } else {None})
       .collect()
   }
-
+  fn collect_swap_defs(self) -> HashMap<String,String> {
+    hashmap_flip_flatten(
+      self.x.into_iter()
+        .filter_map(|l| if let Ok(l) = l {
+          read_line_swap_key(l)
+        } else { None })
+        .collect()
+    )
+  }
   
 }
 
@@ -199,3 +215,16 @@ where P: AsRef<Path>
   let f = File::open(path)?;
   Ok(BufReader::new(f).lines())
 }
+pub fn swap_key(key: String, swapairs: &HashMap<String, String>)-> String 
+	{
+		let (_, changed) =
+			swapairs.iter().fold((false, key.clone()), |acc, d| {
+				let (has_changed, acc) = acc;
+				if !has_changed && acc.as_str() == d.0 {
+					(true, d.1.to_string())
+				} else {
+					(has_changed, acc)
+				}
+			});
+		changed
+	}

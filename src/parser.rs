@@ -153,6 +153,28 @@ pub fn read_line_custom_add(line: String) -> Option<StringStringsEntry> {
   }
 }
 
+pub fn read_line_swap_key(line: String) -> Option<StringStringsEntry> {
+  let (rem, ma) = tuple((
+    not_space,
+    spaces,
+    separated_list_by_space
+  ))(line.as_bytes()).ok()?;
+  let key = 
+    String::from_utf8(ma.0.to_vec()).ok()?;
+  if key.chars().count() > 1 { None } else {
+    let target_key = key.chars().next()?.to_string();
+    let range_keys = ma.2.into_iter()
+      .filter_map(|s| String::from_utf8(s.to_vec()).ok())
+      .filter(|s| s.chars().count() == 1 && {
+        if let Some(k) = s.chars().next() {
+          k.is_ascii_alphabetic()
+        } else {false}
+      })
+      .collect();
+    Some((target_key, range_keys))
+  }
+}
+
 pub fn filter_vowels(cs: Chars)-> String {
   cs.filter(|c| is_vowel_char(*c))
   .collect()

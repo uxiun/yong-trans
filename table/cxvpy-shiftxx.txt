@@ -1,0 +1,8923 @@
+a 口$SPACE
+b 那$SPACE
+c 对$SPACE
+d 的$SPACE
+e 之$SPACE
+f 上$SPACE
+g 在$SPACE
+h 可$SPACE
+i 我$SPACE
+j 报$SPACE
+k 是$SPACE
+l 开$SPACE
+m 不$SPACE
+n 了$SPACE
+o 和$SPACE
+p 得$SPACE
+q 间$SPACE
+r 这$SPACE
+s 人$SPACE
+t 着$SPACE
+u 分$SPACE
+v 有$SPACE
+w 学$SPACE
+x 出$SPACE
+y 下$SPACE
+z 多$SPACE
+ba 用 刚
+bb 腿 眼
+bc 县 受
+bh 周 膜
+bi 见$SPACE
+bl 目 朊 且 月
+bm 爱 胯
+br 赔 脑 脏
+bu 脸 网 贝
+bw 胺 腔 然
+bx 服$SPACE
+cc 翁 公
+cd 单 盆
+cl 金$SPACE
+cn 分 发
+db 根 涨
+dc 桶 皮
+dd 测 温 查 渴
+dh 满 对 法 酒 染
+di 梦 机 泡
+dl 枉 清 本
+dn 波$SPACE
+do 活 洗 桥
+dr 流 滚
+dt 样$SPACE
+dw 桉 水 末 来
+dx 李$SPACE
+dy 澳$SPACE
+fa 半$SPACE
+fh 烤$SPACE
+fi 光 燃
+fm 类 烦
+fp 少$SPACE
+fr 糖$SPACE
+fw 米 火
+fx 学$SPACE
+fy 雀$SPACE
+gb 块 坭 起
+gf 走$SPACE
+gk 越$SPACE
+gl 土$SPACE
+gm 坏$SPACE
+gn 嘉 场
+gr 垃$SPACE
+gt 喜$SPACE
+gx 地$SPACE
+hb 很$SPACE
+hc 鬼$SPACE
+hd 得 种 和 留 盘 各 向 算
+he 篇$SPACE
+hf 靠$SPACE
+hg 系$SPACE
+hh 条 等 特
+hi 移 船 先 段 毁 稳 般
+hl 行 白 自 壬
+hm 奥$SPACE
+ho 笔$SPACE
+hp 身 所
+hr 往 房
+hs 躺 处
+hu 风$SPACE
+hv 乱 几
+hw 八 魁 农 么 瓜 管 皖
+hx 季$SPACE
+ja 十 出
+jc 卖$SPACE
+jd 南$SPACE
+jh 富 宁
+ji 峰 老 朝
+jk 室 穿
+jl 宇 完 宝 害
+jm 家$SPACE
+jn 安$SPACE
+jo 教$SPACE
+ju 容$SPACE
+jv 七$SPACE
+jx 都 字
+ka 车$SPACE
+kb 词$SPACE
+kd 贺 右 或 误 课 癌
+ke 感$SPACE
+kf 让 店
+kh 读 杂 语 左 辅 谋
+ki 能 凝 疼 次
+kj 评$SPACE
+kk 库$SPACE
+kl 狂 讲 请 夸
+ko 敷 话
+kp 九 力
+kr 较 该
+kt 说 馗 谈
+ku 论$SPACE
+kw 办 之 龙 求 戈 太 书 成 大 为
+ky 讹$SPACE
+la 中$SPACE
+lb 银 归
+ld 闸 问 侃 间 但 复 背 偶 钠 费
+le 您$SPACE
+lh 年 借 付 阖 闭 错 使 阑 闲 做 阗
+li 像 将 凭 阁 锋 铭
+lk 链$SPACE
+ll 会 非 闰 余 钱
+lm 领$SPACE
+ln 仍 被
+lo 矮$SPACE
+lq 们$SPACE
+lr 倍 闹 位 停
+lt 阙 阅 锐
+lu 从 闪
+lv 门 闯 气 儿 电 片 每
+lw 虫 肉 入 阔
+ly 阀$SPACE
+ma 干 开 到
+md 酮 现 而 可 理 瑞 画 百 否 面
+me 恶 憨
+mh 辱 耐 球
+mi 死 确 夏 元 一
+ml 二 票 玩 五 再 三
+mm 需 碱 环 弄
+mn 破 动 要
+mo 生$SPACE
+mp 万$SPACE
+mw 下 碗 天
+na 剥$SPACE
+nb 弱 限
+nd 孟 强
+ne 骗$SPACE
+nh 阿 隔
+ni 陶 多 降
+nl 马 阮 陆 子
+nm 骑$SPACE
+no 阡 张
+nr 孩 陪 防
+ns 录 外
+nu 欠 队
+nv 孔$SPACE
+nw 小 飞 买 又
+nx 色$SPACE
+pa 刨$SPACE
+pb 快 包
+pc 怪$SPACE
+pd 慢$SPACE
+ph 懂 懒
+pi 比$SPACE
+pj 怦$SPACE
+pl 情 鸟
+pv 乸 也
+pw 长 心
+qa 手$SPACE
+qd 帮 捏 春 扣 抽
+qh 摸 打
+qi 换$SPACE
+qk 找$SPACE
+ql 扶$SPACE
+qo 挺$SPACE
+qr 接 搞
+qu 抢 摇
+qw 夫 挖 按 热 专
+qx 把 耙
+qy 拍$SPACE
+rb 呢 跟
+rh 吓 哇 导 呆
+ri 路 跑
+rk 呀 号
+rl 口$SPACE
+rm 吠 器
+ro 吃$SPACE
+rp 听$SPACE
+rr 嚷$SPACE
+ru 啥 只
+rv 吗 民
+rx 吧 啊 叫
+sa 刷$SPACE
+sc 以$SPACE
+sd 髯$SPACE
+sh 早 时 寻
+si 明 匹
+sk 屋 昆
+sl 日 卫
+sm 题$SPACE
+sn 尻$SPACE
+so 星 改
+sp 刀$SPACE
+sr 暗$SPACE
+st 屏$SPACE
+su 暖$SPACE
+sv 巴 已
+sx 即 那 屙
+ta 蓝$SPACE
+tc 翔$SPACE
+td 前 草 黄 着 莫
+th 差 著 苦
+ti 藤$SPACE
+tk 瓶$SPACE
+tl 关$SPACE
+tm 若$SPACE
+tn 剪$SPACE
+to 董$SPACE
+tp 薇$SPACE
+tu 艾$SPACE
+tv 药$SPACE
+tw 萍 薄 范
+tx 孽 节
+ty 花 养
+vc 始$SPACE
+vd 如 纳 组
+ve 编$SPACE
+vh 姑 红 娃 嫱
+vi 约 缝
+vk 姨 绕 纯 练
+vl 女 线
+vm 绔$SPACE
+vn 级$SPACE
+vo 娥 姓 收
+vr 缔 统
+vt 婵$SPACE
+vu 给$SPACE
+vv 妈$SPACE
+vx 她$SPACE
+vy 维$SPACE
+wd 回$SPACE
+we 恩$SPACE
+wh 困$SPACE
+wi 图 四
+wl 里$SPACE
+wn 男$SPACE
+xr 就$SPACE
+yc 变$SPACE
+yd 蛮 市 高
+ye 送 连 逆 这 退 通 进 迟 还 近 过
+yh 亲 桌
+yi 虎 赢
+yk 虐$SPACE
+yl 上 些 与
+ym 频 豪 睿 头
+yo 放$SPACE
+yp 瓤 新
+yr 旁$SPACE
+ys 卡$SPACE
+yu 六$SPACE
+yw 文 点
+baa 用 刖 则 刚 删
+bbe 瞩 瞰 脲 腱 赆 腿 爵 膙 眼
+bbi 腒$SPACE
+bbu 鼎 眠
+bca 眸$SPACE
+bce 县 受 睽 睃 矍
+bci 贻 眙 胫 瞪 胎
+bco 髎$SPACE
+bda 胛 腨 肿 幂 胂
+bde 腆 腘 髁 肭 冥 臊 胭 脶 赑 髃 腮 髑
+bdi 胴 腥 釉 胆 骨 腽
+bdo 赐$SPACE
+bdu 腭 贶 觅
+bee 瞑 悬 脉 脓
+beu 眈$SPACE
+bfe 胩$SPACE
+bfi 贴 腓
+bfo 胪$SPACE
+bfu 虢 眦
+bgo 眇$SPACE
+bha 膈 脚 肺 盯 腩
+bhe 胠 瞒 瞟 采 朦 肢 赎 赙 膘 赇 臌 瞋 膝 膜 肘 貘 膊 脯
+bhi 瞌 肛 赌 貆 眭 骷 睦 腊 脖 周 同 肚 睹 腰 瞄
+bho 膨 财 豺
+bhu 眄$SPACE
+bia 睁 舜 胸
+bie 胝 眵 繇 骰 豹 冤 骶 股 购 肷
+bii 貉 赒 鹏 赂 骼 脂 鹞 朋 朐 鹘 胳 盷 瞻 赡 鹦
+biu 冗 见 脆 肌 胞
+bja 臑$SPACE
+bje 睐$SPACE
+bka 军$SPACE
+bke 腻 胨 眍 胰 睫
+bki 眶 写
+bko 贼$SPACE
+bku 肫 盹
+bla 肼 肝 盱 罕
+ble 爰 贱 冠 腠 祭 肤
+bli 目 睛 腈 囗 册 且 丹 月 赋 皿 凸
+blu 肟 朊
+bme 豚 髓 爱 胧 眬 肽 冢 赈 瞭 肱
+bmi 胚 睚 貊 腼 贿
+bmu 胯 腌
+bne 胁 皲
+bni 貂 婴 妥
+bno 助 肠 肋
+boa 罂$SPACE
+boe 败 瞅 臜 腹 胀 账
+boi 胙 睡 胜
+bou 氍 眊
+bpe 胍 贩
+bpi 腯 骺
+bpo 彤 彩 肜 豸
+bra 脐 脑
+bre 赅 眩 臁 胲 腋 臆 骸 腑 胶
+bri 赔 赃 膪 膻 臃 瞳 脏
+bro 肪 膀 髈
+bru 肮$SPACE
+bsi 膛 瞠
+bsu 胱$SPACE
+bta 膦 胖 瞵 胼
+bte 炙 滕 脒 睒 朕 赕 赚 眯
+bti 髅 塍 腾 赠 膳 媵
+bto 睇$SPACE
+btu 罔 脱
+bua 腧 骱 瞬
+bue 脎 脍 贬 朓 脟 赊 冈 具 眺 睬 网 眨 贝
+bui 睑 谿 脸 脬 脞
+buo 盼 胗
+bve 奚$SPACE
+bvu 乳 甩
+bwe 膑 髌 腚 然 腙
+bwi 膣 髂 瞎 胺 腔 贮
+bwu 腕 脘 髋
+bxa 郓 郛
+bxe 服$SPACE
+bxi 觃 孚
+bxu 肥$SPACE
+bya 髀 睥 脾
+bye 瞧 腴 貅 瞍 腺
+byi 雕 瞿 睢 舀 雎
+byu 睨 貌 貔
+caa 剃 丫
+cbe 冁$SPACE
+cbo 弟$SPACE
+cce 公$SPACE
+cci 翁$SPACE
+cda 单 岔
+cde 贫$SPACE
+cdi 兽 盆 谷 曾 釦
+cdu 兑$SPACE
+cee 总 忿
+che 谼$SPACE
+chi 坌$SPACE
+cie 欲 爹
+cii 鹆 鹟 鹈
+cke 甑 瓮
+cku 兮$SPACE
+cli 金 釜
+cme 颁 颂
+cno 分$SPACE
+coe 攽$SPACE
+cpa 斧$SPACE
+cue 父$SPACE
+cui 鑫$SPACE
+cxa 邠 郸 爷
+cxu 爸$SPACE
+daa 刺 剟 剌
+dai 滥 槛
+dau 榄$SPACE
+dba 澼 津 沸 涮 樨 汛
+dbe 渌 根 艰 棂 浸 浔 棣 澉 浕 漏 泓 涨 楗 橄
+dbi 溺 潺 榍 椐 渥 汈
+dbu 杞 溉 泯 泥 概 汜
+dca 桶 杼 泽 涌
+dce 叕 皮 浚 汊 杈 汉 权 双 树 梭 叒
+dci 濯 治 柽 滩 澄 橘 橙 栩 泾
+dco 渗$SPACE
+dcu 沇$SPACE
+dda 测 涠 淠 汕 柙 湍
+dde 濈 灏 涡 泱 溅 棵 蚤 澡 楒 洇 淟 泅 湜 椤 漯 澂 溃 枘 漶 汭 赉 浞 瀑 枳 漫 浊 淏 淼 溦 涢
+ddi 溻 汨 楫 沺 潞 桐 榻 涓 温 洞 呇 杳 汩 泪 柚 泂 沓 相 查 濉 滑 油 沮 樱 澧 湿 梠 涅 溷 叠 榀 涸 杏 渭 洄
+ddo 渺 楞
+ddu 枧 观 浥 涔 梣 桤 柷 泗 渴 枵 混 棍 渑
+dea 浑 浒 榔
+dee 懑 溟 浪 想 泌 浓 怼 懋 栐 沁 深 泳
+dei 槠 榷 泻 滘
+deo 沪$SPACE
+deu 枕 沈 沉
+dfa 滹 淖 棹
+dfe 椒 淑 桢 濒 浈 滤
+dfi 沾 瀣
+dfo 涉 栌 泸
+dfu 泚$SPACE
+dga 浉$SPACE
+dgo 杪 沙
+dha 漭 浙 椰 汁 澌 汀 楠 滞 沛 淅 潭 栉
+dhe 棘 满 槱 森 淋 浭 涑 渫 楝 樾 濑 栱 漆 滇 淞 梽 桑 檬 潆 潢 棋 澍 洪 溁 梁 橞 溥 濛 棱 柄 横 漂 梗 沭 漖 对 法 濋 淇 浦 潇 漠 渠 沐 潵 村 林 滠 柒 椟 漱 渎 染 模 枝 溧 滢
+dhi 梧 楮 榰 洼 整 潸 枯 樯 洹 河 洱 漕 洒 漤 浯 渚 桠 槿 杠 栖 泔 江 湖 沽 槽 桂 植 浡 渣 桔 湘 杜 酒 潮 柑 灌 瀚 洁 湮 溘 溍 柯 桓 楂 圣
+dho 澎 渤 材 涝
+dhu 椹 栲 栳 泄 湛 港 沔
+dia 槲 浲 泖 淘 洚 桷 檞 柳 澥
+die 橡 杓 欢 梦 汐 枫 没 涤 沨 赖 柢 栎 泺 涣 汋 柊 沟 梵 淴 漈 构
+dii 枸 澹 榴 格 鲨 栅 澛 橹 鸿 洛 潴 檐 溜 漪 淜 沿 洺 泃 渔 洵 棚 鸡 椆
+diu 洈 浼 氿 桅 淝 机 泡
+dja 濡 枰 泙
+dje 涞 浃
+dji 檑 灞
+dju 樗$SPACE
+dka 械 渐
+dke 柩 涟 沤 枢 杙 梿 戏 栋
+dki 桎 框 洭 湝 榧 棫 楷
+dko 沏$SPACE
+dku 沌 桡 朽 沘 汇 枇 浇 柜
+dla 汗 沣 杆 棒 梆
+dle 添 涛 楱 梼 柰 浅 溱 沄 渍 栈 沫 禁 枟 标 榛 楔
+dli 枉 椿 汪 清 本 潜
+dlu 潖 沅 污 滟
+dma 攀 洌
+dme 杖 杯 樊 栊 溽 橑 颇 橱 潦 涿 泷 源 颡 槭 杕 橛 汰
+dmi 洧 椅 柘 湎 涯
+dmo 沥 枥
+dmu 杌 淹
+dne 波 泼 汲 极
+dni 洳 沼 涩 娑 柖 婪 汝 枷 婆 楹
+dno 汤 杨 劝
+doa 挲 杄 杵 湃 桥 浰
+doe 洙 株 海 枨 敕 枚 涐 沃 湫 梅 楸 梃
+doi 活 浩 梏 潲 棰 柞 栝
+dou 滗 汔 沲 汽 洗 橇
+dpa 桁 沂 析
+dpe 板 柝 派
+dpi 楯$SPACE
+dpo 杉 才 彬
+dpu 栀$SPACE
+dqe 澜$SPACE
+dqi 涧 榈 润
+dra 漳 淬 浏 梓 柿 樟 漷 渟 济
+dre 漓 濂 淤 檩 榱 瀌 漩 液 瀼 洨 汴 裟 汶 核 澈 滚 椋 泫 瀛 滦 渡 榇 校 濠
+dri 潼 泣 淳 檀 游 涪 柱 溏 注 滴 桩 槁 椁 澶 棓
+dro 滂 榜 浐 枋
+dru 流 漉 麓 沆 杭 湾 杧 椸 梳
+dse 朴$SPACE
+dsi 梢 档 樘 消 淌
+dsu 洸 桄
+dta 样 湔 泮 洲 洋 洴
+dte 焚 瀵 淡 滋 棪 樽 洣 漾 烫 粱 沩
+dti 楼 溠 溇 栏 槎 溢 溯 潽 椪
+dto 涕 梯
+dtu 棬$SPACE
+dua 浠 渊 渝 汹 榆 瀹
+due 泛 洮 溆 朳 潋 泠 溪 梌 松 浍 桃 枞 檎 涂 柃 桧 僰
+dui 淦 滔 淆 桴 洽 浴 浛 鋈 滏 浮 淫 栓 湓 鎏 检 潘
+duo 汾 棼
+duu 枪 沧 沦
+dve 橼 椽
+dvi 淄 潍 杩
+dvu 札$SPACE
+dwa 榉 泞 渖 柠 滓
+dwe 木 寸 水 束 滨 枣 槟 檫 棕 末 夬 叉 柬 淙 杰 淀 来 演
+dwi 楦 桉 涫 榨 棺 湉 渲 溶 榕
+dwo 桫$SPACE
+dwu 浣 柁 椀 涴 沱
+dxa 郴 涵 邓
+dxe 楚 滁 滍
+dxi 湄 杻 楣 漋 椭 李
+dxo 泐$SPACE
+dxu 杷 池
+dya 槔 棉 櫆 桦 榫 濞
+dye 溴 槌 澳 檄 濮 溲 梴 槐 榭 樵 浜 椴 激 楩 涎
+dyi 桕 泊 皙 椎 湟 洎 滫 淮 难 柏 洫
+dyo 洢$SPACE
+faa 剡 判 半 削
+fbe 烬 炔 糨 煺
+fbi 焗 当
+fce 焌 糅 燮 熥
+fci 耀 烃 熠
+fco 糁$SPACE
+fda 常 焊 峃 灿 籼
+fde 炽 爆 煨 粿 燥 烛 蹩 烟 熳 泶 赏
+fdi 煋 炯 粗 肖 瞥 煟 煜 眷 炟 尚 省 煴 脊
+fdo 牚$SPACE
+fdu 觉 焜
+fea 煸 辉
+fee 憋 粮
+fei 煽$SPACE
+feo 炉$SPACE
+ffa 焯$SPACE
+ffi 粘$SPACE
+fgo 炒$SPACE
+fha 灯 糒
+fhe 煤 棠 黉 粪 粳 桊 烘 炳 熛 燊
+fhi 粞 尘 炣 糊 焐 爟 灶 煳 烜 堂 糟
+fhu 烤$SPACE
+fia 烽$SPACE
+fie 欻 灼 燃 焕 烁 炊
+fii 鲎 熘 糌 焰 烙 鲞 鳖
+fiu 光 党 炮
+fja 糯$SPACE
+fke 炼$SPACE
+fku 炖 烧 炬
+fla 举 炜
+fle 尝$SPACE
+fli 精$SPACE
+fma 弊$SPACE
+fme 尖 尜 燎 豢 类 烦
+fmi 炻 煃
+fmo 粝$SPACE
+fni 娄$SPACE
+fno 劣 炀 券
+foa 拳 掌
+foe 数 敝 敩 敉 糙 烶 敞
+foi 炸 喾
+fou 氅$SPACE
+fpa 炘$SPACE
+fpe 叛$SPACE
+fpo 少$SPACE
+fqe 焖$SPACE
+fra 粹$SPACE
+fre 炫 糠 炆 裳
+fri 糖 焙 粒 熵 焞 誊 誉 熇 炷
+fru 炕$SPACE
+fta 燐 烊
+fte 糍 燧 焱 燚 炎 糕
+fti 烂$SPACE
+fua 烯 烀 炌
+fue 烩 爝 兴
+fui 燔 焓
+fuo 粉$SPACE
+fuu 炝$SPACE
+fvu 粼 卷
+fwa 料$SPACE
+fwe 米 粽 火
+fwi 煊 熔
+fwu 烷$SPACE
+fxa 郯$SPACE
+fxi 糈 学 籽
+fxu 粑$SPACE
+fya 烨$SPACE
+fye 糇 煅 糗 熜 燠 烻 熄
+fyi 煌 粕 雀
+gai 壶$SPACE
+gba 垏 埽 墀 堀
+gbe 块 埭 垠
+gbu 圮 圯 坭 起
+gce 去 埃
+gda 坤 垾 嶅
+gde 螫 埘 埙 堤 袁 埚 螯 墁 坝
+gdi 垌 瞽 盍 趄 埋 啬 塌 盐 埕 吉 坦
+gdo 塄 埸
+gdu 垲$SPACE
+gee 悫 恚 志 憙
+gfe 走$SPACE
+gfi 址 坫 墟
+gfo 埗 垆
+gha 圢 塥
+ghe 埂 封 填 鼓 堎 寺 埔 堞 赫 趣
+ghi 壹 塔 垣 赭 圭 墙 堌 堼 聱 垚 坷 堙 埴 坩 壸 喆 垭 堵
+gho 墈$SPACE
+ghu 堪$SPACE
+gie 毂 堍 觳 彀 坻 款 坎 垛
+gii 趋 坍 坞 均 堋 垎
+giu 壳$SPACE
+gja 坪$SPACE
+gke 越 甏
+gki 垤 堰 域
+gku 坉$SPACE
+gla 赶 圩
+gle 坛$SPACE
+gli 冉 土
+glu 圬$SPACE
+gma 趔$SPACE
+gme 坏 獒 堧 城 垯 塬 垅 颉
+gmi 嚭 埼 坯 磬
+gmo 坜$SPACE
+gmu 埯 垮
+gne 坡 圾 丧
+gni 嘉 超
+gno 劫 场
+goa 罄$SPACE
+goe 敖 赦 趱
+goi 埵 馨
+gou 圪$SPACE
+gpa 圻$SPACE
+gpe 坼 坂 坬
+gpi 垢$SPACE
+gpo 彭$SPACE
+gra 垴 垿 墉
+gre 墩 趑 壤 坟 垓 懿 壕
+gri 垃 謦 堉 塘 培 墒
+gro 坊 塝 圹
+gru 塆 坑 境
+gse 赴 卦
+gsi 埫 垱 趟
+gsu 垙$SPACE
+gta 幸$SPACE
+gti 墡 增 喜
+gue 埝 赵 埒
+gui 垺 鏊
+guo 趁$SPACE
+gve 坶$SPACE
+gvi 毐$SPACE
+gvo 坳$SPACE
+gwe 熹 墚 熬
+gwi 埪 垵
+gwu 垸 坨 垞
+gxa 郝 邿 却 赳 邽
+gxe 赧$SPACE
+gxi 趯$SPACE
+gxo 声$SPACE
+gxu 地$SPACE
+gya 埠 圳 埤 鼙
+gye 埏 塅 赤 堠
+gyi 垧 垍 堆
+haa 劓 千 币 制 利 斤 剩 乎 甪 升 刮 牛 彳 剁
+hae 穙$SPACE
+hai 篮$SPACE
+hba 肇 律 卿
+hbe 箫 很 箓 犍 毽
+hbi 笥 簋
+hbo 第 笋
+hbu 艉 躬
+hca 毪 释
+hce 私 篡 丢 凤 鬼 殳 叟 反
+hci 翻 簦 翱 笞 扇 翩 径
+hcu 鼠$SPACE
+hda 帛 种 箅 衢 扁 舯 舢 算 鼻 岙
+hde 箩 得 赞 稞 篑 螽 斶 稷 犋 黧 徽 徵 积 秽 飓 篾 蚕 微 贸 秧 泉
+hdi 眚 程 肩 舳 盥 笪 和 启 看 香 昝 番 留 稆 租 咎 笛 盘 筒 鼹 后 盉 舌 鼬 昏 各 告 向 徂 扃 备
+hdo 舅 甥
+hdu 扈 舰 魍 皑 笕
+hea 篇 犏
+hee 惩 秘 愆 秾 憩 稂 愁 悉 惫 息
+hfe 徙$SPACE
+hfi 靠 飐 徊 徘 毡 扉 黏 扂
+hfo 舻$SPACE
+hga 筛$SPACE
+hge 忝 系
+hgo 秒$SPACE
+hha 筇 街 簟 卑 箍 阜 衠 衙 睾 箨
+hhe 魉 棨 条 簸 待 簌 朵 德 齉 艨 爨 射 籁 犊 稹 臬 策 徒 等 秫 篥 簧 穗 筑 槃 特 筻 梨 箕 质
+hhi 馞 艚 箝 甜 牯 牾 鼯 舸 秸 箬 筘 舾 筀 簠 盾 籀 筮 箸 舡 征 齄 牡 筠 牺 穑 垕 箱 笨
+hho 簕$SPACE
+hhu 筢$SPACE
+hia 衡 筝
+hie 移 舄 穄 篷 段 役 欣 囱 歃 称 躲 的 毁 殷 稳 般
+hii 船 鸹 齁 氇 徇 鼩 囱 鹅 鹎 稠 鸱 鹄 笱 鹠 鹙 鸻
+hio 秭 笫 物 笏 筋
+hiu 飑 舐 先 牝 兜 秃
+hja 秤$SPACE
+hje 徕$SPACE
+hka 筚$SPACE
+hke 躯 箧 魆
+hki 筐 笸 簪 篚
+hko 彻$SPACE
+hku 舭 秕 皂 粤
+hla 竽 秆 笄 拜 行 鼾 竿
+hle 魅 箦 璺 笺 舔 秣 筹
+hli 皇 臼 生 白 竺 自 重 血 籍 箐 垂 篝 壬
+hma 嵇 皋 舁
+hme 奥 魃 笼 衃 戾 颓 须 颀 夙 臭
+hmi 箴 磐 稽 犄
+hne 笯 笈 笾 彼
+hni 委 笳 笤
+hno 鼽 务 飏 秀
+hoa 犁 御 衔 掣 竹 犇
+hoe 笑 簃 簉 敌 瓞 秩 艇 牧 敫 馥
+hoi 笮 牲 皓 笙 牿 舴
+hou 笔 牦 筅 毳
+hpa 所$SPACE
+hpe 笊 皈 舨
+hpi 循$SPACE
+hpo 身$SPACE
+hpu 篪$SPACE
+hqi 简$SPACE
+hra 辞 衒
+hre 扆 穰 魑 簇 篱 舷 皎
+hri 篙 穜 稿 往 犒 笠 艟
+hro 舫 牥 房 彷
+hru 牤 航 簏
+hse 处$SPACE
+hsi 稍 筲 魈 筜 徜 躺 艄
+hta 簖 徉 箪 衅 箭
+hte 舣 飚 秋 穟 毯
+hti 氆 篓 艏
+htu 税$SPACE
+hua 搿 徭 掰 稀
+hue 黎 艅 皭 风 舆 稔 鼷 黍 徐
+hui 签 孵 囟 筌 皤 稃 稻 答
+huo 鼢$SPACE
+huu 舱$SPACE
+hve 綮 篆 後 纂
+hvi 笃$SPACE
+hvu 卮 毛 乱 乖 氏 几 乇
+hwa 魁 衍 科 戽
+hwe 八 氐 凡 臾 筷 乏 斥 秉 农 我 冬 舟 么 朱 乐 爪 夭 稼 瓜 禹 乘 簿 禾 失 熏
+hwi 箔 箜 管
+hwu 筦 箢 乘 舵 皖
+hxa 郫 邸 鄅 卬 郈 印 卯 邾 郜 鄱
+hxe 卵$SPACE
+hxi 季 衄 艋
+hxu 笆 爬
+hya 乔 稗 皞
+hye 艘 魄 篌 飕 筵 皦 符 魏 徼 筱 筏
+hyi 雒 皛 凰 篁 稚 徨 雇 舶
+hyo 穆$SPACE
+hyu 篦 篼
+jaa 剋 剜 十 艹 事 出 山 割 刿 剀
+jba 崛 窟
+jbe 嘏$SPACE
+jbi 窘 崌
+jbu 岂 岷 屺 穹
+jca 峄$SPACE
+jce 支 卖 峻
+jci 翥 嶝 翘 翅
+jco 寥$SPACE
+jda 岬 窜 审 密 甯 帘 南
+jde 岗 赛 蜜 崽 寰 窝 赍 寓 戴 窠 蚩 蹇 贲
+jdi 崮 宜 岫 宴 軎 古 峒 者 宫 哉 直 官 耆 宙
+jdu 觊 崿 岘 觌 克
+jee 宓 惠
+jfe 寂$SPACE
+jgi 岿$SPACE
+jha 宁$SPACE
+jhe 定 栽 巅 崶 崁 崚 窦 守 崧 寅 博 寞 峙 尅 宋 岐 嵌 寨 案 嵘
+jhi 嵖 岵 塞 崾 宣 富 岢 墼 矗 空
+jho 崂$SPACE
+jhu 宽 兢 窍
+jia 峥 峰 峁
+jie 穸 岁 察 衷 麴 嶷 岚
+jii 崩 岣 峋 客 窎 朝 鹕 胡 鹁 鸪
+jiu 鬯 它 老 凯 峗 宛
+jje 崃 峡
+jka 宦 宧 崭
+jke 岽 岖 戟 戭
+jki 耋 室 屿 窒 载
+jko 窃 岈 穿
+jku 窀 考
+jla 韩 宇 岍
+jle 宗 囊 祟 寇 宝
+jli 士 害
+jlu 完 窥
+jma 豳 卉 岸 峏
+jme 炭 橐 宏 献 颠 颛 突 家 宸 蠹 寮 宠 额
+jmi 嫠 岩 宥 崎 崴 寄 崖 嵅 宕
+jmo 寡$SPACE
+jmu 崦 尧
+jne 协 岌
+jni 妻 安
+jno 勃 宄 穷 究
+joa 窑 搴 牢 峤
+joe 峨 教 嵊 巍 故
+joi 窖 窄
+jou 宅 宪 耄 乾 屹
+jpe 窳 窊
+jra 嶂 窣 辜 宰 崒
+jre 褰 寝 裁
+jri 謇 嵩 窨 崞 嵴
+jsi 峭 宵
+jta 嶙$SPACE
+jte 粜 嵫 灾
+jti 窭 嵯 嵝
+jua 窬 嵛 斡
+jue 窸 穴 窕 岭 真 窆
+jui 崤 峪 翰 豁 崄 容
+juu 岑$SPACE
+jve 索 幽
+jvi 骞$SPACE
+jvo 窈$SPACE
+jvu 匕 七
+jwe 未 吏 崇 煮 寒 丈 实
+jwi 崆$SPACE
+jxa 凼 都 函 邖 酆 凶
+jxe 寐$SPACE
+jxi 寤 孛 窿 嵋 茻 字 孝
+jxu 岜$SPACE
+jye 宾 窗 嵬
+jyi 截 宿 崔
+kaa 州 车 刈 剞 刳 刬 刹 划
+kai 尴$SPACE
+kba 狒 癖 讯 庸
+kbe 猕 决 庚 痕 庹 康 癜 狠 禄 瘕 祲 辗 诀
+kbi 词 祠 唐
+kbu 记 祀
+kca 诵 痛 译 序
+kce 轰 发 狻 诶 度 辍 友 猱 瘙
+kci 翃 冶 轻 瘫 诒 谲 诩 痉
+kco 谬 廖 瘳 瘆
+kcu 狁$SPACE
+kda 冲 狎 席 癌 神 痹 疝 讪 布
+kde 谩 禔 贺 冰 识 轵 猡 赓 狈 误 瘰 课 谴 祼 蹙 祸 勰 腐 独 资 讷 谡 猓 猥
+kdi 诇 廛 猩 昚 谓 有 禤 右 或 疸 彧 盔 瘟 诅 猾 狸 辑 膺 庙 旮 猖 暂 奋 痼 疽 猬 癯 轴 狙 昶 加 咨 旭 祖 瘿 盏 盗 台 盛 狷
+kdu 辊 祝 谔 况 视 谒 奄 辋
+kea 诨 廊 谝
+kee 恣 祕 惑 狱 怠 狼 忒 态 感
+kei 谧$SPACE
+keo 庐$SPACE
+kfe 戚 祯
+kfi 痱 谑 祉 让 靡 诽 店
+kfo 轳$SPACE
+kfu 疵 猇
+kga 狮$SPACE
+kha 疔 订 谭 瘌 计
+khe 庱 癞 套 辕 祾 讨 杀 祛 椠 凓 读 瘼 凌 麻 猿 谳 痣 谟 杂 庋 辆 獴 瘭 诗 谍 夺 枲 獭 床 麒 龚 诹 癀 禛 辅 橥 谋 祺 谏 凇 病 架 瓻 癫
+khi 疴 垒 疳 廑 耷 奇 猢 在 禧 猎 式 冮 诖 痖 症 轱 语 垄 诸 咸 社 奎 禋 左 瘩 堑 诃 轲 诂 诬 哿 谨 奢 猪 猫 福 甙 辐 诺 聋 诘 痘 讧 证 獾 祜 猹 庄 痦
+kho 痨$SPACE
+khu 辄 臧 谌 谎
+kia 净 獬 痈 廨 诤 狰 癣
+kie 狝 痪 软 瘵 祢 疫 设 底 欸 欹 疯 欷 诋 祗 谗 凝 疚 轹 尥 麽 疼 次 讽 飙 祋
+kii 朗 鸢 诳 诣 鹌 鸠 鹧 鸫 辂 诌 调 谄 鹩 鹰 狗 凋 鹒 瘤 询 谵
+kiu 能 庀 庖 狍 讥 疱 麂 诡 匏 祇
+kja 评$SPACE
+kje 狭$SPACE
+kji 瘗 癗
+kka 诫 库
+kke 瓷 讴 庼 痍 冻 奁
+kki 诓 狴 弑 凄 疟 威 痓 谮 轾 谐 冱 试 轼
+kko 讶 狨 疠
+kku 鹿 庇 讵 奆
+kla 讳 讲 犴 祎 轩 讦
+kle 禊 转 诔 祆 廒 辏 诪 贰 瘛 痔 凑 祷 奈
+kli 癍 戌 猜 狂 请 尪
+klu 夸 庑
+kma 弁 希 戒 冽 奔
+kme 獠 庞 祓 奭 颊 疣 犹 诙 庆 獗 瘃 诼 诚
+kmi 猗 痞 叁 奭 畚 砻 狉 减 肴 祐 磨
+kmo 戎 疬
+kmu 轭 庵
+kne 疲 皴 废 讱 轫 瘸
+kni 轺 痂 诏 姿
+kno 轨 疡 夯 犰
+koa 许 摩 猁 轿 牵 痢 牟
+koe 诛 诲 敷 矣 獯 庭 谀 麇 轶 疾 救
+koi 诰 祚 诈 痄 话 痴 诿 痿
+koo 诱$SPACE
+kou 毵 讫 疙 诜 讬 麾 冼
+kpa 祈 斩
+kpe 辀 瓠 狐 瘢 诉
+kpi 诟$SPACE
+kpo 户 九 参 力
+kqe 痫 谰
+kra 谇 谛 瘴 廓 獐 猝 瘁
+kre 较 该 辙 谅 禳 痃 裘 袈 凉 凛 辌 瘀 袭 癔 狡 廪
+kri 狺 谙 谘 瘠 麈 疰 詟 訄 谪 谆
+kro 访 谤 犷 谚
+kru 獍 麤 辘
+kse 讣$SPACE
+ksi 诮$SPACE
+ksu 谠$SPACE
+kta 庠 禅 瘅 辚 麟 祥 痒 详
+kte 疢 粢 炱 灰 痰 狄 谜 谈 廉 谦 糜 议 麋 禚
+kti 瘥 谱 馗 谥 瘘
+kto 谫$SPACE
+ktu 说$SPACE
+kua 轷 谣 谕 疥 输 尬 讻
+kue 谶 认 爽 疭 爻 狯 谂 祧 狳 冷 谖 讼
+kui 诠 鏖 座 痊 錾 猞 痤 辁 猃
+kuo 疹 诊 轸
+kuu 论 疮 轮
+kve 縻$SPACE
+kvi 辎 冯 驾 祃 犸
+kvu 尢 允 犯 轧 礼
+kwa 狞$SPACE
+kwe 尤 办 熊 之 夹 丸 乂 戋 龙 戍 狩 求 义 永 戈 夷 甫 弋 太 庶 东 尨 书 成 大 犬 良 为 戊 术
+kwi 谊 辖 应
+kwo 痧$SPACE
+kwu 诧$SPACE
+kxa 郁 鄌 郗 诎 邰 疗 郎 邝 祁 郏 疖 郄
+kxe 狲 瘾
+kxi 猛 癃 猸 存 狃
+kxu 疤$SPACE
+kya 庳 夼 训
+kye 诞 府 麝 瘦 庾 庥 魔 瘊 瘐 谢 谯 猴
+kyi 谁 雄 准
+kyu 瘪 讹 猊
+laa 聿 个 剑 刽 串 川 创 巾 劁 剕 钊 中 弗 申
+lae 镤 幞
+lai 铿 褴
+lba 矧 倔 佛 氟 蚓 僻
+lbe 阚 假 裉 侯 银 侵 襁 褪 氯 键 袂 候 镪 镄 健 锓 缺 僎
+lbi 裾 倨 伺 锔 归 裙 幄 锯 偓
+lbo 伊$SPACE
+lbu 伲 铌
+lca 蛹 蛑 俑 舒 侔 铎
+lce 仅 叙 衩 钗 俊 俟 裰 阕 似
+lci 褶 傩 翕 翎 镫 氢 翡 蛏
+lco 僇$SPACE
+lda 龠 仲 侧 铡 命 岱 帅 闸 氙 伸 钟 铞 俞 岳 钾 仙
+lde 俣 俱 锅 黛 阃 冀 镘 蠼 蜾 锣 儇 氽 阒 汆 肏 锶 蜗 货 锝 俶 蜈 贵 镙 贪 帼 贷 蚋 蜚 帜 裸 镮 衲 复 钡 钢 幔 镯 偶 氤 钠 促 浆 螺 倮 贤 费 偎 赁 保 铟 锞 闽
+ldi 褟 知 蜎 钼 售 含 阊 倡 蛆 盒 盎 锃 监 畲 阘 铝 闾 裎 问 间 胄 氲 智 袒 锂 钿 铜 蛔 盅 旧 侗 俎 锢 但 蝈 催 合 蚺 背 镚 肾 侣 俚 蛊 蛐 帽 铀 佃 钽 蚰 儡 袖
+ldo 蜴 锄 裼 锡
+ldu 锟 蝇 蚬 侃 锷 褐 幌 铠 觎 偈 俜 闿 览 蝎
+lea 裈 偏 蝙 螂 褊
+lee 悲 您 牖 铋 悠 念 螟 阆 锒 侬 闷 忠 食 怂 令 患 怎 恁 愈
+lei 傕 储 盦 雠
+leu 今$SPACE
+lfa 倬 罅
+lfe 侦 帧 佧
+lfi 帖 褙 俳 企 钻
+lga 蛳$SPACE
+lgo 钞$SPACE
+lha 年 襻 镉 钉 隼 师 蝻 倻 镡 午 蟒 什 蝲 蜥 仃 华 针
+lhe 俅 休 付 衬 蠖 螵 蟏 幖 鼗 蟪 虾 蝶 蠓 铺 侍 便 使 阑 俪 蝾 榘 镖 褂 供 傈 螨 僳 闲 牒 牍 做 儆 桨 蜞 蟆 镈 蠛 偾 镬 集 蟥 镆 镊 俩 伎 镇 阗 傅 蛃 襟
+lhi 借 螬 钶 坐 闺 蛄 佴 短 偌 阖 僵 钴 仕 估 钳 佶 幅 值 铒 僖 耸 蚶 坚 钲 何 缸 锘 锗 错 堡 蜡 壮 闻 酱 褚 锚 玍 蝴 钍 蚵 褡 蛙 垡 仝 罐 伍 钵 虹 蝠 氩 体 鸺 佳
+lho 闭 俨 蟛 铹 蜐
+lhu 铓 铐 钙 铑 氪 佬
+lia 蜂 舞 佣 铮 锋 佩 仰 铆
+lie 傺 锪 钩 像 钒 将 你 仫 帆 铄 镵 侈 低 氡 倏 蟓 钦 佟 歙 偬 钓
+lii 镥 铅 鹪 倜 鹤 蜩 鹇 铬 儋 钧 鸽 钥 阎 阍 翛 蟾 佝 鸧 阁 襜 脩 钨 鸯 鳘 镏 袼 鸩 铭
+lio 修$SPACE
+liu 北 化 凭 仉 虮 仑 艴 铯 袍 阄
+lja 蠕 襦 儒 蚲
+lje 蛱 侠 铗 铼 俫
+lji 镭$SPACE
+lka 倒 辈 铘
+lke 伛 戗 倾 铽 链 佤 钺 代 裢 瓴 伐
+lki 偕 蛭 钷 僭 阈 蜮 锴 侄 偃
+lko 蚜 伢
+lku 蛲 侥 钝 蚍 钜 仳 矩 铙
+lla 俸 帏 伟 闱 蚌
+lle 传 袜 蚨 会 帻 傣 螓 傲 铸 锲 俵 佘 裱 钰 债 俦 傃 帱 余 钱
+lli 佞 由 闫 舍 蜻 锖 蝽 倩 闩 丘 韭 乍 仁 氰 甴 非 仨 丛 全 闰
+lma 弇 倴 钸 锛 例
+lme 镢 钹 顺 铖 颔 优 颌 伏 钛 褥 頫 镣 领 闼 螈 僚 钚 奖 龛 状 仗 闳 傉
+lmi 佐 侑 倚 铕 伾 蝰 佰 佑 偭
+lmo 蛎$SPACE
+lmu 阉 俺 侉
+lne 帔 伋 铍 仞 兆 被
+lni 妆 钕 铷 伽
+lno 钖 畅 隽 仍 初 氖 仇 仂
+loa 牮 矫 侨 拿 钎 仟 仵 件 蜊 蝌 俐
+loe 侮 攸 俬 龢 伥 敛 俄 铢 蝮 蛛 袄 铤 敏 铁 铥 侏 帙 蜓 佚 锹 蛾 锇 帐
+loi 蛞 蚱 佸 倭 矮 任 锤 衽 锺 蜘 作 锸 锆 临
+loo 锈 伤
+lou 蚝 虼 仡 铣 毹
+lpe 锧 钣 版 锨
+lpo 钐 曳 衫 氕 乒
+lpu 褫$SPACE
+lqa 锎$SPACE
+lqe 镧$SPACE
+lqi 锏 裥
+lqu 钔 们
+lra 闹 停 蟀 褯 铈 裤 锌 蛴 幛 镛 侪 蟑
+lre 镰 斐 锵 蛟 禽 阏 铰 闵 镶 佼 镦 僦 儦 蚊 氦 装 阂 儴 铱 袋 镞 衾 镀 镟 佽 镳 俯 倞 镱 锿 蠊 铉 裴 螭 依
+lri 倍 位 蝣 住 信 蛀 訚 隹 锫 镝 僮 镐 螗 竖 幢
+lro 仿 铲 钫 镑 傍 蚄 螃
+lru 侂 镜 虻 锍 伉 铳 闶 钪 毓
+lse 锁 补 仆 偿 钋
+lsi 铛 倘 裆 螳 镗 蟷 蛸 销 俏
+lsu 傥 镋
+lta 袢 蛘 佯 伞 蝉 伴 氧 帡 阐
+lte 钬 阙 镁 氮 煲 僔 锬 襚 镃 伙 倓 蚁 仪 籴 伪
+lti 镨 褛 蟮 蝼 僧 蝤 镒 偻 镂
+lto 锑$SPACE
+ltu 蜕 蜷 阅 锩 倦 锐 蜣
+lua 蝓 镎 价 偷 蚧
+lue 众 从 蜍 锊 铩 兵 侩 蟋 蛉 闪 铫 蚣 伶 傒 铃 佻 锾 阌
+lui 铪 蜉 俗 裕 蟠 鉴 俭 锉 俘 袷 裣 佾 铨 幡 矬 蛤
+luo 氛 份
+luu 钤 衿 伧 伦
+lve 紧 繁 每
+lvi 蚂 闯 锱
+lvo 蚴$SPACE
+lvu 镴 门 气 胤 乞 儿 虬 电 片 亿 钆 仓 钇
+lwa 钭 蚪 镩 斜
+lwe 虫 肉 入 史 肃 焦 人 央 镓 镔 乓 倧 锭 傧 镲 隶 矢 内
+lwi 镕 隺 倥 佥 倌 伫 阔 铵 氨
+lwo 铴$SPACE
+lwu 侘 佗 铊 蛇 蜿
+lxa 卸 郐 郃 邻 邮 钌 缶 鄃 邱 邶
+lxi 钮 仔 虸 镅 锕 蜢 锰
+lxu 他 钯
+lya 俾 锦 裨 介 牌 氘 蜱 氚 钏 铧
+lye 螋 阀 镍 僬 螅 傀 锻 褓 傻 袱 锼 蜒
+lyi 伯 铂 蚯 蝗 锥 帷 雉 帕
+lyo 镌$SPACE
+lyu 阋 倪
+maa 干 开 丌 剽 亍 刊 刑 平 于 列 丁 劂 到 副
+mae 醭 璞
+mba 砩 霹 珒
+mbe 瑕 玦 碾 碌 砄 硍 琭 霞 叇 霨
+mbi 琚 雪 珺
+mbu 玘 珉 配 厩
+mce 酸 云 磉
+mci 殆 磴 珝 翮
+mco 醪 碜 璆
+mda 覃 厣 而 鬲 砷 瑞 珅 画 厕
+mde 跫 碳 页 瑅 虺 融 汞 璟 琡 泵 丽 碍 碘 贡 殃 蛩 趸 醍 殒 赝 虿 蜃 贾
+mdi 瑁 酮 醴 可 璐 露 唇 璀 殂 石 亘 厘 晋 理 吾 雷 吞 酲 厚 璎 琄 豆 硐 百 否 醒 盂 面
+mdu 现 醌 硙 琨 碣 觋 鼋 砚
+mea 珲 碥
+mee 恧 恶 瑟 愿 琛 忑 琅 恐 憨 酿
+meu 霭$SPACE
+mfe 醵 璨 璩
+mfi 砧 霏 武 玷 琲
+mfu 琥$SPACE
+mge 示$SPACE
+mgo 砂$SPACE
+mha 厮 玎 厅 酊
+mhe 厨 硬 琪 辱 耐 磺 豉 硔 琳 霖 砹 礞 瑛 压 酾 碟 璜 球 礴 珐 瑓 栗 酺 砝 酎 礤 珙 霰
+mhi 型 殖 珥 瑨 醛 砢 殪 醋 磕 垩 礓 矼 豇 厢 瑚 玒 瑾 霸 硅 殣 至 酣 哥 硒 厝 酤 歪 珪 碴 珂 霜 瓘 酵 醐
+mho 磡 酽
+mhu 硭$SPACE
+mia 珮 确 琤 甭
+mie 歅 殁 矾 玖 酌 磜 砍 飘 夏 砥 砜 矽 巩 歌 砾 磔
+mii 硼 珞 酩 鹂 玥 鸸 臵 鸦 碈 殉 鹉 酪 珊 酯 珣 硌 碉 鹀
+mio 雾$SPACE
+miu 死 矶 雹 元 玑
+mja 玶 瓀 砰
+mje 硖$SPACE
+mji 礌$SPACE
+mka 砸 厍 砗 琊
+mke 戬 焉 琏 戛 甄
+mki 玙$SPACE
+mko 砌 厉 雱 玡 砑
+mku 硗 琵 砘 砒 巧
+mla 琫 矸 玮 硎 酐 研
+mle 瑧 辰 票 碡 砖 臻 碛 珏 琎 残 酝 璈
+mli 二 西 瑃 亚 王 丕 酉 工 五 噩 一 正 再 三 亟 互
+mlu 雩 玩
+mma 需 弄 奡
+mme 顾 顸 厌 奀 顶 项 颥 酞 环 硕 震 琢 顼 厦 珑 顽
+mmi 碱 磊 珛 碧 醢 靥 琦
+mmo 雳 砺
+mne 破 玻
+mni 耍 珈 孬 要
+mno 劢 功 砀 动 励 勔 历
+moa 硚 歼 琍
+moe 珠 致 霆 霉 瓒 政 殊 攻 敢 硪 醺 酶 玫 酥
+moi 甦 砟 酢 酷
+moo 殇$SPACE
+mou 酰 矻
+mpa 珩 斫
+mpe 覆 瓢
+mpo 形 万 牙 严 厂 耏
+mra 碎 醉 璋 霁 碲
+mre 玟 礅 醨 醾 璃 琼 璇 雯 裂 磙
+mri 璮 醅 醇 霅 醯 碚 霎 斑 砬 瑭 醣
+mro 矿 磅
+mru 琉 硫
+mse 琐$SPACE
+msi 硝 珰 霄
+mta 璘 磷 酬 殚
+mte 厥 磁 粟 灭 燹 璲 琰 烎 醚
+mti 碰 班 磋
+mua 豨 瑜 酗 瑶
+mue 零 餮 酴 叆 玲 餍 珧 砭 仄 瑗 酹 瑷
+mui 璠 殍 砼 銎 琈 霾 殓 巫 硷
+muo 殄 酚 玢 珍
+muu 玱 琴
+mve 瑑$SPACE
+mvi 码 瑙 玛
+mvu 丏 厄 兀 亏 无 丐
+mwa 霈$SPACE
+mwe 下 雨 琮 烈 更 殡 丙 碇 炁 歹 磲 不 瓦 豕 两 玉 天
+mwi 碹 霪 琯 瑄
+mwu 砣 碗 琬 豌 酡
+mxa 酃 邪 邗 邢 础 鄢 邘 邳 邴 邛 郅 郦 鄄
+mxi 醑 殛
+mxu 酏 琶
+mya 碑 亓
+mye 醮 原 魇 瑰 礁 玳 魂 瑔 硇 亓 瑀 璁
+myi 霍 碓 雁 珀 雅 珦
+myu 霓$SPACE
+naa 了 予 弔 刭 剥 引
+nai 鲣$SPACE
+nba 鲫 争
+nbe 觖 限 骎 鲟 骕 馔 鳚
+nbi 刍 弱 骣 鲪 饲
+nbu 鱾$SPACE
+nca 驿$SPACE
+nce 驭 骚 骏 廷 延 建 馂 弘 鳋
+nci 陉 鲐 饴 骀 弪
+nco 骖 鲹
+nda 鲗 甬
+nde 骒 触 鳀 陨 蚀 骡 隈 鳃 鳗 隅 氹 象 馒 蟹 奂 驶 馈 蝥 隰 蟊 蛋 鲥 强 鳏 负
+ndi 胥 名 阻 鳎 驲 鳁 孟 矞 驵 瞀 盈 鲳 鲴 眢 鲖 鲁 阳 疍 陧 鲤 鳢
+ndu 鼐 鳄 鲲 骋 驷 龟 馄 免
+nea 骗 鳊
+nee 怨 恿 急
+nei 骟$SPACE
+neo 驴$SPACE
+nfe 骥$SPACE
+nfi 鲇 鲱 阽
+nfo 陟 鲈
+nge 尕 孙 隙
+nha 鬻 隔
+nhe 鲽 柔 鲯 陵 鲼 鲮 鲡 厾 陬 骤 鳔 觫 骊 骠 馓 鲰 馍 骐 桀 鲠 馕 陡
+nhi 鲾 鲒 饵 坠 馌 阿 疆 堕 登 馑 馇 弭 鳍 鲑 饽
+nho 鳓$SPACE
+nhu 陋$SPACE
+nia 陶 降 角
+nie 豫 隐 多 馋 饮 鱻 鲦 弥 鲧
+nii 阴 驺 骆 鹬 饹 隆 鸳 驹 骝 鹜 馏 馅 弸 鲷 陷
+niu 孢 饱 凳 鲍 饥
+nja 孺 鲆
+nje 陕$SPACE
+nji 鳕$SPACE
+nka 舛 阵
+nke 鲢 陈 驱 戤
+nki 陛$SPACE
+nku 饶 饨 骁
+nla 阱 陆
+nle 饯 玺 际 癸
+nli 丑 马 鲭 丞 鱼 子 孑
+nlu 阮$SPACE
+nma 陑 鲕
+nme 随 鳜 陇 鱿 颈 预 驮 鲅
+nmi 隋 陌 觭 骑 鲔
+nmu 阢 弼
+nna 解$SPACE
+nne 皱 陂 鲺
+nni 弨 婺
+nno 饧 勐 勇 勉 劲
+noa 阡 犟 骄 饰
+noe 张 鳆 孜 稣 饫 饿 鳅
+noi 饪 鲊 鳤 陲 阼
+noo 觞 饬
+nou 饦 饩
+npe 孤 阪 觚 弧 饭
+npi 鲘$SPACE
+npo 矛 乃
+nra 障 鲚 鳙 骍
+nre 孩 饺 鲸 鲛 弦 骇 弶 陔 饻 骧
+nri 驻 詹 陪 鳣
+nro 鲂 鳑 防
+nru 巯 疏
+nse 录 鲿 外
+nsu 觥$SPACE
+nta 觯 鲜 弹 骈 饼 鳞
+nte 灸 隧 鳟
+nti 馐 鳝 隘
+ntu 粥$SPACE
+nua 鳐 阶
+nue 驳 欠 馀 飧 队 除 隳 鲶
+nui 验 险 饸 鍪 馁
+nuu 矜$SPACE
+nvi 鲻 骛 骘
+nvu 乙 孔 卺 弓 危
+nwa 斛$SPACE
+nwe 夤 孓 小 飞 尔 买 兔 及 又 疋 承 夕 煞 久
+nwi 馆$SPACE
+nwu 驼 鲩 陀 院
+nxa 邹$SPACE
+nxe 弢$SPACE
+nxi 孖 孕
+nxu 弛 驰 鲃 色
+nya 陴 驯 骅
+nye 隗 附 鲋 馊 骢 隩 虱 鳈 驸
+nyi 鳇 饷 隍 骓 鲌 雏
+nyu 鲵$SPACE
+paa 刨 刎
+pai 悭$SPACE
+pba 肄 怫
+pbe 快 恨
+pbu 慨 怩 包
+pca 怿$SPACE
+pce 勾 疑 悛
+pci 怪 怡
+pco 惨$SPACE
+pda 恻 岛 悍 忡 惴
+pde 慢 愦 惧 怏 贳 悃 憬
+pdi 旨 惺 愠 甸 恫 句 悝 旬 怛
+pdo 愣 惕
+pdu 惘 愕 恺 悒
+pea 恽$SPACE
+pee 忽 毖 悢
+peu 忱$SPACE
+pfa 悼$SPACE
+pfi 悱$SPACE
+pha 毕 悻
+phe 恃 枭 慎 怯 愤 慑 忖 悚 匍 忮 憷 鹱 怵 懒
+phi 悟 懂 怔 恓 匐 愭 慬 惜 懵 怙 恒 悖
+phu 慌$SPACE
+pia 懈$SPACE
+pie 够 惚
+pii 鸨 恪 惆 鸲 憺 恂 惛
+piu 凫 比
+pja 怦 懦
+pka 悈 惭
+pke 怄 惬
+ple 愫$SPACE
+pli 情 鸟 乌
+plo 恸$SPACE
+plu 怃$SPACE
+pma 怖$SPACE
+pme 怀 顿 憾 顷 颖 恢 忧 颍 恹
+pmi 惰 愐
+pmu 毙$SPACE
+pne 忣$SPACE
+pni 怊$SPACE
+pno 劬 忉 切
+poa 忤 忏
+poe 悔 愎 怅 慥 愀
+poi 悸 怍 性 恬
+pou 忾$SPACE
+ppa 忻$SPACE
+ppo 勿$SPACE
+pqe 悯$SPACE
+pra 恼 慵 悴
+pre 忭 懔 慷 惊 恔 袅
+pri 惦 惇 匀 憧 訇
+pru 忙$SPACE
+psi 悄 惝
+psu 恍$SPACE
+pta 惮$SPACE
+pte 慊$SPACE
+pti 憎$SPACE
+pto 悌$SPACE
+ptu 悦$SPACE
+pua 匈 愉
+pue 忪 怜
+pui 恰 慆
+puu 怆$SPACE
+pve 惯 乸
+pvu 世 乜 忆 屯 也
+pwe 必 长 心 匆 勺 悰
+pwi 愃$SPACE
+pwu 惋 鸵
+pxa 邬 邲 郇 邨
+pxi 忸$SPACE
+pye 愧 懊 憔
+pyi 雊 惟 恤 怕 皆 惶
+qaa 丰 韦 手
+qau 揽$SPACE
+qba 拂 摒 挪 擗 掘
+qbe 撖 抉 撰 搌 挦
+qbi 据 扫 捃 彗 搦 握
+qbu 抿$SPACE
+qca 抒 捅 择 拚
+qce 掇 揆 拟 揉 挨 搔 搡
+qci 抬 摊 擢 摺
+qco 掺$SPACE
+qda 揣 帮 抻 捌 押 捍
+qde 攫 撮 捉 赘 蠢 提 责 蜇 掴 耦 操 摁 踅 损 纛 捆 摞 摆 擐 贽 蛰
+qdi 捐 撄 摧 揖 担 捏 替 哲 青 韫 撂 耜 春 扣 抽
+qdo 拐 拽
+qdu 揭 规 靓 挹
+qea 挥$SPACE
+qee 探 恝 慧 捩
+qei 掮 搧
+qeo 护$SPACE
+qfa 掉$SPACE
+qfe 拤 摅
+qfi 拈 排 扯
+qfo 掳$SPACE
+qgo 耖 抄
+qha 揶 打 撕 擀
+qhe 搏 拱 摸 摄 攮 挝 撷 持 捕 撒 技 寿 搽 揲
+qhi 扛 垫 拮 描 揸 搭 措 挂 捂
+qho 耢 捞
+qhu 拷$SPACE
+qia 捣 掏 拥 挣 抑 静
+qie 抵 搀 掬 表 麦 麹 投 换
+qii 鸷 撸 指 鳌 拘 掐
+qiu 艳 扺 抱 挽
+qja 抨$SPACE
+qje 挟$SPACE
+qji 攉 擂
+qju 摴$SPACE
+qka 捯 辇
+qke 捷 拣 抠 找
+qki 揠 拒 揩 拭
+qku 批 挠 扽
+qla 捧 耕 撵 奉
+qle 耘 扶 揍 抟 掭 奏 麸 抹
+qli 摏 耩
+qlu 抚$SPACE
+qme 韨 撼 撅 耨 契 捺 拢 扰 抔 撩 振 挞 拔
+qmi 捱 掎 砉 拓
+qmu 挎 掩 扼
+qne 执 韧 拨 披
+qni 招$SPACE
+qno 扔 抛 势 扬
+qoa 挢 挈 扦 挚
+qoe 秦 揪 攥 揿 挺 攒
+qoi 拃 捶 括 插
+qou 撬 托 拖 耗
+qpa 折$SPACE
+qpe 掀 抓 扳 拆 搬
+qpu 搋$SPACE
+qqi 搁$SPACE
+qqu 扪$SPACE
+qra 挤 摔
+qre 摭 掖 攘 撤 掠 抃
+qri 掊 搐 擅 揞 搪 耱 拉 拄 掂 接 撞 摘 誓 搞
+qro 扩 搒 耪
+qru 抗$SPACE
+qsa 撑$SPACE
+qse 扑 泰
+qsi 挡 捎 耥
+qta 拼 拌 掸 掷
+qte 撇 撙 擞 搛
+qti 拦 搠 搓 搂 耧
+qua 揄 摇
+que 扒 拎 捻 授 擒 捋 援 挑
+qui 耠 挼 拾 拴 韬 捡 挫 播
+quo 扮$SPACE
+quu 抡 抢
+qve 掾 素 拶 絷 毒 拇 掼
+qvi 骜$SPACE
+qvo 拗$SPACE
+qvu 扎$SPACE
+qwa 拧 抖 撺
+qwe 耒 夫 摈 靛 擦 热 专 焘
+qwi 控 按 揎
+qwu 挓 挖 搅
+qxa 拙 邦 击
+qxe 报$SPACE
+qxi 扭 拯 耔
+qxu 把 耙
+qya 捭 擤
+qye 拊 搜
+qyi 推 舂 拍
+qyo 携$SPACE
+raa 剐 别
+rae 噗 蹼
+rba 唰 噼 唧 哪 吲
+rbe 嘱 跽 叚 哏 踺 呎 啸 跟 噀
+rbi 嗣 喔 踞 叼
+rbu 呢$SPACE
+rca 踊 哞
+rce 嗵 啜 叹 蹂 嗓 唉 唆
+rci 跆 蹬 噔
+rcu 吮$SPACE
+rda 嘢 呻 踹 吊 呷 喘
+rde 啰 哕 嘬 呙 躅 槑 嗯 呗 躁 员 喂 嘿 喁 虽 呐 噪 踝 咽
+rdi 品 咀 蹦 踏 嘣 喟 唱 嘤 吕 哩 蹋
+rdo 踢$SPACE
+rdu 喝 黾 鼍
+rea 啷 蹁
+ree 咏 唳 踉 吣 咇 哝 愍
+rfa 嘴 啮 踔
+rfe 咔 足 噱
+rfi 趾 啃 啡 嘘
+rfu 唬 呲 跐
+rgo 吵$SPACE
+rha 叶 哳 喃 嘟 叮 嗝 嘶 喇
+rhe 唝 吓 戢 喷 蹀 哺 囔 嘌 跂 导 呆 嗽 喋 嗔 嚏 吋 哎 嗦 哧 噤 蹑 哽 哄 巽 蹒 嗫 吱 啉
+rhi 喏 哂 唔 呵 躏 躇 吐 哇 嘲 嘻 咡 咕 嗑 噎 嚆 嗒 咭 哮 啫 啦 嘈 喵 跬 嗜 咁 喳 嗬 咺 啪 哑
+rho 唠 嘞 嘭
+rhu 呓 噶
+ria 啕$SPACE
+rie 唤 吹 跺 哆 跞 咚 哚 趵 唿
+rii 咯 鹭 蹓 路 呜 鸮 鹗 噜 跚 啁 鹃 鸣
+rio 吻$SPACE
+riu 跪 咒 叱 咆 兄 叽 跑
+rja 嚅$SPACE
+rji 嚯$SPACE
+rka 跸 哔 咂
+rke 咦 呕 啭
+rki 嚚 喈 哐
+rko 呀$SPACE
+rku 哓 距 跷 号 吡 吨
+rla 哢 吁 唪 趼
+rle 嗉 啧 趺 唛 践 呋 味 吴 嗪 嗷 踌
+rli 呈 口
+rlu 呒$SPACE
+rma 异 咧
+rme 咴 嘹 嗄 嘎 吠 哒 啄 咙 跶 跋 蹰 蹶 颚 噘 嘁 哭 呔
+rmi 喱 喊 咗 呸 踦 嚣 喹 器 跖
+rmo 呖$SPACE
+rmu 唵 跨 呃
+rne 跛 呶 吸 趿
+rni 跏 咖
+rno 叨 另 勋 叻
+roa 吽$SPACE
+roe 跹 哦 啾 跃 躜 跌
+roi 唾 蹻 咋 踟 踵 噬 踒
+rou 吃 趷 跣 吒
+rpa 听$SPACE
+rpe 哌 呱 嘚 跅 踬
+rra 啼 跻 蹄 哼 啐 哜
+rre 蹴 嚷 嘛 嚎 躞 嗾 咳 蹾 踱 咬 噫 跤
+rri 喑 踣 唁 躔 踮 唼 嘀 唷
+rru 吭$SPACE
+rse 唢 卟
+rsi 蹚 哨
+rsu 咣$SPACE
+rta 咩 啴 踯 吖
+rte 啖 蹲 咪 嗞
+rti 噌 蹐 蹉 喽 嗟 蹭 嗍 嗌
+rua 呼 喻 唏
+rue 嗲 跳 叭 踩 饕 嚼 哙 噙 趴 呤 只 蹊 嗳
+rui 蹈 唑 哈 啥 嗡 蹯
+ruo 吩$SPACE
+ruu 跄 吟 呛
+rve 哟 喙 吆
+rvi 吗 呣 骂 咝
+rvo 呦$SPACE
+rvu 巳 民 躐
+rwa 斝 嘧 蹿 咛
+rwe 啶 嚓 啵 踪 嗨
+rwi 喀 噻 喧 蹜 嗐
+rwu 咤 跎
+rxa 鄙 咄 郧 郢 叩 鄂 叫
+rxe 嗤$SPACE
+rxi 啊$SPACE
+rxu 邑 吼 吧
+rya 哗 嗥 啤
+rye 踽 噢 嗖 嗅 噍 跗 咻 喉 咐
+ryi 响 唯 咱 喤
+ryo 咿$SPACE
+ryu 唣$SPACE
+saa 剧 剔 刷
+sai 显$SPACE
+sba 肆$SPACE
+sbe 暇$SPACE
+sbi 巨$SPACE
+sbu 昵$SPACE
+sca 昪$SPACE
+sce 暌 晙 聂 取
+sci 羽 曜 翳
+sda 帚 翀 匝 屌 臣 岊 匣
+sde 匮 职 螱 咫 屃 翼 晪 曼 尿 曝 映 鬟 聩
+sdi 晶 昌 髯 曙 冒 暨 量 昼 眉 臂 司 召 聃 君 盟 臀 届 叵
+sdu 聘$SPACE
+sea 晖 匾
+see 恳 慰 暝 慝 忍 忌
+seo 昈$SPACE
+seu 耽$SPACE
+sfi 耻 匪
+sfu 髭$SPACE
+sha 晰 耵 早
+she 杲 是 鬒 展 檗 尉 最 暕 时 寻 暴 晡
+shi 暑 壁 匿 晒 垦 屠 晤 髻 居
+shu 屉$SPACE
+sia 聊 昂 昴
+sie 歇 殴 欧 殿
+sii 昀 晷 明 鹛 昫 鹍 鹨 鸥 鹖
+sio 易$SPACE
+siu 冕 尼 匙 晚 兕 曷 匹
+ska 翚 晕
+ske 瓯 戮 戥 甓 戳
+ski 屋$SPACE
+sko 匦$SPACE
+sku 晓 屁 既 昆
+sla 韪 旱 旰
+sle 昙 层 昧 昊 璧 赜
+sli 耳 旦 匡 凹 日 刁 习 卫 晴 旺 曰
+sma 羿$SPACE
+sme 颢 昽 昃 题 晨 颐 晟 颞
+smu 髡$SPACE
+sni 娶 嬖 昭
+sno 旸 旯 劈 勠 勖 尻 劭
+soa 旿 擘 昇
+soe 曛 医 鬏 改 晦
+soi 星 聒 昨
+sou 尾 髦
+spa 昕 匠
+spe 屣 屐 履
+spi 屦$SPACE
+spo 尸 髟 刀 影 尹
+sra 翠 辟
+sre 暾 晾 曩 旻 襞 景 昡 暶
+sri 昱 暗 翌 曈 譬 翯
+sro 旷$SPACE
+ssa 犀$SPACE
+sse 卧$SPACE
+ssi 屑$SPACE
+ssu 晃$SPACE
+sta 群 屏 羼
+ste 熨 灵 曦 联 炅 耿 屎 聪
+sti 屡$SPACE
+stu 鬈$SPACE
+sua 晞$SPACE
+sue 暖 晁 区 暧 聆
+sui 鐾 晗 匼
+svu 鬣 巴 已 己
+swa 聍$SPACE
+swe 鬃 刃 尽 尺 熙 照 艮 煦 鬓 屄
+swi 暄 曌 晏
+sxa 鄹 即 邵 郡 郿 屈 耶 郾 那
+sxi 局 屙 孱
+sxu 髢$SPACE
+sya 晔$SPACE
+sye 聚 髹 属
+syi 翟 髫 晌
+taa 荆 劐 芈 井 卅 蒯
+tai 蓝$SPACE
+tba 茀 茕 薜
+tbe 鞬 菉 葭 兼 萧 茛 蔚 荨 荩
+tbi 莙 蒻
+tbu 苠 巷 芎 芑
+tce 苡 荬 蓣 葵 鞣 羧
+tci 苔 茎 翦 羟 翔
+tco 蓼 茅
+tda 前 草 带 幕 革
+tde 葸 莳 鞅 蓂 黄 蒉 蠲 英 蒽 萝 茵 蔓 芮 蕞 羰 燕 萤 菌 莴 蔑 茧 荥 莫 蕺
+tdi 萜 藠 盖 薯 茴 苒 茼 瞢 善 曹 苘 暮 菖 堇 益 着 萌 靼 蕗 昔 莒 营 苜 蓇 普 葺 苗 苴
+tdu 苋 觐 羯 鞨 萼 觏 葛
+tea 萹$SPACE
+tee 惹 恙 慈 芯 莨 芝 蕊
+tei 蓢$SPACE
+teo 芦$SPACE
+teu 蔼$SPACE
+tfe 菽 蘧
+tfi 芷 苫 菲
+tfu 茈$SPACE
+tge 慕 恭
+tha 鞴 芾 萳 蕈 菥 萚
+the 菝 槊 菱 莰 芰 荣 檠 蔫 蔌 葑 黼 藁 菘 莆 蘸 蕙 某 尊 蒱 萁 蕻 蔈
+thi 塑 差 芏 蔷 酋 苷 苛 墓 葫 鞋 著 茜 鞳 茔 苯 蓍 基 葙 苦 茸 鞯 荁 荸
+thu 葚$SPACE
+tia 薢 蓟 茚 茆 藓 萄
+tie 获 蔡 菊 藤 茋 薿 芟 菟 莸 芍 葱 羖 羝 荻 芃 鞠 羑 歉 芡 蓬 靸 葡 菔 欺
+tii 鹳 鹢 朔 苟 茗 鹣 期 荀 鹋 鹚 鞫 茑 莺 萏 韂 鹊
+tio 芴$SPACE
+tiu 苞 鞔 芪 苑
+tja 苹 薷
+tje 莱 荚
+tji 藿 蕾
+tka 荤 荜
+tke 荑 戡 瓶 莲 甍
+tki 萋 薹 馘 蒈
+tko 芽$SPACE
+tku 苣 荛 芘
+tla 芋 并 苇 羊
+tle 茉 蓁 莹 关 藕 蒄 蒙 靺 蒜 葜 芸 芙
+tli 廿 甘 鞲 业 藉 菁 兰 曲
+tlu 芜 芫
+tma 藏 葬 莽
+tme 蒇 茂 奠 颧 颟 蕨 黻 羱 蓐 鞑 茇 荙 萘 美 茏 芣 猷
+tmi 碁 薤 荐 苤 蕤 葳 茬 葴 若
+tmo 苈$SPACE
+tmu 靰 薨 苊
+tne 芨 苏 芄 薅
+tni 菇 茹 茄 姜 苕
+tno 勤 募 艽 荔 勒 劳 剪 勘 艿
+toa 摹 芊 莉 擎 鞒 荦 荞
+toe 蘩 羲 莓 藜 敬 莛 萩 茱 散 薙 苌 莪 薰
+toi 董 萎
+too 莠$SPACE
+tpa 蘅 斯 荇 芹 靳 葎
+tpe 薇 蓰
+tqi 蔺$SPACE
+tra 蔀 莘 荠 薪 藦 葶 萃 蒂
+tre 芠 茨 蓑 苄 藨 菸 羡 荄 蓠 蔟 茭 蘘 蔗 薏 蒋 蒺
+tri 蒟 蘼 蕹 蒿 蘑 警 蓄 菩
+tro 蒡 芳
+tru 芒 茺
+tsi 鞘$SPACE
+tta 凿 荓 蔊 靽 蕲
+tte 菼 蔽 荧 黹 羹 蒹 薮
+tti 蒴 蒌
+tua 芥$SPACE
+tue 菜 荼 羚 其 共 蔹 苶 苁 艾 苓 荟 茶 典
+tui 蕃 荽 蓥 莝 荃 莩 莶 蓊
+tuo 芬$SPACE
+tuu 藐 苍 芩
+tve 萦 兹 綦 荮 药
+tvi 蓦 荭 蕴
+tvo 靿 芗
+tvu 甚 莼 羌 艺
+twa 萍 斠 斟 苧
+twe 蒗 蕖 茓 菠 薄 羔 蒎 萣 蔻 煎 藻 葖 蒲
+twi 菪 蓿 萱 菅 落 菏 菹 鞍 蓉 苎 茳 藩
+two 荡 莎
+twu 莞 菀 茫 范
+txa 菡 邯 郑 邺 鄞 茁 节 鄀 鄯
+txe 菰 蒸 荪
+txi 羞 孽 孳 荫
+txo 萨$SPACE
+txu 靶 芭 蔬 芤
+tya 茽 养 萆 薛
+tye 葆 糵 鞭 夔 蕉 茯 萸 莜 蒐 葰 蘖 苻
+tyi 荏 萑 莅 首 荷 茌 蓓
+tyu 靴 花 葩 荒 蔸 蓖
+vaa 剿$SPACE
+vau 缆$SPACE
+vba 娜 纼 绋
+vbe 绿$SPACE
+vbi 妇 缗
+vbu 妃 纪 娓 妮 弩
+vca 纾 绎 妤
+vce 奴 缀 姒
+vci 绐 嬥 始 经
+vco 缪 嫪
+vda 绅 帑
+vde 嫚 缋 纲 媞 缇 娱 姻 娲 畿 纳 缧 蠡 嬛 缳 缌 巢 缱 缲 缦 织 胬 嫘
+vdi 妯 甾 娼 如 缨 绢 细 媪 娌 姐 辔 娟 妲 组 缉
+vdo 缈$SPACE
+vdu 绲 邕 娉 绳
+vea 编$SPACE
+vee 娘 恕 怒
+veo 妒$SPACE
+vfa 绰 嫭
+vfe 婌$SPACE
+vfi 绯$SPACE
+vge 糸$SPACE
+vgo 纱 妙
+vha 嬅 婳 缂
+vhe 续 纣 妓 媒 媖 绫 嫩 缥 嫫 缬 嫣 缚 缜 嬿 绠 嫖
+vhi 绪 娅 缰 绀 牁 姑 姞 结 缃 婼 嬉 缙 姮 红 娃 嫱
+vhu 绁 姥
+via 绛 绹
+vie 妁 约 终 缝 绦 妳
+vii 络 绷 绺 绸 绉 鸶 婤 婚 绚 姗
+vio 姊$SPACE
+viu 绝 姽 娩 纸
+vji 孀$SPACE
+vka 姬$SPACE
+vke 姨 婕 戕 妪 练
+vki 绖$SPACE
+vko 娀 绒
+vku 绕 纯 纰 妣 娆
+vla 绑 妍 纬 奸 纡
+vle 绩 纭 婊 妘 线 妹
+vli 女 丝 媾 婧
+vlu 妩 妧
+vma 彝$SPACE
+vme 嫄 娠 彖 绂 嫽 奘 妭 缭 纮 缛
+vmi 绮 缄 婍 缅
+vmu 绔$SPACE
+vne 纫 纨 级
+vni 绍$SPACE
+vno 努 幼 奶
+voa 纤 娇
+voe 姝 娥 缵 收 妖
+voi 妊 姓 缍
+voo 绣$SPACE
+vou 纥 彘
+vpa 绗 断
+vpi 姤$SPACE
+vpo 乡 爿
+vqe 娴$SPACE
+vra 嫜 缔 婷
+vre 绞 缡 嫉 嬷 纹 姣
+vri 缟 缠 嫡 嬗
+vro 纩 纺 妨
+vru 统$SPACE
+vsa 嫦$SPACE
+vsi 绱 绡
+vta 婵 姘 牂 绊
+vte 妫 媄 缣 嫌
+vti 缯 缕 缢 缮
+vto 绨 娣
+vtu 绻 继 婘
+vua 媱$SPACE
+vue 姚 以 纵 孅 媛 飨 嫒 绘 绶 姈 缓
+vui 绥 姶 给
+vuo 纷$SPACE
+vuu 纶 妗
+vve 姆 缘 絮 缫
+vvi 妈 缁 驽
+vvu 巛 幻
+vwa 婶$SPACE
+vwe 绽 嫔 嫁 缤 综 幺 厶
+vwi 缩 婠 绾
+vwu 姹 婉
+vxa 绌 纠
+vxe 媸$SPACE
+vxi 妞 纽 婿 孥 媚 好 婀
+vxu 她$SPACE
+vya 婢 绵
+vye 缒 媳 缴 缎 缑 缏 嫂
+vyi 维$SPACE
+vyu 媲$SPACE
+waa 甲 曱
+wca 野$SPACE
+wce 黢$SPACE
+wco 黪$SPACE
+wde 圜 圆 贯
+wdi 回 胃
+wdo 圐$SPACE
+wea 罚$SPACE
+wee 恩 愚 思
+wfa 罩$SPACE
+wfi 罪$SPACE
+wha 町 罱 圉
+whe 困 罢 罴 黩 圃
+whi 圄 署 墅 畦 罡 黠 固 墨 置 羁 罟
+who 团$SPACE
+wie 图 蜀 夥 罗 黟
+wii 罶 略 鸭 鹮
+wio 囫$SPACE
+wiu 四$SPACE
+wke 畏$SPACE
+wku 毗 囤
+wla 围$SPACE
+wle 国 畴
+wli 里 毌 田 毋 圊
+wlu 园$SPACE
+wma 畀$SPACE
+wme 默 罘 因 颗 畎
+wmi 畸 囿
+wmu 罨$SPACE
+wni 囡$SPACE
+wno 男 嬲
+woe 囷 畋
+wpe 畖 畈
+wre 黥$SPACE
+wri 疃 黯 詈
+wta 畔$SPACE
+wti 罾$SPACE
+wtu 圈$SPACE
+wua 界$SPACE
+wue 囚 囹
+wuo 畛$SPACE
+wuu 囵 囧 黔
+wve 累$SPACE
+wvo 黝$SPACE
+wwe 母 黑 禺 果
+wwi 罹$SPACE
+wwu 畹$SPACE
+wxa 黜$SPACE
+wxi 囝$SPACE
+xvu 〇$SPACE
+yaa 刻 剂 刘 剖
+yai 虚$SPACE
+ybe 龈$SPACE
+ybi 龌$SPACE
+ybo 卢$SPACE
+ybu 弯 氓
+yca 弃$SPACE
+yce 叡 变 叔 衮 攴 竣 袤
+yci 翊 育
+ycu 充 兖
+yda 市 峦 帝 端
+yde 裛 蛮 龊 贞 京 赟 裹 赀 襄 离 虞 脔
+ydi 商 裔 畜 督 膂 肓 膏 亩 盲 啻 龃 吝 占 高 童 音 肯
+ydu 竭 觇 竞 觑
+yea 辩$SPACE
+yee 送 迭 迄 遨 连 憝 遒 逆 返 迺 辽 这 选 遐 迨 迫 遄 迤 迪 遥 逭 远 逯 途 逃 述 邋 迓 退 逶 迦 追 迈 违 逊 巡 遆 逴 遮 适 迸 迅 逸 逍 运 遛 迥 避 逖 遇 逋 道 迂 逗 逻 邀 逾 逼 迍 遘 逞 逛 迹 迮 通 进 遽 迎 遵 逵 邅 遏 忘 暹 忐 逐 恋 逡 透 遑 逅 遁 逢 遣 速 戆 迕 迟 逄 迁 意 还 迩 达 逝 造 虑 迢 逑 近 邂 遂 邈 迷 逦 遴 过 递 迳 遗 遍 逮 边 遢 邃 遭
+yfe 敲$SPACE
+yfi 齑 站
+yfu 龇 虤
+ygo 步$SPACE
+yha 斗 章 卓 辛 亭
+yhe 亲 亵 桌 竦 栾 歧 辣 柴
+yhi 壅 塾 龉 壑 堃
+yia 觜$SPACE
+yie 哀 蠃 歆 毅 衰 羸 赣 飒 欤 嬴 赢
+yii 鹑 竘 鸾 鸬 韵 鹫
+yiu 亢 龅 亮 虎 此 竟 龀
+yke 战 瓿
+yki 虐$SPACE
+yle 禀 卤
+yli 斌 卣 靖 主 上 止 卤 些 望 与 言 立
+yma 弈 斋
+yme 频 颜 就 颤 颏 豪 奕 颃 头 颅 竑
+ymi 砦 睿
+yne 孰$SPACE
+yni 韶 龆 娈 妄 妾
+yno 劾 勍 虏
+yoa 挛 旆
+yoe 旗 旅 效 旋 敦 旞 放 族
+yoi 旌 旃 旖
+you 旎 旒 旄 施 毫 亳 龁
+ypa 瓣 新
+ype 瓤$SPACE
+ypo 产 彪 彰 广 彦 方
+yqe 斓$SPACE
+yre 虔$SPACE
+yri 訾$SPACE
+yro 旁$SPACE
+yse 卡$SPACE
+yta 辨$SPACE
+yte 粲$SPACE
+yti 鹾$SPACE
+yua 齿 卒
+yue 龄 亥 饔 六 交 餐 於
+yui 銮$SPACE
+yva 率 辫
+yve 紫 玄 紊
+yvi 雍$SPACE
+yvu 乩 亡
+ywe 烹 卜 卞 文 点 亦 衣 熟
+yxa 郊 邙 邡 亨 鄣 郭 部
+yxi 享 孪
+yya 齐 颦
+yye 夜 裒 褒 龋
+yyi 雌$SPACE
+baaghi 刚
+baauji 删
+baayse 用
+baayte 刖
+baazeo 则
+bbejbe 赆
+bbejlu 膙
+bbejme 腱
+bbejto 爵
+bbekje 瞰
+bbenne 脲
+bbeouu 瞩
+bbetvu 腿
+bbeyju 眼
+bbijui 腒
+bbudku 鼎
+bbummo 眠
+bcamzo 眸
+bcejto 矍
+bcekvo 睽
+bcesoi 睃
+bceuze 受
+bcexme 县
+bcidge 瞪
+bcijke 胫
+bcitdi 胎
+bciyio 贻 眙
+bcolno 髎
+bdajxu 胛
+bdamie 幂
+bdaosu 肿
+bdaufe 胂
+bdaure 腨
+bdebie 赑
+bdeduo 髑
+bdegoo 腘
+bdekei 髁
+bdeloo 脶
+bdemko 冥
+bdenae 肭
+bdesci 臊
+bdesdi 腮
+bdetmu 腆
+bdeyji 胭
+bdeyuo 髃
+bdidju 胆
+bdidse 胴
+bdiguu 骨
+bdiwae 腽
+bdixki 腥
+bdiyze 釉
+bdocie 赐
+bdukle 贶
+bdumie 觅
+bduvee 腭
+beemde 脉
+beemko 瞑
+beenso 脓
+beexro 悬
+beudji 眈
+bfekau 胩
+bfifwo 腓
+bfitpi 贴
+bfoluo 胪
+bfugoo 虢
+bfuzie 眦
+bgomnu 眇
+bhadki 盯
+bhafwe 肺
+bhageo 膈
+bhajnu 脚
+bhanju 腩
+bhebni 膘
+bheboo 膊
+bhecdu 采
+bhefue 赙
+bheguu 臌
+bheifi 瞋
+bhemgo 朦
+bhemjo 瞒
+bhemoe 貘
+bhemoo 膜
+bheoii 肢
+bheozu 肘
+bhepnu 瞟
+bhepuo 脯
+bheqqo 赇
+bhequi 胠
+bheuuo 赎
+bhexii 膝
+bhiboo 脖
+bhidue 肚
+bhiduu 赌 睹
+bhighi 肛
+bhihro 貆
+bhikei 瞌
+bhikui 骷
+bhilae 腊
+bhimno 瞄
+bhimue 睦
+bhiozi 周
+bhisvi 眭
+bhitso 同
+bhiyci 腰
+bhocdo 财
+bhoido 豺
+bhopgo 膨
+bhummu 眄
+biaogi 睁
+biauye 舜
+biaxsi 胸
+biebce 豹
+biediu 骶
+bieguu 股
+biegze 购
+bieiii 眵
+bieoii 胝
+bieqmu 肷
+bietzo 骰
+bieyco 繇
+bieyri 冤
+biigei 胳
+biigeo 骼
+biiguu 鹘
+biihco 貉
+biilue 赂
+biioii 脂
+biioji 瞻
+biiozi 赒
+biipgo 鹏 朋
+biiquo 朐
+biitmo 盷
+biiuje 赡
+biiyce 鹞
+biiyki 鹦
+biubci 胞
+biucve 脆
+biujii 肌
+biujme 见
+biursu 冗
+bjance 臑
+bjelde 睐
+bkajyi 军
+bkedse 胨
+bkejpo 睫
+bkekzi 眍
+bkenie 腻
+bkeyio 胰
+bkikle 眶
+bkixpu 写
+bkozwo 贼
+bkudyu 盹
+bkuoyi 肫
+blagji 肝
+blahju 罕
+blajku 肼
+blaxui 盱
+blecze 腠
+blefui 肤
+blegri 冠
+blejie 祭
+blejme 贱
+bleyro 爰
+blicee 册
+blidji 丹
+blifue 赋
+blijki 睛 腈
+blimbu 皿
+blimue 目
+bliqpu 且
+blitui 凸
+bliwwo 囗
+bliyte 月
+blurru 朊
+bluwoe 肟
+bmegsi 肱
+bmelnu 瞭
+bmelso 胧 眬
+bmeofe 赈
+bmeosu 冢
+bmesvu 髓
+bmetde 肽
+bmetyo 豚
+bmevde 爱
+bmihve 贿
+bmimmu 腼
+bmimoe 貊
+bmipwi 胚
+bmiyao 睚
+bmukxe 胯
+bmuyji 腌
+bnejyi 皲
+bnexpo 胁
+bnidni 貂
+bnitou 妥
+bniyki 婴
+bnoiho 肠
+bnolei 肋
+bnooue 助
+boayki 罂
+boebde 败
+boefue 腹
+boeizu 瞅
+boeohe 胀 账
+boezai 臜
+boiuge 胜
+boiuve 睡
+boizoe 胙
+boumce 眊
+bouquo 氍
+bpefje 贩
+bpegxi 胍
+bpihzo 骺
+bpituo 腯
+bpocdu 彩
+bpooie 豸
+bporso 肜
+bpotso 彤
+brancu 脑
+braqio 脐
+brefuu 腑
+bregdi 赅
+brehdo 骸
+brehdu 胲
+brejni 胶
+brelmo 臁
+brexre 眩
+breyee 腋
+breyie 臆
+briike 膪
+bripwo 赔
+britso 瞳
+briuji 膻
+briysi 臃
+brizhe 脏
+brizhi 赃
+brobhu 膀 髈
+brofho 肪
+bruvhi 肮
+bsiigi 瞠
+bsitho 膛
+bsugli 胱
+btalbe 膦
+btalbo 瞵
+btaphe 胖
+btapmo 胼
+btedju 赕
+btemii 眯
+btemiu 脒
+bteofe 朕
+bteoie 炙
+bteore 赚
+btetgo 滕
+bteuju 睒
+btiigo 塍
+btilzo 髅
+btitgo 腾
+btiuje 膳
+btiyke 媵
+btizge 赠
+btodie 睇
+btutoi 脱
+btuwhu 罔
+buajpe 骱
+buauue 腧
+buauye 瞬
+buebmu 贬
+buebwe 贝
+buecdu 睬
+bueghi 冈
+buejue 具
+buekke 脍
+buelpe 脟
+bueoau 眨
+buesae 脎
+buetne 眺
+buetnu 朓
+bueuei 赊
+buewhu 网
+buicou 脞
+buijmu 睑
+builmu 脸
+buipci 脬
+buixii 谿
+buoofi 胗
+buopje 盼
+bvexii 奚
+bvuruu 乳
+bvuuku 甩
+bwebbe 膑 髌
+bwedke 腚
+bwerjo 然
+bwezsi 腙
+bwioie 膣
+bwioue 贮
+bwiqli 腔
+bwiqxe 髂
+bwivje 胺
+bwixxi 瞎
+bwukri 髋
+bwuwje 腕
+bwuwju 脘
+bxafuo 郛
+bxayye 郓
+bxefuo 服
+bxifuo 孚
+bxiyje 觃
+bxufwo 肥
+byabie 髀
+byapie 睥
+byapio 脾
+byeqno 瞧
+byeszu 瞍
+byexme 腺
+byexqi 貅
+byeyuo 腴
+byidni 雕
+byijui 雎
+byiquo 瞿
+byisvi 睢
+byiycu 舀
+byumce 貌
+byunie 睨
+byupio 貔
+caatie 剃
+caayai 丫
+cbeiju 冁
+cbodie 弟
+ccegsi 公
+cciwgi 翁
+cdadji 单
+cdaiae 岔
+cdepbo 贫
+cdicgo 曾
+cdiguu 谷
+cdikze 釦
+cdipfo 盆
+cdiuze 兽
+cdudve 兑
+ceeffe 忿
+ceezsu 总
+chehso 谼
+chibfe 坌
+ciedpi 爹
+cieyue 欲
+ciitio 鹈
+ciiwgi 鹟
+ciiyue 鹆
+ckewge 瓮
+ckezge 甑
+ckuxii 兮
+clifuu 釜
+clijbi 金
+cmebji 颁
+cmesse 颂
+cnoffi 分
+coebji 攽
+cpafuu 斧
+cuefue 父
+cuixbi 鑫
+cxabbi 邠
+cxadji 郸
+cxayeo 爷
+cxubae 爸
+daacie 刺
+daadoi 剟
+daalao 剌
+daikju 槛
+dailje 滥
+daulju 榄
+dbafwe 沸
+dbajbi 津
+dbapie 澼
+dbaure 涮
+dbaxii 樨
+dbaxye 汛
+dbedie 棣
+dbegfi 根
+dbegju 澉 橄
+dbehso 泓
+dbejbe 浸 浕
+dbejme 楗
+dbejmi 艰
+dbelko 棂
+dbelue 渌
+dbelze 漏
+dbeohu 涨
+dbexyo 浔
+dbidni 汈
+dbiijo 潺
+dbijui 椐
+dbinie 溺
+dbiwoe 渥
+dbixpe 榍
+dbugde 溉 概
+dbumbu 泯
+dbunio 泥
+dbuqiu 杞
+dbusie 汜
+dcaoue 杼
+dcatsu 桶
+dcaysu 涌
+dcazeo 泽
+dcehje 汉
+dceiae 汊
+dceiai 杈
+dcejye 浚
+dceooo 叕
+dcepio 皮
+dceqro 权
+dceroe 叒
+dcesoi 梭
+dceuli 双
+dceuue 树
+dciigi 柽
+dciigo 澄 橙
+dcijki 泾
+dcijuo 橘
+dcioie 治
+dciooo 濯
+dcitji 滩
+dcixuu 栩
+dcoufe 渗
+dcuyju 沇
+ddacee 测
+ddapie 淠
+ddatri 湍
+ddauje 汕
+ddawwo 涠
+ddaxxo 柙
+ddehce 灏 淏
+ddehre 漶
+ddeigo 澂
+ddejio 濈
+ddejme 溅
+ddekei 棵
+ddekve 溃
+ddelde 赉
+ddeloe 漯
+ddeloo 椤
+ddemje 漫
+ddemnu 淼
+ddeoiu 枳
+ddeooo 浞 浊
+ddepue 瀑
+ddeqqo 泅
+dderve 枘 汭
+ddesii 楒
+ddetmu 淟
+ddeuio 湜
+ddewoi 涡
+ddewwi 溦
+ddeybi 洇
+ddeyhi 泱
+ddeyyo 涢
+ddezcu 蚤 澡
+ddidao 沓
+ddidpo 叠
+ddidse 洞
+ddiguu 汩
+ddiheo 涸
+ddihvo 洄
+ddihxo 滑
+ddihye 溷
+ddiiao 查
+ddijio 楫
+ddijri 涓
+ddijsu 泂
+ddijuu 沮
+ddiliu 澧
+ddilue 潞
+ddilvu 梠
+ddilwe 泪
+ddimie 汨
+ddinpe 涅
+ddipbu 榀
+ddiqiu 呇
+ddisvi 濉
+dditae 榻
+dditai 溻
+dditmo 沺
+dditso 桐
+ddiuii 湿
+ddiwfi 温
+ddiwwe 渭
+ddixke 杏
+ddixli 相
+ddiycu 杳
+ddiyki 樱
+ddiyze 柚
+ddiyzo 油
+ddolgo 楞
+ddomnu 渺
+dducfo 涔 梣
+ddugri 观
+ddugye 棍
+dduhye 混
+dduiue 柷
+ddujmu 枧
+ddukeu 渴
+ddummu 渑
+dduqii 桤
+ddusie 泗
+dduxni 枵
+dduyie 浥
+deahuu 浒
+deahyo 浑
+dealho 榔
+deedve 怼
+deelhe 浪
+deemce 懋
+deemfe 懑
+deemie 泌
+deemko 溟
+deenso 浓
+deeqbe 沁
+deeufi 深
+deexlu 想
+deeysu 栐 泳
+deijne 滘
+deioui 槠
+deiqte 榷
+deixpe 泻
+deohue 沪
+deuifo 沉
+deuofu 枕
+deuufu 沈
+dfahui 滹
+dfance 淖
+dfaoce 棹
+dfebbi 濒
+dfejni 椒
+dfelve 滤
+dfeofi 桢 浈
+dfeuui 淑
+dfioji 沾
+dfixpe 瀣
+dfoluo 栌 泸
+dfouee 涉
+dfuciu 泚
+dgauii 浉
+dgomnu 杪
+dgouai 沙
+dhamhu 漭
+dhanjo 楠
+dhaoee 浙
+dhaoie 滞 栉
+dhaoii 汁
+dhapwe 沛
+dhasii 澌
+dhatjo 潭
+dhatki 汀
+dhaxii 淅
+dhayei 椰
+dhebku 柄
+dhecyi 村
+dhedmi 滇
+dheduo 椟 渎
+dhedve 对
+dhefau 法
+dheggi 浭
+dheggu 梗
+dhegsu 栱
+dhehgo 横
+dhehlo 潢
+dhehso 洪
+dhehve 橞
+dheiuu 濋
+dhejio 棘
+dhejne 漖
+dhelbo 淋 林
+dhelde 濑
+dhelgo 棱
+dhelie 溧
+dhello 梁
+dhelme 楝
+dhemgo 檬 濛
+dhemju 满
+dhemoe 漠
+dhemoo 模
+dhemue 沐
+dheoie 梽
+dheoii 枝
+dhepni 漂
+dhepuu 溥 浦
+dheqii 漆 柒
+dheqio 棋 淇
+dhequo 渠
+dherju 染
+dhesau 潵
+dhesfi 森
+dheshi 桑
+dhessi 淞
+dhesue 涑
+dheuee 滠
+dheuue 澍 沭 漱
+dhexni 潇
+dhexpe 渫
+dheyko 潆 溁 滢
+dheyte 樾
+dheyzu 槱
+dhiboo 浡
+dhicco 漕 槽
+dhidue 杜
+dhighi 杠
+dhigji 泔 柑
+dhigre 灌
+dhigui 沽
+dhigve 桂
+dhiheo 河
+dhihje 瀚
+dhihro 洹 桓
+dhihuo 湖
+dhiico 潮
+dhiiuu 楮
+dhijbe 溍
+dhijbu 槿
+dhijli 江
+dhijpo 洁
+dhijqu 酒
+dhijuo 桔
+dhikee 溘
+dhikei 柯
+dhikui 枯
+dhilju 漤
+dhioai 渣 楂
+dhiogu 整
+dhioii 榰
+dhioio 植
+dhiouu 渚
+dhiqii 栖
+dhiqlo 樯
+dhisau 洒
+dhiuge 圣
+dhiuji 潸
+dhiveu 洱
+dhiwai 洼
+dhiwuo 梧 浯
+dhixli 湘
+dhiyai 桠
+dhiyji 湮
+dhoboo 渤
+dhocdo 材
+dholce 涝
+dhopgi 澎
+dhughu 港
+dhukcu 栲
+dhulcu 栳
+dhummu 沔
+dhuoje 湛
+dhuufe 椹
+dhuxpe 泄
+diafgo 浲
+diahuo 槲
+diajle 洚
+diajpu 檞
+diajto 桷
+dialqu 柳
+diamcu 泖
+diatco 淘
+diaxpe 澥
+diebni 杓
+diedio 涤
+diediu 柢
+diefgi 枫 沨
+diefje 梵
+diegze 构
+diegzi 沟
+diehre 涣
+diehri 欢
+diehui 淴
+diejie 漈
+dielde 赖
+dielie 栎
+dieloe 泺
+diemge 梦
+diemwo 没
+dieooo 汋
+dieosi 柊
+diexii 汐
+diexle 橡
+diidje 澹
+diigeo 格
+diigzu 枸
+diihso 鸿
+diiizo 椆
+diijii 鸡
+diijui 泃
+diiloe 洛
+diilqi 溜
+diilqo 榴
+diiluu 澛 橹
+diimko 洺
+diioae 栅
+diioui 潴
+diipgo 棚
+diipko 淜
+diiuai 鲨
+diixyo 洵
+diiyii 漪
+diiyjo 檐 沿
+diiyuo 渔
+diufwo 淝
+diugvu 氿
+diujii 机
+diumwu 浼
+diupce 泡
+diuwwo 洈 桅
+djapko 枰 泙
+djaruo 濡
+djejxi 浃
+djeldo 涞
+djibae 灞
+djilwo 檑
+djuiui 樗
+dkajme 渐
+dkaxpe 械
+dkedse 栋
+dkejqe 柩
+dkelmo 涟 梿
+dkeuui 枢
+dkevzi 沤
+dkexie 戏
+dkeyie 杙
+dkifwu 榧
+dkijpi 湝
+dkikdu 楷
+dkikli 框 洭
+dkioie 桎
+dkiyue 棫
+dkoqii 沏
+dkubiu 沘
+dkudye 沌
+dkugve 柜
+dkuhve 汇
+dkujni 浇
+dkupio 枇
+dkurco 桡
+dkuxqu 朽
+dlabhe 棒
+dlabhi 梆
+dlafgi 沣
+dlagji 杆
+dlahje 汗
+dlebni 标
+dlejbe 禁
+dlemoe 沫
+dlende 柰
+dleofi 榛
+dleoje 栈
+dleqbo 溱
+dleqmu 浅
+dletci 涛
+dletco 梼
+dletmi 添
+dlexpi 楔
+dleyye 枟
+dleyyo 沄
+dlezie 渍
+dlezze 楱
+dlibfu 本
+dliiyi 椿
+dliqki 清
+dliqmo 潜
+dliwhi 汪
+dliwhu 枉
+dlupao 潖
+dluwui 污
+dluyje 滟
+dluyro 沅
+dmalpe 洌
+dmapji 攀
+dmebwi 杯
+dmedie 杕
+dmefjo 樊
+dmeiuo 橱
+dmejto 橛
+dmelcu 橑 潦
+dmelso 栊 泷
+dmeohe 杖
+dmeooi 涿
+dmepou 颇
+dmeqii 槭
+dmerue 溽
+dmeshu 颡
+dmetde 汰
+dmeyro 源
+dmimmu 湎
+dmioee 柘
+dmiwwu 洧
+dmiyao 涯
+dmiyiu 椅
+dmolie 沥 枥
+dmuwue 杌
+dmuyji 淹
+dneboi 波
+dnejio 汲 极
+dnepoi 泼
+dnijxi 枷
+dniljo 婪
+dniocu 沼
+dnipoo 婆
+dnirue 洳
+dniruu 汝
+dnisee 涩
+dnisoi 娑
+dniuco 柖
+dniyko 楹
+dnoqre 劝
+dnothi 汤
+dnoyho 杨
+doaiuu 杵
+doalme 浰
+doapde 湃
+doaqmi 杄
+doaqno 桥
+doasai 挲
+doehdu 海
+doeigo 枨
+doeiie 敕
+doejnu 湫
+doemwo 枚 梅
+doeoui 洙 株
+doeqqi 楸
+doetku 梃
+doeveo 涐
+doewoe 沃
+doigue 梏
+doigxi 栝
+doihce 浩
+doihoo 活
+doiivo 棰
+doioae 柞
+doiuce 潲
+doubie 滗
+douqie 汔 汽
+douqni 橇
+doutoo 沲
+douxiu 洗
+dpahgo 桁
+dpaxii 析
+dpayio 沂
+dpebju 板
+dpepde 派
+dpetoe 柝
+dpidye 楯
+dpobbi 彬
+dpocdo 才
+dpouji 杉
+dpuoii 栀
+dqeljo 澜
+dqijme 涧
+dqilvo 榈
+dqirye 润
+dracve 淬
+drahou 漷
+drajie 济
+dralqo 浏
+draohi 漳 樟
+dratko 渟
+drauie 柿
+draziu 梓
+drebme 汴
+drebni 瀌
+drecvi 榱
+dredue 渡
+dregyu 滚
+drehco 濠
+dreheo 核
+dreiee 澈
+dreife 榇
+drelbu 檩
+drelio 漓
+drello 椋
+drelmo 濂
+drelro 滦
+drerho 瀼
+dreuai 裟
+drewfe 汶
+drexne 校
+drexno 洨
+drexre 泫
+drexro 漩
+dreyee 液
+dreyko 瀛
+dreyui 淤
+dribhe 棓
+dridii 滴
+drifuo 涪
+drigcu 槁
+drigou 椁
+driijo 澶
+driiyo 淳
+drioli 桩
+drioue 柱 注
+driqie 泣
+dritho 溏
+dritjo 檀
+dritso 潼
+driyzo 游
+drobhu 榜
+drofhi 枋
+droiju 浐
+drophi 滂
+druhhe 沆
+druhho 杭
+drulqo 流
+drulue 漉 麓
+drumho 杧
+druuui 梳
+druwji 湾
+druyio 椸
+dsepuu 朴
+dsidhe 档
+dsitho 樘
+dsithu 淌
+dsiuci 梢
+dsixni 消
+dsugli 洸 桄
+dtajmi 湔
+dtaozi 洲
+dtapje 泮
+dtapko 洴
+dtayhe 样
+dtayho 洋
+dtedje 淡
+dteffe 瀵
+dteffo 焚
+dtello 粱
+dtemiu 洣
+dtethe 烫
+dtewwo 沩
+dteyhe 漾
+dteyju 棪
+dtezii 滋
+dtezyi 樽
+dtiiao 槎
+dtiljo 栏
+dtilzo 楼 溇
+dtioae 溠
+dtipge 椪
+dtipui 潽
+dtisue 溯
+dtiyie 溢
+dtotie 涕
+dtotii 梯
+dtuqri 棬
+duaxii 浠
+duaxsi 汹
+duayri 渊
+duayte 瀹
+duayuo 渝 榆
+duebai 朳
+dueboo 僰
+duecsi 枞
+duefje 泛
+duegve 桧
+duehve 浍
+duelko 泠 柃
+duelme 潋
+dueqbo 檎
+duessi 松
+duetco 洮 桃
+duetuo 梌 涂
+duexii 溪
+duexue 溆
+duifuo 桴 浮
+duifuu 滏
+duigje 淦
+duihjo 浛
+duijmu 检
+duilqo 鎏
+duipfo 湓
+duipji 潘
+duiqxe 洽
+duitci 滔
+duiuri 栓
+duiwue 鋈
+duixno 淆
+duiybo 淫
+duiyue 浴
+duoffo 汾 棼
+duuchi 沧
+duulyo 沦
+duuqli 枪
+dveiro 椽
+dveyro 橼
+dvimae 杩
+dviwwo 潍
+dvizii 淄
+dvuoao 札
+dwajuu 榉
+dwanke 泞
+dwanko 柠
+dwaufu 渖
+dwaziu 滓
+dwebbi 滨 槟
+dwecso 淙
+dwecye 寸
+dwedme 淀
+dwegke 夬
+dweiai 叉
+dweiao 檫
+dwejmu 柬
+dwejpo 杰
+dweldo 来
+dwemoe 末
+dwemue 木
+dweuue 束
+dweuvu 水
+dweyju 演
+dwezcu 枣
+dwezsi 棕
+dwigre 涫
+dwigri 棺
+dwioae 榨
+dwirso 溶 榕
+dwitmo 湉
+dwivji 桉
+dwixre 楦 渲
+dwosoi 桫
+dwudoe 柁
+dwuhre 浣
+dwutoo 沱
+dwuwju 椀
+dwuwoe 涴
+dxadge 邓
+dxahjo 涵
+dxaifi 郴
+dxeiuo 滁
+dxeiuu 楚
+dxeoie 滍
+dxiizu 杻
+dxiliu 李
+dxilso 漋
+dximwo 湄 楣
+dxitou 椭
+dxolee 泐
+dxuiio 池
+dxupao 杷
+dyabie 濞
+dyagci 槔
+dyahxe 桦
+dyakvo 櫆
+dyammo 棉
+dyasyu 榫
+dyebhi 浜
+dyedre 椴
+dyehko 槐
+dyeiji 梴
+dyeivo 槌
+dyejii 激
+dyepmo 楩
+dyepuo 濮
+dyeqno 樵
+dyeszi 溲
+dyevce 澳
+dyexio 檄
+dyexmo 涎
+dyexpe 榭
+dyexqe 溴
+dyibdu 柏
+dyihko 淮
+dyihlo 湟
+dyiivo 椎
+dyijie 洎
+dyijqe 桕
+dyinjo 难
+dyipoi 泊
+dyixii 皙
+dyixqu 滫
+dyixue 洫
+dyoyii 洢
+faabje 半
+faapje 判
+faauje 剡
+faaxti 削
+fbegve 炔
+fbejbe 烬
+fbejle 糨
+fbetve 煺
+fbidhi 当
+fbijuo 焗
+fcejye 焌
+fcerzo 糅
+fcetgi 熥
+fcexpe 燮
+fcitki 烃
+fciyce 耀
+fciyie 熠
+fcosju 糁
+fdacje 灿
+fdahje 焊
+fdaiho 常
+fdaxmi 籼
+fdaxto 峃
+fdebce 爆
+fdebpo 蹩
+fdegou 粿
+fdeiie 炽
+fdemje 熳
+fdeouo 烛
+fdeuhu 赏
+fdewwi 煨
+fdexto 泶
+fdeyji 烟
+fdezce 燥
+fdicui 粗
+fdidao 炟
+fdijio 脊
+fdijre 眷
+fdijsu 炯
+fdippi 瞥
+fdiugu 省
+fdiuhe 尚
+fdiwwe 煟
+fdixki 煋
+fdixne 肖
+fdiyue 煜
+fdiyyi 煴
+fdoigi 牚
+fdujto 觉
+fdukyi 焜
+feabmi 煸
+feahvi 辉
+feebpi 憋
+feello 粮
+feiuji 煽
+feoluo 炉
+ffaici 焯
+ffioji 粘
+fgoicu 炒
+fhabwe 糒
+fhadgi 灯
+fhebku 炳
+fhebni 熛
+fheffe 粪
+fhehsi 烘
+fhehso 黉
+fhejki 粳
+fhejre 桊
+fhemwo 煤
+fhetho 棠
+fheufi 燊
+fhigre 爟
+fhihuo 糊 煳
+fhiifo 尘
+fhikeu 炣
+fhitho 堂
+fhiwue 焐
+fhixii 粞
+fhixru 烜
+fhizce 灶
+fhizci 糟
+fhukcu 烤
+fiafgi 烽
+fiehre 焕
+fieivi 炊
+fieixi 欻
+fieooo 灼
+fierjo 燃
+fieuoe 烁
+fiibpi 鳖
+fiihze 鲎
+fiilce 烙
+fiilqi 熘
+fiixlu 鲞
+fiiyje 焰
+fiizji 糌
+fiudhu 党
+fiugli 光
+fiupce 炮
+fjanoe 糯
+fkelme 炼
+fkudye 炖
+fkujue 炬
+fkuuci 烧
+flajuu 举
+flawwu 炜
+fleiho 尝
+flijki 精
+fmabie 弊
+fmefjo 烦
+fmegao 尜
+fmehre 豢
+fmejmi 尖
+fmelno 燎
+fmelwe 类
+fmikvu 煃
+fmiuio 炻
+fmolie 粝
+fnilzo 娄
+fnolpe 劣
+fnoqre 券
+fnoyho 炀
+foaohu 掌
+foaqro 拳
+foebie 敝
+foecci 糙
+foeihu 敞
+foemiu 敉
+foetku 烶
+foeuue 数
+foexne 敩
+foikue 喾
+foioae 炸
+fouihu 氅
+fpaxbi 炘
+fpepje 叛
+fpoucu 少
+fqemfe 焖
+fracve 粹
+frekhi 糠
+freuha 裳
+frewfo 炆
+frexre 炫
+fribwe 焙
+frihee 熇
+frilie 粒
+frioue 炷
+fritgo 誊
+fritho 糖
+frityi 焞
+friuhi 熵
+friyue 誉
+frukhe 炕
+ftalbo 燐
+ftayho 烊
+ftecio 糍
+ftegci 糕
+ftesve 燧
+fteyie 燚
+fteyje 焱
+fteyjo 炎
+ftilje 烂
+fuahui 烀
+fuakde 炌
+fuaxii 烯
+fuehve 烩
+fuejto 爝
+fuexki 兴
+fuifjo 燔
+fuihjo 焓
+fuoffu 粉
+fuuqle 炝
+fvujru 卷
+fvulbo 粼
+fwalne 料
+fwehou 火
+fwemiu 米
+fwezse 粽
+fwirso 熔
+fwixri 煊
+fwuwjo 烷
+fxatjo 郯
+fxixto 学
+fxixuu 糈
+fxiziu 籽
+fxubai 粑
+fyayee 烨
+fyecsi 熜
+fyedre 煅
+fyehzo 糇
+fyeqqu 糗
+fyexii 熄
+fyeyje 烻
+fyeyue 燠
+fyihlo 煌
+fyipoe 粕
+fyiqte 雀
+gaihuo 壶
+gbaiio 墀
+gbakui 堀
+gbalve 垏
+gbasce 埽
+gbedde 埭
+gbekke 块
+gbeybo 垠
+gbunio 坭
+gbupiu 圮
+gbuqiu 起
+gbuyio 圯
+gceque 去
+gcevdi 埃
+gdahje 垾
+gdakyi 坤
+gdavco 嶅
+gdebae 坝
+gdedii 堤
+gdegoi 埚
+gdemje 墁
+gdeuie 螫
+gdeuio 埘
+gdevco 螯
+gdexyi 埙
+gdeyro 袁
+gdidse 垌
+gdiguu 瞽
+gdiheo 盍
+gdiigo 埕
+gdijio 吉
+gdijui 趄
+gdimdo 埋
+gdisee 啬
+gditai 塌
+gditju 坦
+gdiyjo 盐
+gdolgo 塄
+gdoyie 埸
+gdukdu 垲
+geehve 恚
+geeoie 志
+geeqte 悫
+geexii 憙
+gfezzu 走
+gfidme 坫
+gfioiu 址
+gfixui 墟
+gfobue 埗
+gfoluo 垆
+ghageo 塥
+ghatku 圢
+ghedpo 堞
+ghefgi 封
+gheggu 埂
+gheguu 鼓
+ghehee 赫
+ghelge 堎
+ghepuu 埔
+gheque 趣
+ghesie 寺
+ghetmo 填
+ghiduu 堵
+ghigji 坩
+ghigue 堌
+ghigvi 圭
+ghihge 堼
+ghikeu 坷
+ghikyu 壸
+ghioeo 喆
+ghioeu 赭
+ghioio 埴
+ghiqlo 墙
+ghitau 塔
+ghivco 聱
+ghiyai 垭
+ghiybi 堙
+ghiyco 垚
+ghiyii 壹
+ghiyro 垣
+ghokje 墈
+ghukji 堪
+giedou 垛
+gieguu 毂
+giegze 彀
+giehuo 觳
+gieiio 坻
+giekju 坎
+giekru 款
+gietue 堍
+giihee 垎
+giijyi 均
+giipgo 堋
+giiqui 趋
+giitji 坍
+giiwue 坞
+giukeo 壳
+gjapko 坪
+gkebge 甏
+gkeyte 越
+gkidpo 垤
+gkiyje 堰
+gkiyue 域
+gkutyo 坉
+glagju 赶
+glawwo 圩
+gletjo 坛
+glirju 冉
+glituu 土
+gluwui 圬
+gmalpe 趔
+gmedaa 垯
+gmehke 坏
+gmeigo 城
+gmejpo 颉
+gmelsu 垅
+gmerro 堧
+gmevco 獒
+gmeyro 塬
+gmipii 坯
+gmipiu 嚭
+gmiqio 埼
+gmiqke 磬
+gmolie 坜
+gmukxu 垮
+gmuvju 埯
+gnejii 圾
+gnepoi 坡
+gneshe 丧
+gniici 超
+gnijxi 嘉
+gnoihu 场
+gnojpo 劫
+goaqke 罄
+goeuee 赦
+goevco 敖
+goezju 趱
+goidou 埵
+goixbi 馨
+gougei 圪
+gpaqio 圻
+gpebju 坂
+gpegxe 坬
+gpeiee 坼
+gpigze 垢
+gpopgo 彭
+grancu 垴
+graxue 垿
+graysi 墉
+gredyi 墩
+greffo 坟
+gregdi 垓
+grehco 壕
+grerhu 壤
+greyie 懿
+grezii 趑
+grilai 垃
+gripwo 培
+griqku 謦
+gritho 塘
+griuhi 墒
+griyue 堉
+grobhe 塝
+grofhi 坊
+grokle 圹
+grujke 境
+grukgi 坑
+gruwji 塆
+gsefue 赴
+gsegxe 卦
+gsidhe 垱
+gsiisu 埫
+gsithe 趟
+gsugli 垙
+gtaxke 幸
+gtiuje 墡
+gtixiu 喜
+gtizgi 增
+guelpe 埒
+guenme 埝
+gueoce 赵
+guifui 垺
+guivce 鏊
+guoife 趁
+gvemuu 坶
+gvivdu 毐
+gvovce 坳
+gwello 墚
+gwevco 熬
+gwexii 熹
+gwiksi 埪
+gwivju 垵
+gwuiao 垞
+gwutoo 坨
+gwuyre 垸
+gxagvi 邽
+gxahcu 郝
+gxajqi 赳
+gxaqte 却
+gxauii 邿
+gxenju 赧
+gxitie 趯
+gxougi 声
+gxudie 地
+gyabue 埠
+gyaofe 圳
+gyapio 埤 鼙
+gyedre 塅
+gyehze 堠
+gyeiie 赤
+gyeuji 埏
+gyidvi 堆
+gyijie 垍
+gyiuhu 垧
+haabie 币
+haadoe 剁
+haagxi 刮
+haahui 乎
+haaiie 彳
+haajbi 斤
+haalie 利
+haalue 甪
+haanqo 牛
+haaoie 制
+haaqmi 千
+haauge 剩
+haaugi 升
+haayie 劓
+haepuo 穙
+hailjo 篮
+hbalve 律
+hbaoce 肇
+hbaqki 卿
+hbehfu 很
+hbejme 毽
+hbejmi 犍
+hbelue 箓
+hbexni 箫
+hbigvu 簋
+hbisie 笥
+hbodie 第
+hbosyu 笋
+hbugsi 躬
+hbuwwu 艉
+hcamuo 毪
+hcauie 释
+hcecre 篡
+hcedqi 丢
+hcefge 凤
+hcefju 反
+hcegvu 鬼
+hcesii 私
+hceszu 叟
+hceuui 殳
+hcidgi 簦
+hcifji 翻
+hciiii 笞
+hcijke 径
+hcipmi 翩
+hciuje 扇
+hcivco 翱
+hcuuuu 鼠
+hdabie 箅
+hdabio 鼻
+hdabmu 扁
+hdaboo 帛
+hdaosi 舯
+hdaosu 种
+hdaquo 衢
+hdasre 算
+hdauji 舢
+hdavce 岙
+hdecjo 蚕
+hdedeo 得
+hdehve 秽
+hdehvi 徽
+hdeiue 斶
+hdejie 稷
+hdejii 积
+hdejue 犋 飓
+hdekei 稞
+hdekve 篑
+hdelio 黧
+hdeloo 箩
+hdemce 贸
+hdempe 篾
+hdeogi 徵
+hdeosi 螽
+hdeqro 泉
+hdewwi 微
+hdeyhi 秧
+hdezje 赞
+hdibwe 备
+hdicuo 徂
+hdidao 笪
+hdidio 笛
+hdifji 番
+hdigce 告
+hdigee 各
+hdigre 盥
+hdiheo 和 盉
+hdihyi 昏
+hdihze 后
+hdiigo 程
+hdijmi 肩
+hdijqe 咎
+hdijsi 扃
+hdikje 看
+hdilqo 留
+hdilvu 稆
+hdiouo 舳
+hdipjo 盘
+hdiqiu 启
+hditsu 筒
+hdiueo 舌
+hdiugu 眚
+hdixle 向
+hdixli 香
+hdiyju 鼹
+hdiyze 鼬
+hdizju 昝
+hdizui 租
+hdojqe 舅
+hdougi 甥
+hduhue 扈
+hdujme 舰
+hdujmu 笕
+hduvdo 皑
+hduwhu 魍
+heapmi 篇 犏
+heebwe 惫
+heeigo 惩
+heeizo 愁
+heelho 稂
+heemie 秘
+heenso 秾
+heeqie 憩
+heeqmi 愆
+heexii 悉 息
+hfexiu 徙
+hfidme 扂
+hfifwi 扉
+hfihko 徊
+hfikce 靠
+hfinmo 黏
+hfioji 毡
+hfioju 飐
+hfipdo 徘
+hfoluo 舻
+hgaudi 筛
+hgetmu 忝
+hgexie 系
+hgomnu 秒
+hhabwi 卑
+hhadme 簟
+hhafue 阜
+hhagci 睾
+hhagui 箍
+hhajpi 街
+hhaoyi 衠
+hhaqso 筇
+hhatoe 箨
+hhayao 衙
+hhebou 簸
+hhecee 策
+hhecre 爨
+hhedde 待
+hhedeo 德
+hhedgu 等
+hhedou 朵
+hheduo 犊
+hheghe 筻
+hhehlo 簧
+hhejii 箕
+hhelde 籁
+hhelie 篥
+hhelio 梨
+hhellu 魉
+hhemgo 艨
+hhenhe 齉
+hhenpe 臬
+hheofu 稹
+hheoie 质
+hheoue 筑
+hhepjo 槃
+hheqiu 棨
+hhesue 簌
+hhesve 穗
+hhetee 特
+hhetno 条
+hhetuo 徒
+hheuee 射
+hheuuo 秫
+hhibfe 笨
+hhiboo 馞
+hhicco 艚
+hhidye 盾
+hhifuu 簠
+hhigeu 舸
+hhiguu 牯
+hhigve 筀
+hhihze 垕
+hhiiro 舡
+hhijpi 秸
+hhikze 筘
+hhimuu 牡
+hhioai 齄
+hhiogi 征
+hhioue 箸
+hhioze 籀
+hhiqmo 箝
+hhiroe 箬
+hhisee 穑
+hhitmo 甜
+hhiuie 筮
+hhiwuo 鼯
+hhiwuu 牾
+hhixii 舾 牺
+hhixli 箱
+hhiyyo 筠
+hholee 簕
+hhupao 筢
+hiahgo 衡
+hiaogi 筝
+hiebji 般
+hiecsi 囱
+hiedea 的
+hiedou 躲
+hiedre 段
+hiehvu 毁
+hieigi 称
+hiejie 穄
+hiepgo 篷
+hieuae 歃
+hiewfu 稳
+hiexbi 欣
+hiexie 舄
+hieybi 殷
+hieyie 役
+hieyio 移
+hiibwi 鹎
+hiicsi 囱
+hiiguu 鹄
+hiigxi 鸹
+hiigzu 笱
+hiihgo 鸻
+hiihzi 齁
+hiiiii 鸱
+hiiiro 船
+hiiizo 稠
+hiilqo 鹠
+hiilua 氇
+hiiqqi 鹙
+hiiquo 鼩
+hiiveo 鹅
+hiixye 徇
+hiohue 笏
+hiojbi 筋
+hiowue 物
+hioziu 秭 笫
+hiubni 飑
+hiudzi 兜
+hiupbe 牝
+hiutui 秃
+hiuuie 舐
+hiuxmi 先
+hjaige 秤
+hjeldo 徕
+hkabie 筚
+hkeqpe 箧
+hkequi 躯
+hkexui 魆
+hkifwu 篚
+hkikli 筐
+hkipou 笸
+hkizji 簪
+hkoiee 彻
+hkubiu 舭 秕
+hkuyte 粤
+hkuzce 皂
+hlabde 拜
+hlagji 竿
+hlagju 秆
+hlahji 鼾
+hlajii 笄
+hlaxko 行
+hlayuo 竽
+hleizo 筹
+hlejmi 笺
+hlemoe 秣
+hlemwe 魅
+hletmu 舔
+hlewfe 璺
+hlezeo 箦
+hlibdo 白
+hligzi 篝
+hlihlo 皇
+hliivo 垂
+hlijio 籍
+hlijqe 臼
+hliose 重
+hliouo 竺
+hliqke 箐
+hlirfo 壬
+hliugi 生
+hlixte 血
+hlizie 自
+hmagci 皋
+hmajii 嵇
+hmayuo 舁
+hmebao 魃
+hmeize 臭
+hmelie 戾
+hmelso 笼
+hmepwi 衃
+hmeqio 颀
+hmesue 夙
+hmetvo 颓
+hmevce 奥
+hmexui 须
+hmijii 稽 犄
+hmiofi 箴
+hmipjo 磐
+hnebiu 彼
+hnebmi 笾
+hnejio 笈
+hnenuo 笯
+hnijxi 笳
+hnitno 笤
+hniwwu 委
+hnoqqo 鼽
+hnowue 务
+hnoxqe 秀
+hnoyho 飏
+hoabfi 犇
+hoaiee 掣
+hoalio 犁
+hoaouo 竹
+hoaxmo 衔
+hoayue 御
+hoedio 敌
+hoedpo 瓞
+hoefue 馥
+hoejnu 敫
+hoemue 牧
+hoeoie 秩
+hoetku 艇
+hoexne 笑
+hoeyio 簃
+hoezce 簉
+hoigue 牿
+hoihce 皓
+hoiugi 牲 笙
+hoizeo 笮 舴
+houbiu 笔
+houcve 毳
+houmco 牦
+houxmu 筅
+hpasou 所
+hpebju 舨
+hpegvi 皈
+hpeoce 笊
+hpixyo 循
+hpoufi 身
+hpuiio 篪
+hqijmu 简
+hracio 辞
+hraxre 衒
+hrecue 簇
+hreiii 魑
+hrejnu 皎
+hrelio 篱
+hrerho 穰
+hrexmo 舷
+hreyiu 扆
+hrigci 篙
+hrigcu 稿
+hriisi 艟
+hrikce 犒
+hrilie 笠
+hriosu 穜
+hriwhu 往
+hrofhi 牥
+hrofho 房
+hrofhu 舫
+hropho 彷
+hruhho 航
+hrulue 簏
+hrumhi 牤
+hseiue 处
+hsidhi 筜
+hsiiho 徜
+hsithu 躺
+hsiuci 稍 筲 艄
+hsixni 魈
+htadji 箪
+htadre 簖
+htajme 箭
+htaxbe 衅
+htayho 徉
+htebni 飚
+hteqqi 秋
+htesve 穟
+htetju 毯
+hteyiu 舣
+htilzu 篓
+htipuu 氆
+htiuzu 艏
+htuuve 税
+huabdi 掰
+huageo 搿
+huaxii 稀
+huayco 徭
+huefgi 风
+huejne 皭
+huelio 黎
+huerfu 稔
+hueuuu 黍
+huexii 鼷
+huexuo 徐
+hueyuo 艅 舆
+huidao 答
+huidce 稻
+huifui 孵 稃
+huipoo 皤
+huiqmi 签
+huiqro 筌
+huixbe 囟
+huoffo 鼢
+huuchi 舱
+hvehze 後
+hveore 篆
+hveqiu 綮
+hvezru 纂
+hviduu 笃
+hvugki 乖
+hvujiu 几
+hvulre 乱
+hvumco 毛
+hvuoii 卮
+hvutoi 乇
+hvuuie 氏
+hwahue 戽
+hwakei 科
+hwakvo 魁
+hwayju 衍
+hwebai 八
+hwebku 秉
+hwebue 簿
+hwedii 氐
+hwedsi 冬
+hwefao 乏
+hwefjo 凡
+hwegxi 瓜
+hweheo 禾
+hweigo 乘
+hweiie 斥
+hwejxe 稼
+hwekke 筷
+hwelee 乐
+hwemea 么
+hwenso 农
+hweocu 爪
+hweoui 朱
+hweozi 舟
+hweuii 失
+hwewou 我
+hwexyi 熏
+hweyci 夭
+hweyuo 臾
+hweyuu 禹
+hwiboo 箔
+hwigru 管
+hwiksi 箜
+hwudoe 舵
+hwugru 筦
+hwuigo 乘
+hwuwju 皖
+hwuyri 箢
+hxadiu 邸
+hxagce 郜
+hxahze 郈
+hxamcu 卯
+hxaoui 邾
+hxapio 郫
+hxapoo 鄱
+hxavho 卬
+hxaybe 印
+hxayuu 鄅
+hxelru 卵
+hxijie 季
+hximgu 艋
+hxinve 衄
+hxubai 笆
+hxupao 爬
+hyabde 稗
+hyahce 皞
+hyaqno 乔
+hyefao 筏
+hyefuo 符
+hyehzo 篌
+hyejnu 皦 徼
+hyepoe 魄
+hyeszi 艘 飕
+hyewwe 魏
+hyexnu 筱
+hyeyjo 筵
+hyiboo 舶
+hyigue 雇
+hyihlo 凰 篁 徨
+hyiloe 雒
+hyioie 稚
+hyixnu 皛
+hyomue 穆
+hyubie 篦
+hyudzi 篼
+jaaccu 艹
+jaagei 割
+jaagve 刿
+jaaiui 出
+jaakdu 剀
+jaakee 剋
+jaauie 事
+jaauio 十
+jaauji 山
+jaawji 剜
+jbajto 崛
+jbakui 窟
+jbeguu 嘏
+jbijsu 窘
+jbijui 崌
+jbumbo 岷
+jbuqiu 岂 屺
+jbuqso 穹
+jcayie 峄
+jcejye 峻
+jcemde 卖
+jceoii 支
+jcidge 嶝
+jciiie 翅
+jcioue 翥
+jciqne 翘
+jcolno 寥
+jdacre 窜
+jdajxu 岬
+jdalmo 帘
+jdamie 密
+jdanjo 南
+jdanko 甯
+jdaufu 审
+jdebfi 贲
+jdedde 戴
+jdeghu 岗
+jdehro 寰
+jdeiii 蚩
+jdejii 赍
+jdejmu 蹇
+jdekei 窠
+jdemie 蜜
+jdesde 赛
+jdewoi 窝
+jdeyue 寓
+jdezdu 崽
+jdidse 峒
+jdigri 官
+jdigsi 宫
+jdigue 崮
+jdiguu 古
+jdioeu 者
+jdioio 直
+jdioze 宙
+jdiqio 耆
+jdiwwe 軎
+jdixqe 岫
+jdiyio 宜
+jdiyje 宴
+jdizdi 哉
+jdudio 觌
+jdujie 觊
+jdukee 克
+jduvee 崿
+jduxme 岘
+jeehve 惠
+jeemie 宓
+jfejie 寂
+jgikvi 岿
+jhanko 宁
+jheboo 博
+jhedke 定
+jhedmi 巅
+jhedze 窦
+jhefgi 崶
+jhekee 尅
+jhekje 崁
+jhelgo 崚
+jhemoe 寞
+jheode 寨
+jheoie 峙
+jheqio 岐
+jheqme 嵌
+jherso 嵘
+jhesse 宋
+jhessi 崧
+jheuzu 守
+jhevje 案
+jheybo 寅
+jhezdi 栽
+jhifue 富
+jhihue 岵
+jhiiao 嵖
+jhiiue 矗
+jhijii 墼
+jhikeu 岢
+jhiksi 空
+jhisdi 塞
+jhixri 宣
+jhiycu 崾
+jholco 崂
+jhujki 兢
+jhukri 宽
+jhuqne 窍
+jiafgi 峰
+jiamcu 峁
+jiaogi 峥
+jieiao 察
+jieljo 岚
+jieosi 衷
+jiequi 麴
+jiesve 岁
+jiexii 穸
+jieyio 嶷
+jiibgi 崩
+jiiboo 鹁
+jiidne 窎
+jiigui 鸪
+jiigzu 岣
+jiihuo 鹕 胡
+jiiico 朝
+jiikee 客
+jiixyo 峋
+jiuihe 鬯
+jiukdu 凯
+jiulcu 老
+jiutai 它
+jiuwju 宛
+jiuwwo 峗
+jjeldo 崃
+jjexxo 峡
+jkahre 宦
+jkaoju 崭
+jkayio 宧
+jkedsi 岽
+jkejiu 戟
+jkequi 岖
+jkeyju 戭
+jkidpo 耋
+jkioie 窒
+jkiuie 室
+jkiyuu 屿
+jkizde 载
+jkoiri 穿
+jkoqpe 窃
+jkoyao 岈
+jkukcu 考
+jkuoyi 窀
+jlahjo 韩
+jlaqmi 岍
+jlayuu 宇
+jlebcu 宝
+jlekze 寇
+jlenho 囊
+jlesve 祟
+jlezsi 宗
+jlihde 害
+jliuie 士
+jlukvi 窥
+jluwjo 完
+jmabbi 豳
+jmahve 卉
+jmaveo 峏
+jmavje 岸
+jmedmi 颠
+jmedue 蠹
+jmehso 宏
+jmeifo 宸
+jmeisu 宠
+jmejxi 家
+jmelno 寮
+jmeori 颛
+jmetje 炭
+jmetoo 橐
+jmetui 突
+jmeveo 额
+jmexme 献
+jmidhe 宕
+jmihjo 嵅
+jmijie 寄
+jmilio 嫠
+jmiqio 崎
+jmiwdu 崴
+jmiyao 崖
+jmiyjo 岩
+jmiyze 宥
+jmogxu 寡
+jmuyco 尧
+jmuyji 崦
+jnejio 岌
+jnexpo 协
+jniqii 妻
+jnivji 安
+jnoboo 勃
+jnogvu 宄
+jnojqi 究
+jnoqso 穷
+joajne 峤
+joalco 牢
+joaqmi 搴
+joayco 窑
+joegue 故
+joejne 教
+joeuge 嵊
+joeveo 峨
+joewwi 巍
+joijne 窖
+joiodu 窄
+joumce 耄
+jouodo 宅
+jouqmo 乾
+jouxme 宪
+jouyie 屹
+jpewai 窊
+jpeyuu 窳
+jragui 辜
+jraohe 嶂
+jrasui 窣
+jrazdu 宰
+jrazuo 崒
+jrecdo 裁
+jreqbu 寝
+jreqmi 褰
+jrigoi 崞
+jrijiu 嵴
+jrijmu 謇
+jrissi 嵩
+jrixyi 窨
+jsiqne 峭
+jsixni 宵
+jtalbo 嶙
+jtetne 粜
+jtezdi 灾
+jtezii 嵫
+jticoo 嵯
+jtijue 窭
+jtilzu 嵝
+juawoe 斡
+juayuo 窬 嵛
+juebmu 窆
+juelku 岭
+jueofi 真
+juetnu 窕
+juexii 窸
+juexto 穴
+juihje 翰
+juihoi 豁
+juirso 容
+juixmu 崄
+juixno 崤
+juiyue 峪
+juucfo 岑
+jvesou 索
+jveyzi 幽
+jviqmi 骞
+jvoycu 窈
+jvubiu 匕
+jvuqii 七
+jwehjo 寒
+jweiso 崇
+jwelie 吏
+jweohe 丈
+jweouu 煮
+jweuio 实
+jwewwe 未
+jwiksi 崆
+jxadhe 凼
+jxadzi 都
+jxafgi 酆
+jxahjo 函
+jxauji 邖
+jxaxsi 凶
+jxemwe 寐
+jxibwe 孛
+jxilso 窿
+jximhu 茻
+jximwo 嵋
+jxiwue 寤
+jxixne 孝
+jxizie 字
+jxubai 岜
+jyebbi 宾
+jyeili 窗
+jyewwo 嵬
+jyicvi 崔
+jyijpo 截
+jyisue 宿
+kaahxe 划
+kaaiei 车
+kaaiju 刬
+kaajii 剞
+kaakui 刳
+kaaozi 州
+kaauai 刹
+kaayie 刈
+kaigji 尴
+kbafwe 狒
+kbapiu 癖
+kbaxye 讯
+kbaysi 庸
+kbedme 癜
+kbeggi 庚
+kbehfo 痕
+kbehfu 狠
+kbejbe 祲
+kbejto 决 诀
+kbejxu 瘕
+kbekhi 康
+kbelue 禄
+kbemio 猕
+kbenmu 辗
+kbetou 庹
+kbicio 词 祠
+kbitho 唐
+kbujie 记
+kbusie 祀
+kcasse 诵
+kcatse 痛
+kcaxue 序
+kcayie 译
+kcedue 度
+kcefai 发
+kcehsi 轰
+kceioe 辍
+kcenco 猱
+kcesce 瘙
+kcesri 狻
+kcevwo 诶
+kceyzu 友
+kcihso 翃
+kcijke 痉
+kcijto 谲
+kciqki 轻
+kcitji 瘫
+kcixuu 诩
+kciyeu 冶
+kciyio 诒
+kcoizi 瘳
+kcolne 廖
+kcomqe 谬
+kcoufe 瘆
+kcuyyu 狁
+kdabie 痹
+kdabue 布
+kdaisi 冲
+kdaufo 神
+kdauje 疝 讪
+kdavdo 癌
+kdaxio 席
+kdaxxo 狎
+kdebki 冰
+kdebwe 狈
+kdecue 蹙
+kdeduo 独
+kdefuu 腐
+kdeggi 赓
+kdegou 猓
+kdegre 祼
+kdehee 贺
+kdehoe 祸
+kdekee 课
+kdeloo 猡
+kdelou 瘰
+kdemjo 谩
+kdenee 讷
+kdeoii 禔
+kdeoiu 轵
+kdeqmu 谴
+kdesue 谡
+kdeuio 识
+kdewue 误
+kdewwu 猥
+kdexpo 勰
+kdezii 资
+kdidce 盗
+kdidju 疸
+kdiffe 奋
+kdigai 旮
+kdigue 痼
+kdihoe 或
+kdihxo 猾
+kdiihi 猖
+kdiihu 昶
+kdiijo 廛
+kdijio 辑
+kdijre 狷
+kdijui 疽 狙
+kdijxi 加
+kdikvi 盔
+kdilio 狸
+kdimne 庙
+kdioju 盏
+kdiozo 轴
+kdiquo 癯
+kditdo 台
+kdiufe 昚
+kdiuge 盛
+kdiwfi 瘟
+kdiwwe 谓 猬
+kdixki 猩
+kdixri 禤
+kdixse 诇
+kdixue 旭
+kdiyki 膺
+kdiyku 瘿
+kdiyue 彧
+kdiyze 右
+kdiyzu 有
+kdizii 咨
+kdizje 暂
+kdizuu 诅 祖
+kdugyu 辊
+kdukle 况
+kduoue 祝
+kduuie 视
+kduvee 谔
+kduwhu 辋
+kduyee 谒
+kduyju 奄
+keahye 诨
+kealho 廊
+keapmo 谝
+keedde 怠
+keegju 感
+keehoe 惑
+keelho 狼
+keemie 祕
+keetde 态
+keetee 忒
+keeyue 狱
+keezie 恣
+keimie 谧
+keoluo 庐
+kfeofi 祯
+kfeqii 戚
+kfidme 店
+kfifwe 痱
+kfifwu 诽
+kfimio 靡
+kfioiu 祉
+kfirhe 让
+kfixte 谑
+kfoluo 轳
+kfucii 疵
+kfuxni 猇
+kgauii 狮
+khadke 订
+khadki 疔
+khajie 计
+khalae 瘌
+khatjo 谭
+khebke 病
+khebni 瘭
+khedmi 癫
+khedoo 夺
+khedpo 谍
+kheduo 读
+khefuu 辅
+khegsi 龚
+khegvu 庋
+khehlo 癀
+kheigu 庱
+kheiii 瓻
+kheilo 床
+khejme 谏
+khejxe 架
+khelde 癞
+khelie 凓
+khelko 祾 凌
+khelle 辆
+khemao 麻
+khemgu 獴
+khemoe 瘼
+khemoo 谟
+khemzo 谋
+kheofi 禛
+kheoie 痣
+kheoui 橥
+kheqio 麒 祺
+kheqme 椠
+khequi 祛
+khessi 凇
+khetau 獭
+khetce 套
+khetcu 讨
+kheuai 杀
+kheuii 诗
+khexiu 枲
+kheyje 谳
+kheyro 辕 猿
+khezao 杂
+khezzi 诹
+khidai 耷 瘩
+khidde 甙
+khidze 痘
+khifuo 福 辐
+khigeu 哿
+khighi 冮
+khigji 疳
+khigui 轱
+khiguu 诂
+khigxe 诖
+khihei 诃
+khihri 獾
+khihse 讧
+khihue 祜
+khihuo 猢
+khiiao 猹
+khijbu 廑 谨
+khijio 诘
+khikei 疴 轲
+khikvo 奎
+khilpe 猎
+khilso 聋
+khilsu 垄
+khilwu 垒
+khimci 猫
+khinoe 诺
+khioge 症 证
+khioli 庄
+khioui 诸 猪
+khiqio 奇
+khiqme 堑
+khiuee 社
+khiuei 奢
+khiuie 式
+khiwue 痦
+khiwui 诬
+khixiu 禧
+khixmo 咸
+khiyau 痖
+khiybi 禋
+khiyuu 语
+khizde 在
+khizou 左
+kholco 痨
+khuhlu 谎
+khuifo 谌
+khuoeo 辄
+khuzhi 臧
+kiajke 净
+kiaoge 诤
+kiaogi 狰
+kiaxpe 獬 廨
+kiaxru 癣
+kiaysi 痈
+kiebni 飙
+kiecie 次
+kiediu 底 诋
+kiedve 祋
+kiefgi 疯
+kiefgu 讽
+kiehre 痪
+kieijo 谗
+kiejqe 疚
+kielie 轹
+kielne 尥
+kiemio 祢
+kiemoo 麽
+kienko 凝
+kieode 瘵
+kieoii 祗
+kierru 软
+kietgo 疼
+kieuee 设
+kievdi 欸
+kiexii 欷
+kiexmu 狝
+kieyie 疫
+kieyii 欹
+kiidne 调
+kiidni 凋
+kiidsi 鸫
+kiiggi 鹒
+kiigzu 狗
+kiiiju 谄
+kiijqi 鸠
+kiiklo 诳
+kiilhu 朗
+kiilno 鹩
+kiilqo 瘤
+kiilue 辂
+kiioee 鹧
+kiioji 谵
+kiiozi 诌
+kiivji 鹌
+kiixyo 询
+kiiyie 诣
+kiiyki 鹰
+kiiyri 鸢
+kiugvu 诡
+kiujii 讥
+kiujiu 麂
+kiungo 能
+kiupce 疱
+kiupco 庖 狍 匏
+kiupiu 庀
+kiuqio 祇
+kjapko 评
+kjexxo 狭
+kjilwu 癗
+kjiyie 瘗
+kkajpe 诫
+kkakue 库
+kkecio 瓷
+kkedse 冻
+kkelmo 奁
+kkeqku 庼
+kkevzi 讴
+kkeyio 痍
+kkibie 狴
+kkihue 冱
+kkiiie 痓
+kkikli 诓
+kkinte 疟
+kkioie 轾
+kkiqii 凄
+kkiuie 弑 试 轼
+kkiwwi 威
+kkixpo 谐
+kkizfe 谮
+kkolie 疠
+kkorso 狨
+kkoyae 讶
+kkubie 庇
+kkujre 奆
+kkujue 讵
+kkulue 鹿
+klahve 讳
+klajlu 讲
+klajpo 讦
+klavje 犴
+klaxri 轩
+klayii 祎
+klecze 辏 凑
+kledcu 祷
+kleiie 瘛
+klelwu 诔
+klende 奈
+kleoie 痔
+kleoru 转
+kleozi 诪
+klevco 廒
+klevee 贰
+klexie 禊
+klexmi 祆
+klibji 癍
+klicdi 猜
+kliklo 狂
+kliqku 请
+kliwhi 尪
+klixui 戌
+klukxi 夸
+kluwuu 庑
+kmabfi 奔
+kmabme 弁
+kmajpe 戒
+kmalpe 冽
+kmaxii 希
+kmefuo 祓
+kmehvi 诙
+kmeigo 诚
+kmejto 獗
+kmejxo 颊
+kmelno 獠
+kmeooo 诼
+kmeouo 瘃
+kmepho 庞
+kmeqke 庆
+kmeuie 奭
+kmeyzo 疣 犹
+kmibfu 畚
+kmijmu 减
+kmilso 砻
+kmimoo 磨
+kmipii 狉
+kmipiu 痞
+kmisji 叁
+kmiuie 奭
+kmiyco 肴
+kmiyii 猗
+kmiyze 祐
+kmolie 疬
+kmorso 戎
+kmuvee 轭
+kmuvji 庵
+knecyi 皴
+knefwe 废
+knepio 疲
+kneqto 瘸
+knerfe 讱 轫
+knijxi 痂
+knioce 诏
+kniyco 轺
+knizii 姿
+knogvu 轨
+knohhi 夯
+knoqqo 犰
+knoyho 疡
+koajne 轿
+koalie 猁 痢
+koamoo 摩
+koamzo 牟
+koaqmi 牵
+koaxuu 许
+koefui 敷
+koehve 诲
+koejio 疾
+koejqe 救
+koejyi 麇
+koeoui 诛
+koetko 庭
+koexyi 獯
+koeyie 轶
+koeyiu 矣
+koeyuo 谀
+koigce 诰
+koihxe 话
+koiiii 痴
+koioae 诈 痄
+koiwwu 诿 痿
+koizoe 祚
+kooyze 诱
+kougei 疙
+kouhvi 麾
+kouqie 讫
+kousji 毵
+koutoi 讬
+kouufi 诜
+kouxmu 冼
+kpaoju 斩
+kpaqio 祈
+kpebji 瘢
+kpehue 瓠
+kpehuo 狐
+kpeozi 辀
+kpesue 诉
+kpigze 诟
+kpocji 参
+kpohue 户
+kpojqu 九
+kpolie 力
+kqeljo 谰
+kqexmo 痫
+kracue 猝
+kracve 瘁
+kradie 谛
+krakoe 廓
+kraohe 瘴
+kraohi 獐
+krasve 谇
+kregdi 该
+krejne 较
+krejnu 狡
+krejxi 袈
+krelbu 凛 廪
+krelle 谅
+krello 凉 辌
+kreoeo 辙
+kreqqo 裘
+krerho 禳
+krexio 袭
+krexro 痃
+kreyie 癔
+kreyui 瘀
+krijio 瘠
+krioeo 詟 谪
+krioue 疰
+kriouu 麈
+krioyi 谆
+kriqqo 訄
+krivji 谙
+kriybo 狺
+krizii 谘
+krobhe 谤
+krofhu 访
+kroglu 犷
+kroyje 谚
+krucui 麤
+krujke 獍
+krulue 辘
+ksefue 讣
+ksiqne 诮
+ksudhu 谠
+ktadji 瘅
+ktaijo 禅
+ktalbo 辚 麟
+ktaxlo 庠 祥 详
+ktayhu 痒
+ktedio 狄
+ktehvi 灰
+kteife 疢
+ktelmo 廉
+ktemio 谜 糜 麋
+kteooo 禚
+kteqmi 谦
+ktetdo 炱
+ktetjo 痰 谈
+kteyie 议
+ktezii 粢
+ktiide 瘥
+ktikvo 馗
+ktilze 瘘
+ktipuu 谱
+ktiuie 谥
+ktojmu 谫
+ktuuoi 说
+kuagae 尬
+kuahui 轷
+kuajpe 疥
+kuauui 输
+kuaxsi 讻
+kuayco 谣
+kuayue 谕
+kueife 谶
+kuekke 狯
+kuelgu 冷
+kuerfe 认
+kuesse 讼
+kuetni 祧
+kueufu 谂
+kueulu 爽
+kuexri 谖
+kueyco 爻
+kueyuo 狳
+kuezse 疭
+kuicoo 痤
+kuiqro 诠 痊 辁
+kuiuei 猞
+kuivco 鏖
+kuixmu 猃
+kuizje 錾
+kuizoe 座
+kuoofu 疹 诊 轸
+kuuili 疮
+kuulye 论
+kuulyo 轮
+kvemio 縻
+kvifgo 冯
+kvijxe 驾
+kvimae 祃 犸
+kvizii 辎
+kvufje 犯
+kvuliu 礼
+kvuyae 轧
+kvuyyu 允
+kvuyzo 尢
+kwanko 狞
+kwebje 办
+kwedae 大
+kwedsi 东
+kwefuu 甫
+kwegei 戈
+kweigo 成
+kwejmi 戋
+kwejxi 夹
+kwello 良
+kwelso 龙
+kwemho 尨
+kweoii 之
+kweqqo 求
+kweqru 犬
+kwetde 太
+kweuue 戍 庶 术
+kweuui 书
+kweuze 狩
+kwewjo 丸
+kwewue 戊
+kwewwe 为
+kwexso 熊
+kweyie 乂 义 弋
+kweyio 夷
+kweysu 永
+kweyzo 尤
+kwixxo 辖
+kwiyie 谊
+kwiyki 应
+kwouai 痧
+kwuiae 诧
+kxajpi 疖
+kxajxo 郏
+kxakle 邝
+kxalho 郎
+kxalno 疗
+kxaqio 祁
+kxaqpe 郄
+kxaqui 诎
+kxatdo 邰
+kxatho 鄌
+kxaxii 郗
+kxayue 郁
+kxesyi 狲
+kxeybu 瘾
+kxicyo 存
+kxilso 癃
+kximgu 猛
+kximwo 猸
+kxinqu 狃
+kxubai 疤
+kyabie 庳
+kyaklu 夼
+kyaxye 训
+kyedje 诞
+kyefuu 府
+kyehzo 瘊 猴
+kyemoo 魔
+kyeqno 谯
+kyeuee 麝
+kyeuze 瘦
+kyexpe 谢
+kyexqi 庥
+kyeyuu 庾 瘐
+kyioyu 准
+kyiuvo 谁
+kyixso 雄
+kyubpu 瘪
+kyunio 猊
+kyuveo 讹
+laafuo 弗
+laafwe 剕
+laagee 个
+laagve 刽
+laaile 创
+laaire 串
+laairi 川
+laajbi 巾
+laajme 剑
+laaoci 钊
+laaosi 中
+laaqni 劁
+laaufi 申
+laayue 聿
+laefuo 幞
+laepuo 镤
+laikgi 铿
+lailjo 褴
+lbafuo 佛 氟
+lbajto 倔
+lbapie 僻
+lbaufu 矧
+lbaybu 蚓
+lbefwe 镄
+lbehju 阚
+lbehze 候
+lbehzo 侯
+lbejme 键 健
+lbejxu 假
+lbekfe 裉
+lbelve 氯
+lbemwe 袂
+lbeore 僎
+lbeqbi 侵
+lbeqbu 锓
+lbeqli 镪
+lbeqlu 襁
+lbeqti 缺
+lbetve 褪
+lbeybo 银
+lbicie 伺
+lbigvi 归
+lbijue 倨 锯
+lbijui 裾 锔
+lbiqyo 裙
+lbiwoe 幄 偓
+lboyii 伊
+lbunie 伲
+lbunio 铌
+lcadoo 铎
+lcamzo 蛑 侔
+lcauui 舒
+lcaysu 蛹 俑
+lcedoi 裰
+lceiau 衩
+lceidi 钗
+lcejbu 仅
+lcejye 俊
+lceqio 俟
+lceqte 阕
+lceuie 似
+lcexue 叙
+lcidge 镫
+lcifwu 翡
+lciigi 蛏
+lcilko 翎
+lcinoo 傩
+lcioeu 褶
+lciqki 氢
+lcixii 翕
+lcolue 僇
+ldacee 侧
+ldadde 岱
+ldadne 铞
+ldajxu 钾
+ldamke 命
+ldaoao 铡 闸
+ldaose 仲
+ldaosi 钟
+ldaufi 伸
+ldauke 帅
+ldaxmi 氙 仙
+ldayte 龠 岳
+ldayuo 俞
+ldebcu 保
+ldebwe 钡
+ldecce 肏
+ldecri 汆
+ldecue 促
+ldedde 黛 贷
+ldedeo 锝
+ldefue 复
+ldefwe 费
+ldefwi 蜚
+ldeghi 钢
+ldegoi 锅
+ldegoo 帼
+ldegou 蜾
+ldegve 贵
+ldehoe 货
+ldehro 镮
+ldeiue 俶
+ldejie 冀
+ldejli 浆
+ldejue 俱
+ldekee 锞
+ldekyu 阃
+ldelbe 赁
+ldeloo 锣 镙 螺
+ldelou 裸 倮
+ldembu 闽
+ldemje 镘 幔
+ldenae 衲 钠
+ldeoie 帜
+ldeooo 镯
+ldeque 阒
+ldequo 蠼
+lderve 蚋
+ldesii 锶
+ldetji 贪
+ldetyu 氽
+ldevzu 偶
+ldewoi 蜗
+ldewuo 蜈
+ldewwi 偎
+ldexmo 贤
+ldexri 儇
+ldeybi 氤 铟
+ldeyuu 俣
+ldibge 镚
+ldibwe 背
+ldicvi 催
+ldidao 阘
+ldidje 但
+ldidme 钿 佃
+ldidse 侗
+ldigoi 蝈
+ldigue 锢
+ldiguu 蛊
+ldiheo 盒 合
+ldihjo 含
+ldihvo 蛔
+ldiigo 裎
+ldiihe 倡
+ldiihi 阊
+ldijmi 监 间
+ldijqe 旧
+ldiliu 锂 俚
+ldilvo 闾
+ldilvu 铝 侣
+ldilwu 儡
+ldimce 帽
+ldimue 钼
+ldioie 智
+ldioii 知
+ldiosi 盅
+ldioze 胄
+ldiqui 蛆 蛐
+ldirjo 蚺
+lditai 褟
+lditju 袒 钽
+lditso 铜
+ldiuei 畲
+ldiufe 肾
+ldiuze 售
+ldivhe 盎
+ldiwfe 问
+ldixqe 袖
+ldiyri 蜎
+ldiyyi 氲
+ldiyzo 铀 蚰
+ldizge 锃
+ldizuu 俎
+ldoiuo 锄
+ldotie 裼
+ldoxii 锡
+ldoyie 蜴
+lduhee 褐
+lduhlu 幌
+ldujie 偈
+ldukdu 铠 闿
+ldukju 侃
+ldukyi 锟
+ldulju 览
+ldupki 俜
+lduvee 锷
+lduxmu 蚬
+lduxpi 蝎
+lduyko 蝇
+lduyuo 觎
+leabmi 蝙
+leabmu 褊
+leakyi 裈
+lealho 螂
+leapmi 偏
+leebie 铋
+leebwi 悲
+leehre 患
+leelho 阆 锒
+leelke 令
+leemfe 闷
+leemko 螟
+leenbo 您
+leenfe 恁
+leenme 念
+leenso 侬
+leeosi 忠
+leessu 怂
+leeuio 食
+leeyue 愈
+leeyzi 悠
+leeyzu 牖
+leezfu 怎
+leiiuu 储
+leiizo 雠
+leijto 傕
+leivji 盦
+leujbi 今
+lfaooi 倬
+lfaxxe 罅
+lfekau 佧
+lfeofi 侦 帧
+lfibwe 褙
+lfipdo 俳
+lfiqiu 企
+lfitpi 帖
+lfizri 钻
+lgasii 蛳
+lgoici 钞
+lhadki 钉 仃
+lhageo 镉
+lhahxo 华
+lhaijo 镡
+lhalae 蝲
+lhamhu 蟒
+lhanju 蝻
+lhanmo 年
+lhaofi 针
+lhapje 襻
+lhasyu 隼
+lhaufo 什
+lhauii 师
+lhawuu 午
+lhaxii 蜥
+lhayei 倻
+lhebku 蛃
+lhebme 便
+lhebni 幖 镖
+lheboo 镈
+lhedpo 蝶 牒
+lheduo 牍
+lheffe 偾
+lhefue 付 傅
+lhegsi 供
+lhegxe 褂
+lhehlo 蟥
+lhehoe 蠖 镬
+lhehve 蟪
+lheife 衬
+lhejbi 襟
+lhejie 伎
+lhejio 集
+lhejku 儆
+lhejlu 桨
+lhejuu 榘
+lhelie 俪 傈
+lheljo 阑
+lhelxu 俩
+lhemao 蟆
+lhemgu 蠓
+lhemju 螨
+lhemoe 镆
+lhempe 蠛
+lhenpe 镊
+lheofe 镇
+lhepni 螵
+lhepue 铺
+lheqio 蜞
+lheqqo 俅
+lherso 蝾
+lhesue 僳
+lhetco 鼗
+lhetmo 阗
+lheuie 侍
+lheuiu 使
+lhexmo 闲
+lhexni 蟏
+lhexqi 休
+lhexxi 虾
+lhezoe 做
+lhibcu 堡
+lhiboi 钵
+lhicco 螬
+lhicoe 错
+lhidai 褡
+lhidru 短
+lhifao 垡
+lhifuo 幅 蝠
+lhigau 玍
+lhighi 缸
+lhigre 罐
+lhigui 蛄 估
+lhiguu 钴
+lhigvi 闺
+lhiheo 阖 何 蚵
+lhihji 蚶
+lhihso 虹
+lhihuo 蝴
+lhiiuu 褚
+lhijio 佶
+lhijle 酱
+lhijli 僵
+lhijmi 坚
+lhijpe 借
+lhijxi 佳
+lhikei 钶
+lhilae 蜡
+lhimco 锚
+lhinoe 锘
+lhioeu 锗
+lhiogi 钲
+lhioio 值
+lhiole 壮
+lhiqmo 钳
+lhiroe 偌
+lhissu 耸
+lhitiu 体
+lhitso 仝
+lhituu 钍
+lhiuie 仕
+lhivee 佴
+lhiveu 铒
+lhiwai 蛙
+lhiwfo 闻
+lhiwuu 伍
+lhixii 僖
+lhixqi 鸺
+lhiyae 氩
+lhizoe 坐
+lhobie 闭
+lhojpo 蜐
+lholco 铹
+lhopgo 蟛
+lhoyju 俨
+lhugde 钙
+lhukce 铐
+lhukee 氪
+lhulcu 铑 佬
+lhumho 铓
+liafgi 蜂 锋
+liamcu 铆
+liaogi 铮
+liapwe 佩
+liawuu 舞
+liayhu 仰
+liaysi 佣
+liedii 低
+liedne 钓
+liedsi 氡
+liefji 帆
+liefjo 钒
+liegzi 钩
+liehoi 锪
+lieiie 傺
+lieiiu 侈
+lieijo 镵
+liejli 将
+liemue 仫
+lieniu 你
+lieqbi 钦
+lietso 佟
+lieuee 歙
+lieuoe 铄
+lieuui 倏
+liexle 像 蟓
+liezsu 偬
+liichi 鸧
+liidji 儋
+liigee 铬
+liigei 鸽 袼
+liigeo 阁
+liigzi 佝
+liihee 鹤
+liihyi 阍
+liiiji 襜
+liiijo 蟾
+liijni 鹪
+liijyi 钧
+liilqo 镏
+liiluu 镥
+liimbu 鳘
+liimko 铭
+liiofe 鸩
+liiqmi 铅
+liitie 倜
+liitno 蜩
+liiwui 钨
+liixmo 鹇
+liixni 翛
+liixqi 脩
+liiyce 钥
+liiyhi 鸯
+liiyjo 阎
+lioxqi 修
+liubwu 北
+liufuo 艴
+liuhxe 化
+liujiu 虮
+liujqi 阄
+liulyo 仑
+liuohu 仉
+liupco 袍
+liupko 凭
+liusee 铯
+ljapko 蚲
+ljaruo 蠕 襦 儒
+ljejxo 蛱 铗
+ljeldo 铼 俫
+ljexxo 侠
+ljilwo 镭
+lkabwe 辈
+lkadce 倒
+lkayeo 铘
+lkedde 代
+lkefao 伐
+lkelko 瓴
+lkelme 链
+lkelmo 裢
+lkeqki 倾
+lkeqli 戗
+lketee 铽
+lkewau 佤
+lkeyte 钺
+lkeyuu 伛
+lkijme 僭
+lkikdu 锴
+lkioie 蛭
+lkioio 侄
+lkipou 钷
+lkixpo 偕
+lkiyju 偃
+lkiyue 阈 蜮
+lkoyao 蚜 伢
+lkudye 钝
+lkujnu 侥
+lkujue 钜
+lkujuu 矩
+lkunco 蛲 铙
+lkupio 蚍
+lkupiu 仳
+llabhe 蚌
+llafge 俸
+llawwo 帏 闱
+llawwu 伟
+llebne 俵
+llebnu 裱
+lleddu 傣
+llefuo 蚨
+llehve 会
+lleiro 传
+lleizo 俦 帱
+lleode 债
+lleoue 铸
+lleqbo 螓
+lleqmo 钱
+lleqpe 锲
+llesue 傃
+lleueo 佘
+llevce 傲
+llewae 袜
+lleyue 钰
+lleyuo 余
+llezeo 帻
+llicso 丛
+llifwi 非
+lliiyi 蝽
+llijqu 韭
+llinke 佞
+llioae 乍
+llioao 甴
+lliqki 蜻
+lliqko 氰
+lliqli 锖
+lliqme 倩
+lliqqi 丘
+lliqro 全
+llirfo 仁
+llirye 闰
+llisai 仨
+lliueu 舍
+lliuri 闩
+lliyjo 闫
+lliyzo 由
+lmabfe 倴
+lmabfi 锛
+lmabui 钸
+lmalie 例
+lmayju 弇
+lmeboo 钹
+lmebue 钚
+lmefuo 伏
+lmefuu 頫
+lmeheo 颌
+lmehje 颔
+lmehso 闳
+lmeigo 铖
+lmejlu 奖
+lmejto 镢
+lmekji 龛
+lmelku 领
+lmelne 镣
+lmelno 僚
+lmenue 傉
+lmeohe 仗
+lmeole 状
+lmerue 褥
+lmetae 闼
+lmetde 钛
+lmeuye 顺
+lmeyro 螈
+lmeyzi 优
+lmibdu 佰
+lmikvo 蝰
+lmimmu 偭
+lmipii 伾
+lmiyiu 倚
+lmiyze 侑 佑
+lmiyzu 铕
+lmizou 佐
+lmolie 蛎
+lmukxu 侉
+lmuvju 俺
+lmuyji 阉
+lnebwe 被
+lnejio 伋
+lneoce 兆
+lnepii 铍
+lnepwe 帔
+lnerfe 仞
+lnigai 伽
+lninvu 钕
+lnioli 妆
+lniruo 铷
+lnoihe 畅
+lnoiui 初
+lnoizo 仇
+lnojre 隽
+lnolee 仂
+lnondu 氖
+lnorgo 仍
+lnoyho 钖
+loajme 牮 件
+loajnu 矫
+loakei 蝌
+loalie 俐
+loalio 蜊
+loanao 拿
+loaqmi 钎 仟
+loaqno 侨
+loawuu 仵
+loedke 铤
+loedqi 铥
+loefue 蝮
+loeheo 龢
+loeihi 伥
+loelmu 敛
+loembu 敏
+loeohe 帐
+loeoie 帙
+loeoui 铢 蛛 侏
+loeqni 锹
+loesii 俬
+loetko 蜓
+loetpu 铁
+loevcu 袄
+loeveo 俄 蛾 锇
+loewuu 侮
+loeyie 佚
+loeyzi 攸
+loigce 锆
+loihoo 佸
+loiiai 锸
+loiivo 锤
+loikoe 蛞
+loilbo 临
+loioae 蚱
+loioii 蜘
+loiosi 锺
+loirfe 任 衽
+loivdu 矮
+loiwoi 倭
+loizoe 作
+loouhi 伤
+looxqe 锈
+lougee 虼
+lougei 仡
+louhco 蚝
+louuui 毹
+louxiu 铣
+lpebju 钣 版
+lpeoie 锧
+lpexmi 锨
+lpopki 乒
+lpoppi 氕
+lpouji 钐 衫
+lpoyee 曳
+lpuiiu 褫
+lqakdi 锎
+lqeljo 镧
+lqijmu 锏 裥
+lqumfa 们
+lqumfo 钔
+lraido 侪
+lrajpe 褯
+lrakue 裤
+lrance 闹
+lraohe 幛
+lraohi 蟑
+lraqio 蛴
+lratko 停
+lrauie 铈
+lrauke 蟀
+lraxbi 锌
+lraysi 镛
+lrebni 儦 镳
+lrecie 佽
+lredde 袋
+lredue 镀
+lredve 镦
+lrefuu 俯
+lrefwu 斐
+lrehde 氦
+lreheo 阂
+lreiii 螭
+lrejke 倞
+lrejni 蛟
+lrejnu 铰 佼
+lrejqe 僦
+lrelmo 镰 蠊
+lrembu 闵
+lreoli 装
+lrepwo 裴
+lreqbi 衾
+lreqbo 禽
+lreqli 锵
+lrerho 儴
+lrevdi 锿
+lrevee 阏
+lrewfo 蚊
+lrexli 镶
+lrexre 镟 铉
+lreyie 镱
+lreyii 铱 依
+lrezuo 镞
+lribwe 倍
+lridii 镝
+lrigcu 镐
+lriilo 幢
+lrioue 住 蛀
+lriovi 隹
+lripwo 锫
+lritho 螗
+lritso 僮
+lriuue 竖
+lriwwe 位
+lrixbe 信
+lriybo 訚
+lriyzo 蝣
+lrobhe 镑 傍
+lrofhi 钫 蚄
+lrofhu 仿
+lroiju 铲
+lropho 螃
+lruise 铳
+lrujke 镜
+lrukhe 伉 钪
+lrukhi 闶
+lrulqu 锍
+lrumgo 虻
+lrutoi 侂
+lruyue 毓
+lsebuu 补
+lseiho 偿
+lsepoi 钋
+lsepui 仆
+lsesou 锁
+lsidhi 铛 裆 蟷
+lsiqne 俏
+lsithi 镗
+lsitho 螳
+lsithu 倘
+lsiuci 蛸
+lsixni 销
+lsuthu 傥 镋
+ltabje 伴
+ltaijo 蝉
+ltaiju 阐
+ltapje 袢
+ltapko 帡
+ltasju 伞
+ltayho 蛘 佯
+ltayhu 氧
+ltebci 煲
+ltedio 籴
+ltedje 氮
+ltehou 钬 伙
+ltemwu 镁
+lteqti 阙
+ltesve 襚
+ltetjo 锬 倓
+ltewwu 伪
+lteyio 仪
+lteyiu 蚁
+ltezii 镃
+ltezyu 僔
+ltilvu 褛
+ltilze 镂
+ltilzo 蝼 偻
+ltipuu 镨
+ltiqqo 蝤
+ltisgi 僧
+ltiuje 蟮
+ltiyie 镒
+ltotii 锑
+ltujre 倦
+ltujru 锩
+ltuqli 蜣
+ltuqro 蜷
+lturve 锐
+ltutve 蜕
+ltuyte 阅
+luajpe 蚧
+luajxe 价
+luanao 镎
+luatzi 偷
+luayuo 蝓
+luebki 兵
+luecso 从
+luedne 铫
+luegsi 蚣
+luehro 锾
+lueiuo 蜍
+luekke 侩
+luelko 蛉 伶 铃
+luelte 锊
+lueose 众
+luetni 佻
+lueuai 铩
+lueuju 闪
+luewfo 阌
+luexii 蟋 傒
+luicoe 锉
+luicoo 矬
+luifji 幡
+luifuo 蜉 俘
+luihai 铪
+luihao 蛤
+luijme 鉴
+luijmu 俭
+luijxo 袷
+luilmu 裣
+luipjo 蟠
+luiqro 铨
+luisuo 俗
+luiyie 佾
+luiyue 裕
+luoffe 份
+luoffi 氛
+luuchi 伧
+luujbi 衿
+luulyo 伦
+luuqmo 钤
+lvefjo 繁
+lvejbu 紧
+lvemwu 每
+lviilu 闯
+lvimau 蚂
+lvizii 锱
+lvoyze 蚴
+lvuchi 仓
+lvudme 电
+lvugao 钆
+lvulae 镴
+lvumfo 门
+lvupme 片
+lvuqie 气
+lvuqiu 乞
+lvuqqo 虬
+lvuveo 儿
+lvuybe 胤
+lvuyie 亿
+lvuyiu 钇
+lwacri 镩
+lwadzu 蚪
+lwatzu 钭
+lwaxpo 斜
+lwebbi 镔 傧
+lwedke 锭
+lweiau 镲
+lweiso 虫
+lwejni 焦
+lwejxi 镓
+lwelie 隶
+lwenwe 内
+lwephi 乓
+lwerfo 人
+lwerue 入
+lwerze 肉
+lwesue 肃
+lweuiu 史 矢
+lweyhi 央
+lwezsi 倧
+lwigri 倌
+lwihuo 隺
+lwikoe 阔
+lwiksi 倥
+lwioue 伫
+lwiqmi 佥
+lwirso 镕
+lwivji 氨
+lwivju 铵
+lwothi 铴
+lwuiae 侘
+lwutai 铊
+lwutoo 佗
+lwuueo 蛇
+lwuwji 蜿
+lxabwe 邶
+lxafzu 缶
+lxaheo 郃
+lxakke 郐
+lxalbo 邻
+lxalnu 钌
+lxaqqi 邱
+lxauui 鄃
+lxaxpe 卸
+lxayzo 邮
+lximgu 蜢 锰
+lximwo 镅
+lxinqu 钮
+lxivai 锕
+lxizdu 仔
+lxiziu 虸
+lxubau 钯
+lxutai 他
+lyabie 裨
+lyabiu 俾
+lyadci 氘
+lyahxo 铧
+lyaire 钏
+lyairi 氚
+lyajbu 锦
+lyajpe 介
+lyapdo 牌
+lyapio 蜱
+lyebcu 褓
+lyedre 锻
+lyefao 阀
+lyefuo 袱
+lyegvi 傀
+lyejni 僬
+lyenpe 镍
+lyeszi 螋 锼
+lyeuau 傻
+lyexii 螅
+lyeyjo 蜒
+lyiboo 伯 铂
+lyihlo 蝗
+lyioie 雉
+lyiovi 锥
+lyipae 帕
+lyiqqi 蚯
+lyiwwo 帷
+lyojri 镌
+lyunio 倪
+lyuxie 阋
+maadce 到
+maadki 丁
+maafue 副
+maagje 干
+maaiue 亍
+maajii 丌
+maajto 劂
+maakdi 开
+maakji 刊
+maalpe 列
+maapko 平
+maapni 剽
+maaxko 刑
+maayuo 于
+maebuo 醭
+maepuo 璞
+mbafuo 砩
+mbajbi 珒
+mbapii 霹
+mbedde 叇
+mbejto 玦 砄
+mbelue 碌 琭
+mbenmu 碾
+mbewwe 霨
+mbexme 硍
+mbexxo 瑕 霞
+mbijui 琚
+mbijye 珺
+mbixtu 雪
+mbujqe 厩
+mbumbo 珉
+mbupwe 配
+mbuqiu 玘
+mceshu 磉
+mcesri 酸
+mceyyo 云
+mcidde 殆
+mcidge 磴
+mciheo 翮
+mcixuu 珝
+mcoifu 碜
+mcolco 醪
+mcoqqo 璆
+mdacee 厕
+mdageo 鬲
+mdahxe 画
+mdarve 瑞
+mdatjo 覃
+mdaufi 砷 珅
+mdaveo 而
+mdayju 厣
+mdebge 泵
+mdedmu 碘
+mdedyu 趸
+mdegse 贡
+mdegsu 汞
+mdehvi 虺
+mdeide 虿
+mdeiue 琡
+mdejku 璟
+mdejxu 贾
+mdelie 丽
+mdeqso 跫 蛩
+mderso 融
+mdetio 瑅 醍
+mdetje 碳
+mdeufe 蜃
+mdevde 碍
+mdeyee 页
+mdeyhi 殃
+mdeyje 赝
+mdeyyu 殒
+mdibdu 百
+mdicuo 殂
+mdicvu 璀
+mdidse 硐
+mdidze 豆
+mdifzu 否
+mdigfe 亘
+mdihze 厚
+mdiigo 酲
+mdiiyo 唇
+mdijbe 晋
+mdikeu 可
+mdilio 厘
+mdiliu 醴 理
+mdilue 璐 露
+mdilwo 雷
+mdimce 瑁
+mdimme 面
+mditso 酮
+mdityi 吞
+mdiuio 石
+mdiwuo 吾
+mdixku 醒
+mdixre 琄
+mdiyki 璎
+mdiyuo 盂
+mdujpo 碣
+mdukyi 醌 琨
+mduwwo 硙
+mduxio 觋
+mduxme 现
+mduyje 砚
+mduyro 鼋
+meabmu 碥
+meahvi 珲
+meehji 憨
+meeifi 琛
+meeksu 恐
+meelho 琅
+meenle 酿
+meenve 恧
+meesee 瑟
+meetee 忑
+meevee 恶
+meeyre 愿
+meuvdu 霭
+mfecje 璨
+mfejue 醵
+mfequo 璩
+mfibwe 琲
+mfidme 玷
+mfifwi 霏
+mfiofi 砧
+mfiwuu 武
+mfuhuu 琥
+mgeuie 示
+mgouai 砂
+mhadki 玎 酊
+mhasii 厮
+mhatki 厅
+mheboo 礴
+mhecau 礤
+mhedpo 碟
+mhefae 珐
+mhefao 砝
+mhegsu 珙
+mhehlo 磺 璜
+mhehso 硔
+mheiuo 厨
+mhelbo 琳 霖
+mhelie 栗
+mhelme 瑓
+mhemgo 礞
+mhende 耐
+mheoze 酎
+mhepuo 酺
+mheqio 琪
+mheqqo 球
+mheruu 辱
+mheudi 酾
+mheuie 豉
+mhevde 砹
+mhexme 霰
+mheyai 压
+mheyke 硬
+mheyki 瑛
+mhibae 霸
+mhicoe 厝
+mhicue 醋
+mhigei 哥
+mhighi 矼
+mhigre 瓘
+mhigui 酤
+mhigvi 硅 珪
+mhihji 酣
+mhihso 玒
+mhihuo 瑚 醐
+mhiiao 碴
+mhijbe 瑨 殣
+mhijbu 瑾
+mhijli 礓 豇
+mhijne 酵
+mhikei 砢 磕 珂
+mhioie 至
+mhioio 殖
+mhiqro 醛
+mhiuli 霜
+mhivee 垩
+mhiveu 珥
+mhiwdi 歪
+mhixii 硒
+mhixko 型
+mhixli 厢
+mhiyie 殪
+mhokje 磡
+mhoyje 酽
+mhumho 硭
+miabgo 甭
+miaigi 琤
+miapwe 珮
+miaqte 确
+miediu 砥
+miefgi 砜
+miefjo 矾
+miegei 歌
+miegsu 巩
+miejqu 玖
+miekju 砍
+mielie 砾
+miemoe 殁
+mieoeo 磔
+mieooo 酌
+miepni 飘
+mieqie 磜
+miexie 矽
+miexxe 夏
+mieybi 歅
+miidni 碉
+miigee 硌
+miigeo 臵
+miilce 酪
+miilio 鹂
+miiloe 珞
+miimbo 碈
+miimku 酩
+miioiu 酯
+miipgo 硼
+miiuji 珊
+miiveo 鸸
+miiwuo 鹀
+miiwuu 鹉
+miixye 殉
+miixyo 珣
+miiyai 鸦
+miiyte 玥
+miowue 雾
+miubco 雹
+miujii 矶 玑
+miusiu 死
+miuyro 元
+mjapgi 砰
+mjapko 玶
+mjarru 瓀
+mjexxo 硖
+mjilwo 礌
+mkaiei 砗
+mkauee 厍
+mkayao 琊
+mkazao 砸
+mkejmu 戬
+mkejxo 戛
+mkelmu 琏
+mkeofi 甄
+mkeyji 焉
+mkiyuo 玙
+mkolie 厉
+mkophi 雱
+mkoqie 砌
+mkoyae 砑
+mkoyao 玡
+mkudye 砘
+mkupii 砒
+mkupio 琵
+mkuqni 硗
+mkuqnu 巧
+mlabgu 琫
+mlagji 矸 酐
+mlawwu 玮
+mlaxko 硎
+mlayjo 研
+mlecjo 残
+mleduo 碡
+mleifo 辰
+mlejbe 琎
+mlejto 珏
+mleofi 瑧 臻
+mleori 砖
+mlepne 票
+mleqie 碛
+mlevco 璈
+mleyye 酝
+mligsi 工
+mlihue 互
+mliiyi 瑃
+mlijio 亟
+mlioge 正
+mlipii 丕
+mlisji 三
+mlivee 二 噩
+mliwho 王
+mliwuu 五
+mlixii 西
+mliyae 亚
+mliyii 一
+mliyzu 酉
+mlizde 再
+mluwjo 玩
+mluyuo 雩
+mmanse 弄
+mmavce 奡
+mmaxui 需
+mmedku 顶
+mmegue 顾
+mmehji 顸
+mmehro 环
+mmelso 珑
+mmeofe 震
+mmeruo 颥
+mmetde 酞
+mmeuae 厦
+mmeuoe 硕
+mmevfi 奀
+mmewjo 顽
+mmexle 项
+mmexui 顼
+mmeyje 厌
+mmezoo 琢
+mmibie 碧
+mmihdu 醢
+mmijmu 碱
+mmilwu 磊
+mmiqio 琦
+mmixqe 珛
+mmiyee 靥
+mmolie 雳 砺
+mneboi 玻
+mnepoe 破
+mnijxi 珈
+mninci 孬
+mniuxu 耍
+mniyce 要
+mnodhe 砀
+mnodse 动
+mnogsi 功
+mnolie 励 历
+mnomde 劢
+mnommu 勔
+moajmi 歼
+moalio 琍
+moaqno 硚
+moegju 敢
+moegsi 攻
+moemwo 霉 酶 玫
+moeoge 政
+moeoie 致
+moeoui 珠
+moesui 酥
+moetko 霆
+moeuui 殊
+moewoe 硪
+moexyi 醺
+moezje 瓒
+moicue 酢
+moikue 酷
+moioau 砟
+moisui 甦
+moouhi 殇
+moukui 矻
+mouxmi 酰
+mpahho 珩
+mpaooo 斫
+mpefue 覆
+mpepno 瓢
+mpoihu 厂
+mponde 耏
+mpowje 万
+mpoxko 形
+mpoyao 牙
+mpoyjo 严
+mradie 碲
+mrajie 霁
+mraohi 璋
+mrasve 碎
+mrazve 醉
+mredyi 礅
+mregyu 磙
+mrelio 醨 璃
+mrelpe 裂
+mremio 醾
+mreqso 琼
+mrewfo 玟 雯
+mrexro 璇
+mribji 斑
+mribwe 碚
+mriiyo 醇
+mrilao 砬
+mrioae 霅
+mripwi 醅
+mritho 瑭 醣
+mritju 璮
+mriuae 霎
+mrixii 醯
+mrobhe 磅
+mrokle 矿
+mrulqo 琉 硫
+msesou 琐
+msidhi 珰
+msixni 硝 霄
+mtadji 殚
+mtaizo 酬
+mtalbo 璘 磷
+mtecio 磁
+mtejto 厥
+mtemio 醚
+mtempe 灭
+mtesue 粟
+mtesve 璲
+mtexmu 燹
+mteybo 烎
+mteyju 琰
+mtibji 班
+mticoi 磋
+mtipge 碰
+muaxii 豨
+muaxue 酗
+muayco 瑶
+muayuo 瑜
+muebmi 砭
+muelko 零 玲
+muelwe 酹
+muetpe 餮
+muetuo 酴
+muevde 叆 瑷
+mueyco 珧
+mueyje 餍
+mueyre 瑗
+muezee 仄
+muifjo 璠
+muifuo 琈
+muijmu 硷
+muilme 殓
+muimdo 霾
+muipnu 殍
+muiqso 銎
+muitso 砼
+muiwui 巫
+muobbi 玢
+muoffi 酚
+muoofi 珍
+muotmu 殄
+muuqbo 琴
+muuqli 玱
+mveore 瑑
+mvimau 码 玛
+mvincu 瑙
+mvugde 丐
+mvukvi 亏
+mvummu 丏
+mvuvee 厄
+mvuwue 兀
+mvuwuo 无
+mwapwe 霈
+mwebbe 殡
+mwebku 丙
+mwebue 不
+mwecso 琮
+mweddu 歹
+mwedke 碇
+mwegge 更
+mwellu 两
+mwelpe 烈
+mweqie 炁
+mwequo 磲
+mwetmi 天
+mweuiu 豕
+mwewau 瓦
+mwexxe 下
+mweyue 玉
+mweyuu 雨
+mwigru 琯
+mwixre 碹
+mwixri 瑄
+mwiybo 霪
+mwutoo 砣 酡
+mwuwji 豌
+mwuwju 碗 琬
+mxabku 邴
+mxahjo 邗
+mxaiuu 础
+mxajre 鄄
+mxalie 郦
+mxalko 酃
+mxaoie 郅
+mxapii 邳
+mxaqso 邛
+mxaxko 邢
+mxaxpo 邪
+mxayji 鄢
+mxayuo 邘
+mxijio 殛
+mxixuu 醑
+mxupao 琶
+mxuyiu 酏
+myabwi 碑
+myaqio 亓
+myecsi 璁
+myedde 玳
+myegvi 瑰
+myehyo 魂
+myejne 醮
+myejni 礁
+myenco 硇
+myeqio 亓
+myeqro 瑔
+myeyju 魇
+myeyro 原
+myeyuu 瑀
+myidve 碓
+myihoe 霍
+myipoe 珀
+myixle 珦
+myiyau 雅
+myiyje 雁
+myunio 霓
+naaboi 剥
+naadne 弔
+naajku 刭
+naalea 了
+naaybu 引
+naayuu 予
+naijmi 鲣
+nbajie 鲫
+nbaogi 争
+nbejto 觖
+nbeore 馔
+nbeqbi 骎
+nbesue 骕
+nbewwe 鳚
+nbexme 限
+nbexyo 鲟
+nbiiju 骣
+nbiiuo 刍
+nbijyi 鲪
+nbiroe 弱
+nbisie 饲
+nbujiu 鱾
+ncayie 驿
+ncehso 弘
+ncejme 建
+ncejye 骏 馂
+ncesci 骚 鳋
+ncetko 廷
+nceyjo 延
+nceyue 驭
+ncidde 骀
+ncijke 弪
+ncitdo 鲐
+ncixko 陉
+nciyio 饴
+ncocji 骖
+ncoufi 鲹
+ndaysu 甬
+ndazwo 鲗
+ndedhe 氹
+ndedje 蛋
+ndefue 负
+ndegri 鳏
+ndehre 奂
+ndeiue 触
+ndekee 骒
+ndekve 馈
+ndeloo 骡
+ndemco 蝥 蟊
+ndemjo 鳗 馒
+ndeqlo 强
+ndesdi 鳃
+ndetio 鳀
+ndeuio 蚀 鲥
+ndeuiu 驶
+ndewwi 隈
+ndexio 隰
+ndexle 象
+ndexpe 蟹
+ndeyuo 隅
+ndeyyu 陨
+ndidje 疍
+ndigue 鲴
+ndiihi 鲳
+ndiliu 鲤 鳢
+ndiluu 鲁
+ndimce 瞀
+ndimge 孟
+ndimko 名
+ndinpe 陧
+ndirie 驲
+nditau 鳎
+nditso 鲖
+ndiwfi 鳁
+ndixui 胥
+ndiyho 阳
+ndiyko 盈
+ndiyri 眢
+ndiyue 矞
+ndizhu 驵
+ndizuu 阻
+ndugvi 龟
+nduhyo 馄
+nduigu 骋
+ndukyi 鲲
+ndummu 免
+ndunde 鼐
+ndusie 驷
+nduvee 鳄
+neabmi 鳊
+neapme 骗
+neejio 急
+neeyre 怨
+neeysu 恿
+neiuje 骟
+neolvo 驴
+nfejie 骥
+nfidme 阽
+nfifwi 鲱
+nfinmo 鲇
+nfoluo 鲈
+nfooie 陟
+ngegau 尕
+ngesyi 孙
+ngexie 隙
+nhageo 隔
+nhayue 鬻
+nhebne 鳔
+nhebni 骠
+nhedpo 鲽
+nhedui 厾
+nhedzu 陡
+nheffe 鲼
+nheggu 鲠
+nhejpo 桀
+nhelio 鲡 骊
+nhelko 陵 鲮
+nhemoo 馍
+nhenho 馕
+nheoze 骤
+nheqio 鲯 骐
+nherzo 柔
+nhesju 馓
+nhesue 觫
+nhezzi 陬 鲰
+nhibii 鲾
+nhiboi 饽
+nhidgi 登
+nhidoe 堕
+nhigvi 鲑
+nhiiai 馇
+nhijbu 馑
+nhijli 疆
+nhijpo 鲒
+nhimiu 弭
+nhiove 坠
+nhiqio 鳍
+nhivai 阿
+nhiveu 饵
+nhiyee 馌
+nholee 鳓
+nhulze 陋
+niajle 降
+niajnu 角
+niatco 陶
+niedoi 多
+niegyu 鲧
+nieijo 馋
+niemio 弥
+nietno 鲦
+niexmi 鱻
+nieybu 隐 饮
+nieyue 豫
+niidni 鲷
+niijui 驹
+niilea 饹
+niiloe 骆
+niilqo 骝 馏
+niilso 隆
+niipgo 弸
+niiwue 鹜
+niixme 馅 陷
+niiybi 阴
+niiyri 鸳
+niiyue 鹬
+niizzi 驺
+niubce 鲍
+niubci 孢
+niubcu 饱
+niudge 凳
+niujii 饥
+njapko 鲆
+njaruo 孺
+njeuju 陕
+njixtu 鳕
+nkairu 舛
+nkaofe 阵
+nkegde 戤
+nkeifo 陈
+nkelmo 鲢
+nkequi 驱
+nkibie 陛
+nkurco 饶
+nkutyo 饨
+nkuxni 骁
+nlajku 阱
+nlalue 陆
+nlegvu 癸
+nlejie 际
+nlejme 饯
+nlexiu 玺
+nliigo 丞
+nliizu 丑
+nlijpo 孑
+nlimau 马
+nliqki 鲭
+nliyuo 鱼
+nlizia 子
+nlurru 阮
+nmaveo 陑 鲕
+nmebae 鲅
+nmegve 鳜
+nmejku 颈
+nmelsu 陇
+nmesvo 随
+nmetoo 驮
+nmeyue 预
+nmeyzo 鱿
+nmijii 觭
+nmimoe 陌
+nmiqio 骑
+nmisvo 隋
+nmiwwu 鲔
+nmubie 弼
+nmuwue 阢
+nnajpu 解
+nnebwi 陂
+nneoze 皱
+nneuii 鲺
+nniici 弨
+nniwue 婺
+nnojbe 劲
+nnomgu 勐
+nnommu 勉
+nnotho 饧
+nnoysu 勇
+noajle 犟
+noajni 骄
+noaqmi 阡
+noauie 饰
+noefue 鳆
+noeohi 张
+noeqqi 鳅
+noesui 稣
+noevee 饿
+noeyue 饫
+noezii 孜
+noigru 鳤
+noiivo 陲
+noioau 鲊
+noirfe 饪
+noizoe 阼
+nooiie 饬
+noouhi 觞
+noutoi 饦
+nouxie 饩
+npebju 阪
+npefje 饭
+npegui 孤 觚
+npehuo 弧
+npihze 鲘
+npomco 矛
+npondu 乃
+nrajie 鲚
+nraohe 障
+nraxki 骍
+nraysi 鳙
+nregdi 陔
+nrehde 骇
+nrehdo 孩
+nrejki 鲸
+nrejle 弶
+nrejni 鲛
+nrejnu 饺
+nrexii 饻
+nrexli 骧
+nrexmo 弦
+nrioji 詹 鳣
+nrioue 驻
+nripwo 陪
+nrofho 鲂 防
+nropho 鳑
+nruqqo 巯
+nruuui 疏
+nseiho 鲿
+nselue 录
+nsewde 外
+nsugsi 觥
+ntabku 饼
+ntadje 弹
+ntalbo 鳞
+ntaoie 觯
+ntapmo 骈
+ntaxmi 鲜
+ntejqu 灸
+ntesve 隧
+ntezyi 鳟
+ntiuje 鳝
+ntivde 隘
+ntixqi 馐
+ntuozi 粥
+nuajpi 阶
+nuayco 鳐
+nueboo 驳
+nuedve 队
+nuehvi 隳
+nueiuo 除
+nuenmo 鲶
+nueqme 欠
+nuesyi 飧
+nueyuo 馀
+nuiheo 饸
+nuimzo 鍪
+nuinwu 馁
+nuixmu 险
+nuiyje 验
+nuujbi 矜
+nvioie 骘
+nviwue 骛
+nvizii 鲻
+nvugsi 弓
+nvujbu 卺
+nvuksu 孔
+nvuwwi 危
+nvuyiu 乙
+nwahuo 斛
+nwefwi 飞
+nweigo 承
+nwejio 及
+nwejqu 久
+nwejto 孓
+nwemdu 买
+nwepiu 疋
+nwetue 兔
+nweuai 煞
+nweveu 尔
+nwexii 夕
+nwexnu 小
+nweybo 夤
+nweyze 又
+nwigru 馆
+nwuhre 鲩
+nwutoo 驼 陀
+nwuyre 院
+nxazzi 邹
+nxetci 弢
+nximai 孖
+nxiyye 孕
+nxubai 鲃
+nxuiio 弛 驰
+nxusee 色
+nyahxo 骅
+nyapio 陴
+nyaxye 驯
+nyecsi 骢
+nyefue 附 鲋 驸
+nyekvo 隗
+nyeqro 鳈
+nyeszi 馊
+nyeuii 虱
+nyevce 隩
+nyibae 鲌
+nyihlo 鳇 隍
+nyiiuo 雏
+nyiovi 骓
+nyixlu 饷
+nyunio 鲵
+paapco 刨
+paawfu 刎
+paiqmi 悭
+pbafuo 怫
+pbayie 肄
+pbehfe 恨
+pbekke 快
+pbubci 包
+pbukdu 慨
+pbunio 怩
+pcayie 怿
+pcegzi 勾
+pceqri 悛
+pceyio 疑
+pcigke 怪
+pciyio 怡
+pcocju 惨
+pdacee 恻
+pdadcu 岛
+pdahje 悍
+pdaisi 忡
+pdaove 惴
+pdejku 憬
+pdejue 惧
+pdekve 愦
+pdekyu 悃
+pdemje 慢
+pdeuie 贳
+pdeyhe 怏
+pdidao 怛
+pdidmi 甸
+pdidse 恫
+pdijue 句
+pdikvi 悝
+pdioiu 旨
+pdixki 惺
+pdixyo 旬
+pdiyye 愠
+pdolge 愣
+pdotie 惕
+pdukdu 恺
+pduvee 愕
+pduwhu 惘
+pduyie 悒
+peayye 恽
+peebie 毖
+peehui 忽
+peelle 悢
+peuifo 忱
+pfadce 悼
+pfifwu 悱
+phabie 毕
+phaxke 悻
+phecyu 忖
+pheffe 愤
+phehue 鹱
+pheiue 憷 怵
+phelju 懒
+pheoie 忮
+phepuo 匍
+pheqpe 怯
+phessu 悚
+pheuee 慑
+pheufe 慎
+pheuie 恃
+phexni 枭
+phibwe 悖
+phidsu 懂
+phifuo 匐
+phihgo 恒
+phihue 怙
+phimgu 懵
+phiogi 怔
+phiqbo 慬
+phiqio 愭
+phiwue 悟
+phixii 恓 惜
+phuhli 慌
+piaxpe 懈
+piegze 够
+piehui 惚
+piibcu 鸨
+piidje 憺
+piihyi 惛
+piiizo 惆
+piikee 恪
+piiquo 鸲
+piixyo 恂
+piubiu 比
+piufuo 凫
+pjanoe 懦
+pjapgi 怦
+pkacjo 惭
+pkajpe 悈
+pkeqpe 惬
+pkevze 怄
+plesue 愫
+plinnu 鸟
+pliqko 情
+pliwui 乌
+plotse 恸
+pluwuu 怃
+pmabue 怖
+pmedye 顿
+pmehje 憾
+pmehko 怀
+pmehvi 恢
+pmeqku 顷
+pmeyji 恹
+pmeyku 颖 颍
+pmeyzi 忧
+pmidoe 惰
+pmimmu 愐
+pmubie 毙
+pnejio 忣
+pniici 怊
+pnodci 忉
+pnoqpe 切
+pnoquo 劬
+poaije 忏
+poawuu 忤
+poebie 愎
+poehvu 悔
+poeihe 怅
+poeqnu 愀
+poezce 慥
+poijie 悸
+poitmo 恬
+poixke 性
+poizoe 怍
+poukde 忾
+ppaxbi 忻
+ppowue 勿
+pqembu 悯
+pracve 悴
+prancu 恼
+praysi 慵
+prebme 忭
+prejki 惊
+prejnu 恔
+prekhi 慷
+prelbu 懔
+prennu 袅
+pridme 惦
+pridyi 惇
+prihsi 訇
+priisi 憧
+priyyo 匀
+prumho 忙
+psiihu 惝
+psiqni 悄
+psuhlu 恍
+ptadje 惮
+pteqme 慊
+ptizgi 憎
+ptotie 悌
+ptuyte 悦
+puaxsi 匈
+puayuo 愉
+puelmo 怜
+puessi 忪
+puiqxe 恰
+puitci 慆
+puuile 怆
+pvegre 惯
+pvenau 乸
+pvumpi 乜
+pvutyo 屯
+pvuuie 世
+pvuyeu 也
+pvuyie 忆
+pwebie 必
+pwecsi 匆
+pwecso 悰
+pweohu 长
+pweuco 勺
+pwexbi 心
+pwixri 愃
+pwutoo 鸵
+pwuwju 惋
+pxabie 邲
+pxacyi 邨
+pxahro 郇
+pxawui 邬
+pxinqu 忸
+pyekve 愧
+pyeqno 憔
+pyevce 懊
+pyigze 雊
+pyihlo 惶
+pyijpi 皆
+pyipae 怕
+pyiwwo 惟
+pyixue 恤
+qaafgi 丰
+qaauzu 手
+qaawwo 韦
+qaulju 揽
+qbabku 摒
+qbafuo 拂
+qbajto 掘
+qbanoo 挪
+qbapiu 擗
+qbehje 撖
+qbejto 抉
+qbeoju 搌
+qbeore 撰
+qbexmo 挦
+qbihve 彗
+qbijue 据
+qbijye 捃
+qbinoe 搦
+qbiscu 扫
+qbiwoe 握
+qbumbu 抿
+qcapje 拚
+qcatsu 捅
+qcauui 抒
+qcazeo 择
+qcedoi 掇
+qcekvo 揆
+qceniu 拟
+qcerzo 揉
+qcesci 搔
+qceshu 搡
+qcevdi 挨
+qcioeo 摺
+qciooo 擢
+qcitdo 抬
+qcitji 摊
+qcocje 掺
+qdabai 捌
+qdabhi 帮
+qdahje 捍
+qdaifi 抻
+qdaiki 揣
+qdayai 押
+qdebdu 摆
+qdecci 操
+qdecoi 撮
+qdedce 纛
+qdegki 掴
+qdehre 擐
+qdeiyu 蠢
+qdejto 攫
+qdekyu 捆
+qdeloe 摞
+qdeoei 蜇
+qdeoeo 蛰
+qdeoie 贽
+qdeooi 捉
+qdeove 赘
+qdesyu 损
+qdetio 提
+qdevfe 摁
+qdevzu 耦
+qdexto 踅
+qdezeo 责
+qdicvi 摧
+qdidji 担
+qdiiyi 春
+qdiizi 抽
+qdijri 捐
+qdikze 扣
+qdilne 撂
+qdinpi 捏
+qdioeo 哲
+qdiqki 青
+qdisie 耜
+qditie 替
+qdiyii 揖
+qdiyki 撄
+qdiyye 韫
+qdogku 拐
+qdooki 拽
+qdugvi 规
+qdujke 靓
+qdujpi 揭
+qduyie 挹
+qeahvi 挥
+qeehve 慧
+qeejxo 恝
+qeelpe 捩
+qeetje 探
+qeiqmo 掮
+qeiuji 搧
+qeohue 护
+qfadne 掉
+qfeqxo 拤
+qfeuui 摅
+qfiieu 扯
+qfinmi 拈
+qfipdo 排
+qfoluu 掳
+qgoice 耖
+qgoici 抄
+qhadau 打
+qhagju 擀
+qhasii 撕
+qhayeo 揶
+qheboo 搏
+qhebuu 捕
+qhedpo 揲
+qhegsu 拱
+qheiao 搽
+qheiio 持
+qhejie 技
+qhemoi 摸
+qhenhu 攮
+qhesai 撒
+qheuee 摄
+qheuze 寿
+qhewoi 挝
+qhexpo 撷
+qhicoe 措
+qhidai 搭
+qhidme 垫
+qhigxe 挂
+qhijpo 拮
+qhikho 扛
+qhimno 描
+qhioai 揸
+qhiwuu 捂
+qholce 耢
+qholci 捞
+qhukcu 拷
+qiadcu 捣
+qiajke 静
+qiaogi 挣
+qiatci 掏
+qiayie 抑
+qiaysi 拥
+qiebnu 表
+qiediu 抵
+qiehre 换
+qieiji 搀
+qiejui 掬
+qiemde 麦
+qiequi 麹
+qietzo 投
+qiijui 拘
+qiilui 撸
+qiioie 鸷
+qiioiu 指
+qiiqxi 掐
+qiivco 鳌
+qiubce 抱
+qiuoiu 扺
+qiuwju 挽
+qiuyje 艳
+qjapgi 抨
+qjexpo 挟
+qjihoi 攉
+qjilwo 擂
+qjuiui 摴
+qkadco 捯
+qkanmu 辇
+qkejmu 拣
+qkejpo 捷
+qkekzi 抠
+qkeocu 找
+qkijue 拒
+qkikdi 揩
+qkiuie 拭
+qkiyae 揠
+qkudfe 扽
+qkunco 挠
+qkupii 批
+qlafge 奉
+qlaggi 耕
+qlanmu 撵
+qlapgu 捧
+qlefui 麸
+qlefuo 扶
+qlemou 抹
+qletme 掭
+qletro 抟
+qleyyo 耘
+qlezze 揍 奏
+qliisi 摏
+qlijlu 耩
+qlufuu 抚
+qmebao 拔
+qmefuo 韨
+qmehje 撼
+qmejti 撅
+qmelni 撩
+qmelsu 拢
+qmenae 捺
+qmenze 耨
+qmeofe 振
+qmepzo 抔
+qmeqie 契
+qmercu 扰
+qmetae 挞
+qmihoe 砉
+qmijiu 掎
+qmitoe 拓
+qmivdo 捱
+qmukxe 挎
+qmuvee 扼
+qmuyju 掩
+qneboi 拨
+qneoio 执
+qnepii 披
+qnerfe 韧
+qnioci 招
+qnopci 抛
+qnorgi 扔
+qnouie 势
+qnoyho 扬
+qoajnu 挢
+qoaoie 挚
+qoaqmi 扦
+qoaqpe 挈
+qoejqi 揪
+qoeqbe 揿
+qoeqbo 秦
+qoetku 挺
+qoezju 攒
+qoezre 攥
+qoiiai 插
+qoiivo 捶
+qoikoe 括
+qoioau 拃
+qouhce 耗
+qouqne 撬
+qoutoi 托 拖
+qpaoeo 折
+qpebji 扳 搬
+qpeidi 拆
+qpeoxi 抓
+qpexmi 掀
+qpuiki 搋
+qqigei 搁
+qqumfo 扪
+qrajiu 挤
+qrauki 摔
+qrebme 抃
+qreiee 撤
+qrelte 掠
+qreoio 摭
+qrerhu 攘
+qreyei 掖
+qridmi 掂
+qrigcu 搞
+qriiue 搐
+qrijpi 接
+qrilai 拉
+qrimoe 耱
+qriodi 摘
+qriole 撞
+qriouu 拄
+qripzo 掊
+qritho 搪
+qriuie 誓
+qriuje 擅
+qrivju 揞
+qrobhe 搒
+qrokoe 扩
+qrophu 耪
+qrukhe 抗
+qsaigi 撑
+qsepui 扑
+qsetde 泰
+qsidhu 挡
+qsithi 耥
+qsiuci 捎
+qtabje 拌
+qtadju 掸
+qtaoie 掷
+qtapbi 拼
+qtejmi 搛
+qteppi 撇
+qteszu 擞
+qtezyu 撙
+qticoi 搓
+qtiljo 拦
+qtilzo 耧
+qtilzu 搂
+qtiuoe 搠
+quayco 摇
+quayuo 揄
+quebai 扒
+quelbi 拎
+quelvu 捋
+quenmu 捻
+queqbo 擒
+quetni 挑
+queuze 授
+queyro 援
+quiboi 播
+quicoe 挫
+quihoi 耠
+quijmu 捡
+quirxo 挼
+quitci 韬
+quiuio 拾
+quiuri 拴
+quobje 扮
+quulyi 抡
+quuqlu 抢
+qveduo 毒
+qvegre 掼
+qvemuu 拇
+qveoio 絷
+qvesue 素
+qveyre 掾
+qvezai 拶
+qvivce 骜
+qvovcu 拗
+qvuoai 扎
+qwacri 撺
+qwadzu 抖
+qwanko 拧
+qwebbe 摈
+qwecai 擦
+qwedce 焘
+qwedme 靛
+qwefui 夫
+qwelwu 耒
+qweori 专
+qweree 热
+qwikse 控
+qwivje 按
+qwixri 揎
+qwujnu 搅
+qwuoai 挓
+qwuwai 挖
+qxabhi 邦
+qxajii 击
+qxaooi 拙
+qxebce 报
+qxinqu 扭
+qxiogu 拯
+qxiziu 耔
+qxubae 耙
+qxubau 把
+qyabdu 捭
+qyaxku 擤
+qyefuu 拊
+qyeszi 搜
+qyiisi 舂
+qyipdi 拍
+qyitvi 推
+qyoxpo 携
+raabpo 别
+raagxu 剐
+raepui 噗
+raepuu 蹼
+rbajii 唧
+rbanau 哪
+rbapii 噼
+rbauxi 唰
+rbaybu 吲
+rbegfi 跟
+rbegfo 哏
+rbeiiu 呎
+rbejie 跽
+rbejme 踺
+rbejxu 叚
+rbeouu 嘱
+rbexne 啸
+rbexye 噀
+rbidni 叼
+rbijue 踞
+rbisie 嗣
+rbivoi 喔
+rbunea 呢
+rcamzi 哞
+rcaysu 踊
+rceike 啜
+rcerzo 蹂
+rceshu 嗓
+rcesoi 唆
+rcetje 叹
+rcetsi 嗵
+rcevdi 唉
+rcidgi 蹬 噔
+rcitdo 跆
+rcuuyu 吮
+rdadne 吊
+rdagai 呷
+rdaike 踹
+rdairu 喘
+rdaufi 呻
+rdayeu 嘢
+rdebwa 呗
+rdegoi 呙
+rdehko 踝
+rdehve 哕
+rdehwi 嘿
+rdeike 嘬
+rdeloi 啰
+rdemwo 槑
+rdenae 呐
+rdenxo 嗯
+rdeouo 躅
+rdesvi 虽
+rdewwe 喂
+rdeyje 咽
+rdeyro 员
+rdeyso 喁
+rdezce 躁 噪
+rdibge 蹦
+rdibgi 嘣
+rdiihe 唱
+rdijuu 咀
+rdikve 喟
+rdilii 哩
+rdilvu 吕
+rdipbu 品
+rditae 踏 蹋
+rdiyki 嘤
+rdotii 踢
+rduhei 喝
+rdumbu 黾
+rdutoo 鼍
+realhi 啷
+reapmo 蹁
+reebpo 咇
+reelie 唳
+reello 踉
+reembu 愍
+reenso 哝
+reeqbe 吣
+reeysu 咏
+rfaioi 踔
+rfanpe 啮
+rfazvu 嘴
+rfejto 噱
+rfekai 咔
+rfezuo 足
+rfifwi 啡
+rfikfu 啃
+rfioiu 趾
+rfixui 嘘
+rfucii 呲 跐
+rfuhuu 唬
+rgoicu 吵
+rhadki 叮
+rhadui 嘟
+rhageo 嗝
+rhalau 喇
+rhanjo 喃
+rhaoai 哳
+rhasii 嘶
+rhayee 叶
+rhebuu 哺
+rhecye 吋
+rhedcu 导
+rheddi 呆
+rhedpo 蹀 喋
+rheggu 哽
+rhegse 唝
+rhehsu 哄
+rheifi 嗔
+rheiii 哧
+rhejbe 噤
+rhejio 戢
+rhelbo 啉
+rhenhi 囔
+rhenpe 蹑 嗫
+rheoii 吱
+rhepfi 喷
+rhepjo 蹒
+rhepne 嘌
+rheqio 跂
+rhesoa 嗦
+rhesze 嗽
+rhetie 嚏
+rhevdi 哎
+rhexxe 吓
+rhexye 巽
+rhicco 嘈
+rhidai 嗒
+rhigje 咁
+rhigui 咕
+rhihci 嚆
+rhihei 呵 嗬
+rhiico 嘲
+rhiiuo 躇
+rhijii 咭
+rhikei 嗑
+rhikvu 跬
+rhilaa 啦
+rhilbe 躏
+rhimni 喵
+rhinoe 喏
+rhioai 喳
+rhioeu 啫
+rhipai 啪
+rhituu 吐
+rhiufu 哂
+rhiuie 嗜
+rhivee 咡
+rhiwaa 哇
+rhiwuo 唔
+rhixii 嘻
+rhixni 哮
+rhixru 咺
+rhiyau 哑
+rhiyei 噎
+rholco 唠
+rholwa 嘞
+rhopgi 嘭
+rhugao 噶
+rhuyie 呓
+riatco 啕
+riebce 趵
+riedoe 跺
+riedoi 哆
+riedou 哚
+riedsi 咚
+riehre 唤
+riehui 唿
+rieivi 吹
+rielie 跞
+riigei 咯
+riijri 鹃
+riilqi 蹓
+riilue 鹭 路
+riilui 噜
+riimko 鸣
+riioci 啁
+riiuji 跚
+riivee 鹗
+riiwui 呜
+riixni 鸮
+riowfu 吻
+riugve 跪
+riuiie 叱
+riujii 叽
+riuoze 咒
+riupco 咆
+riupcu 跑
+riuxsi 兄
+rjaruo 嚅
+rjihoe 嚯
+rkabie 跸 哔
+rkazai 咂
+rkeore 啭
+rkevzu 呕
+rkeyio 咦
+rkijpi 喈
+rkikli 哐
+rkiybo 嚚
+rkoyaa 呀
+rkubiu 吡
+rkudyi 吨
+rkuhce 号
+rkujue 距
+rkuqni 跷
+rkuxni 哓
+rlafgu 唪
+rlajmu 趼
+rlalse 哢
+rlaxui 吁
+rlefui 趺 呋
+rleizo 踌
+rlejme 践
+rlemae 唛
+rleqbo 嗪
+rlesue 嗉
+rlevco 嗷
+rlewuo 吴
+rlewwe 味
+rlezeo 啧
+rliigo 呈
+rlikzu 口
+rluwuu 呒
+rmalpu 咧
+rmayie 异
+rmebao 跋
+rmedao 哒 跶
+rmeddi 呔
+rmefwe 吠
+rmegai 嘎
+rmehvi 咴
+rmeiuo 蹰
+rmejti 噘
+rmejto 蹶
+rmekui 哭
+rmelno 嘹
+rmelso 咙
+rmeooo 啄
+rmeqii 嘁
+rmevao 嗄
+rmevee 颚
+rmihju 喊
+rmikvo 喹
+rmilio 喱
+rmioio 跖
+rmipwi 呸
+rmiqie 器
+rmixni 嚣
+rmiyiu 踦
+rmizoa 咗
+rmolie 呖
+rmukxe 跨
+rmuvee 呃
+rmuvju 唵
+rnebou 跛
+rnenco 呶
+rnetai 趿
+rnexii 吸
+rnijxi 跏
+rnikai 咖
+rnodci 叨
+rnolee 叻
+rnolke 另
+rnoxyi 勋
+roahsi 吽
+roedpi 跌
+roejqi 啾
+roevoo 哦
+roexmi 跹
+roeyte 跃
+roezri 躜
+roiiio 踟
+roijti 蹻
+roiosu 踵
+roitoe 唾
+roiuie 噬
+roiwoi 踒
+roizau 咋
+rouiii 吃
+roukei 趷
+rouoai 吒
+rouxmu 跣
+rpatki 听
+rpedei 嘚
+rpegui 呱
+rpeoie 踬
+rpepde 哌
+rpetoe 跅
+rracve 啐
+rrahgi 哼
+rrajie 哜
+rrajii 跻
+rratio 啼 蹄
+rrecue 蹴
+rredoo 踱
+rredyi 蹾
+rrehco 嚎
+rrejni 跤
+rrekeo 咳
+rremaa 嘛
+rrerhu 嚷
+rreszu 嗾
+rrexpe 躞
+rreycu 咬
+rreyii 噫
+rriboo 踣
+rridio 嘀
+rridmu 踮
+rriijo 躔
+rriuae 唼
+rriybi 喑
+rriyje 唁
+rriyoi 唷
+rrukgi 吭
+rsebuu 卟
+rsesou 唢
+rsithi 蹚
+rsiuce 哨
+rsugli 咣
+rtaiju 啴
+rtampi 咩
+rtaoio 踯
+rtayai 吖
+rtedje 啖
+rtedyi 蹲
+rtemii 咪
+rtezii 嗞
+rticge 蹭
+rticgi 噌
+rticoi 蹉
+rtijio 蹐
+rtijpi 嗟
+rtilzo 喽
+rtisoi 嗍
+rtivde 嗌
+ruahui 呼
+ruaxii 唏
+ruayue 喻
+ruebai 叭
+ruecdu 踩
+ruedpi 嗲
+ruejto 嚼
+ruekke 哙
+ruelke 呤
+rueoiu 只
+ruepai 趴
+rueqbo 噙
+rueqii 蹊
+ruetci 饕
+ruetne 跳
+ruevdi 嗳
+ruidcu 蹈
+ruifjo 蹯
+ruihai 哈
+ruiuao 啥
+ruiwgi 嗡
+ruizoe 唑
+ruoffi 吩
+ruuqli 跄 呛
+ruuybo 吟
+rvehve 喙
+rveyci 吆
+rveyoi 哟
+rvimaa 吗
+rvimae 骂
+rvimxo 呣
+rvisii 咝
+rvoyzi 呦
+rvulpe 躐
+rvumbo 民
+rvusie 巳
+rwacri 蹿
+rwajxu 斝
+rwamie 嘧
+rwanko 咛
+rweboi 啵
+rwecai 嚓
+rwedke 啶
+rwehdi 嗨
+rwezsi 踪
+rwihde 嗐
+rwikai 喀
+rwisdi 噻
+rwisue 蹜
+rwixri 喧
+rwuoae 咤
+rwutoo 跎
+rxabiu 鄙
+rxadoi 咄
+rxajne 叫
+rxakze 叩
+rxavee 鄂
+rxayku 郢
+rxayyo 郧
+rxeiii 嗤
+rxivaa 啊
+rxubaa 吧
+rxuhzu 吼
+rxuyie 邑
+ryahco 嗥
+ryahxi 哗
+ryapio 啤
+ryefue 咐
+ryefui 跗
+ryehzo 喉
+ryejne 噍
+ryejuu 踽
+ryeszi 嗖
+ryevoi 噢
+ryexqe 嗅
+ryexqi 咻
+ryihlo 喤
+ryiwwo 唯
+ryixlu 响
+ryizjo 咱
+ryoyii 咿
+ryuzce 唣
+saajue 剧
+saatii 剔
+saauxi 刷
+saixmu 显
+sbasie 肆
+sbexxo 暇
+sbijue 巨
+sbunie 昵
+scabme 昪
+scejye 晙
+scekvo 暌
+scenpe 聂
+scequu 取
+sciyce 曜
+sciyie 翳
+sciyuu 羽
+sdadnu 屌
+sdaifo 臣
+sdaisi 翀
+sdajpo 岊
+sdaozu 帚
+sdaxxo 匣
+sdazai 匝
+sdehro 鬟
+sdekve 匮 聩
+sdemje 曼
+sdenne 尿
+sdeoio 职
+sdeoiu 咫
+sdepue 曝
+sdetmu 晪
+sdewwe 螱
+sdexie 屃
+sdeyie 翼
+sdeyke 映
+sdibie 臂
+sdidji 聃
+sdiihi 昌
+sdijie 暨
+sdijki 晶
+sdijpe 届
+sdijyi 君
+sdille 量
+sdimce 冒
+sdimgo 盟
+sdimwo 眉
+sdioce 召
+sdioze 昼
+sdipou 叵
+sdirjo 髯
+sdisii 司
+sdityo 臀
+sdiuuu 曙
+sdupbe 聘
+seabmu 匾
+seahvi 晖
+seejie 忌
+seekfu 恳
+seemko 暝
+seerfu 忍
+seetee 慝
+seewwe 慰
+seohue 昈
+seudji 耽
+sfifwu 匪
+sfiiiu 耻
+sfuzii 髭
+shadki 耵
+shaxii 晰
+shazcu 早
+shebce 暴
+sheboe 檗
+shebui 晡
+shegcu 杲
+shejmu 暕
+sheofu 鬒
+sheoju 展
+sheuie 是
+sheuio 时
+shewwe 尉
+shexyo 寻
+shezve 最
+shibie 壁
+shijie 髻
+shijui 居
+shikfu 垦
+shinie 匿
+shituo 屠
+shiude 晒
+shiuuu 暑
+shiwue 晤
+shutie 屉
+sialno 聊
+siamcu 昴
+siavho 昂
+siedme 殿
+sievzi 殴 欧
+siexpi 歇
+siigvu 晷
+siiheo 鹖
+siikyi 鹍
+siilqe 鹨
+siimko 明
+siimwo 鹛
+siivzi 鸥
+siixue 昫
+siiyyo 昀
+sioyie 易
+siuheo 曷
+siummu 冕
+siunio 尼
+siupiu 匹
+siusie 兕
+siuuia 匙
+siuwju 晚
+skahvi 翚
+skayyi 晕
+skedgu 戥
+skeioi 戳
+skelue 戮
+skepie 甓
+skevzi 瓯
+skiwui 屋
+skogvu 匦
+skujie 既
+skukyi 昆
+skupie 屁
+skuxnu 晓
+slagje 旰
+slahje 旱
+slawwu 韪
+slebie 璧
+slecgo 层
+slehce 昊
+slemwe 昧
+sletjo 昙
+slezeo 赜
+slidje 旦
+slidni 刁
+slikli 匡
+sliqko 晴
+slirie 日
+slivci 凹
+sliveu 耳
+sliwhe 旺
+sliwwe 卫
+slixio 习
+sliyti 曰
+smayie 羿
+smehce 颢
+smeifo 晨
+smeigo 晟
+smelso 昽
+smenpe 颞
+smetio 题
+smeyio 颐
+smezee 昃
+smukyi 髡
+snibie 嬖
+snioci 昭
+sniquu 娶
+snokci 尻
+snolao 旯
+snolue 勠
+snopii 劈
+snouce 劭
+snoxue 勖
+snoyho 旸
+soabdi 擘
+soaugi 昇
+soawuu 旿
+soegdu 改
+soehve 晦
+soejqi 鬏
+soexyi 曛
+soeyii 医
+soigxi 聒
+soixki 星
+soizoo 昨
+soumco 髦
+souwwu 尾
+spajle 匠
+spaxbi 昕
+spejii 屐
+spelvu 履
+spexiu 屣
+spijue 屦
+spobni 髟
+spodci 刀
+spouii 尸
+spoybu 尹
+spoyku 影
+sracve 翠
+srapie 辟
+srebie 襞
+srejku 景
+srelle 晾
+srembo 旻
+srenhu 曩
+sretyi 暾
+srexre 昡
+srexro 暶
+srihee 翯
+sripie 譬
+sritso 曈
+srivje 暗
+sriyie 翌
+sriyue 昱
+srokle 旷
+ssaxii 犀
+ssewoe 卧
+ssixpe 屑
+ssuhlu 晃
+staije 羼
+stapko 屏
+staqyo 群
+stecsi 聪
+steggu 耿
+stejsu 炅
+stelko 灵
+stelmo 联
+steuiu 屎
+stexii 曦
+steyye 熨
+stilvu 屡
+stuqro 鬈
+suaxii 晞
+sueico 晁
+suelko 聆
+suenru 暖
+suequi 区
+suevde 暧
+suibwe 鐾
+suihjo 晗
+suikei 匼
+svubai 巴
+svujiu 己
+svulpe 鬣
+svuyiu 已
+swanko 聍
+swebbe 鬓
+swebii 屄
+swegfu 艮
+sweiiu 尺
+swejbu 尽
+sweoce 照
+swerfe 刃
+swexii 熙
+swexue 煦
+swezsi 鬃
+swioce 曌
+swixri 暄
+swiyje 晏
+sxajio 即
+sxajye 郡
+sxamwo 郿
+sxanae 那
+sxaqui 屈
+sxauce 邵
+sxayeo 耶
+sxayju 郾
+sxazzi 鄹
+sxicje 孱
+sxijuo 局
+sxivei 屙
+sxudio 髢
+syayee 晔
+syejue 聚
+syeuuu 属
+syexqi 髹
+syidio 翟
+syitno 髫
+syiuhu 晌
+taahoi 劐
+taajki 荆
+taajku 井
+taakku 蒯
+taamiu 芈
+taasae 卅
+tailjo 蓝
+tbabie 薜
+tbafuo 茀
+tbaqso 茕
+tbegfe 茛
+tbejbe 荩
+tbejmi 鞬 兼
+tbejxi 葭
+tbelue 菉
+tbewwe 蔚
+tbexni 萧
+tbexyo 荨
+tbijyi 莙
+tbiroe 蒻
+tbumbo 苠
+tbuqiu 芑
+tbuqsi 芎
+tbuxle 巷
+tcekvo 葵
+tcemdu 荬
+tcerzo 鞣
+tcesoi 羧
+tceyiu 苡
+tceyue 蓣
+tcijki 茎
+tcijmu 翦
+tciqlu 羟
+tcitdo 苔
+tcixlo 翔
+tcolnu 蓼
+tcomco 茅
+tdaccu 草
+tdadde 带
+tdageo 革
+tdamue 幕
+tdaqmo 前
+tdehlo 黄
+tdejio 蕺
+tdejmu 茧
+tdejri 蠲
+tdejyi 菌
+tdekve 蒉
+tdeloo 萝
+tdemje 蔓
+tdemko 蓂
+tdemoe 莫
+tdempe 蔑
+tderve 芮
+tdethi 羰
+tdeuio 莳
+tdevfi 蒽
+tdewoi 莴
+tdexiu 葸
+tdexko 荥
+tdeybi 茵
+tdeyhi 鞅
+tdeyje 燕
+tdeyki 英
+tdeyko 萤
+tdezve 蕞
+tdicco 曹
+tdidao 靼
+tdigde 盖
+tdiguu 蓇
+tdihvo 茴
+tdiihi 菖
+tdijbu 堇
+tdijne 藠
+tdijui 苴
+tdijuu 莒
+tdilue 蕗
+tdimgo 瞢 萌
+tdimno 苗
+tdimue 暮 苜
+tdioea 着
+tdipuu 普
+tdiqie 葺
+tdiqku 苘
+tdirju 苒
+tditpi 萜
+tditso 茼
+tdiuje 善
+tdiuuu 薯
+tdixii 昔
+tdiyie 益
+tdiyko 营
+tdugeo 葛
+tdugze 觏
+tduheo 鞨
+tdujbe 觐
+tdujpo 羯
+tduvee 萼
+tduxme 苋
+teabmu 萹
+teecio 慈
+teelhe 莨
+teeoii 芝
+teereu 惹
+teervu 蕊
+teexbi 芯
+teeyhe 恙
+teilhu 蓢
+teoluo 芦
+teuvdu 蔼
+tfequo 蘧
+tfeuui 菽
+tfifwi 菲
+tfioiu 芷
+tfiuji 苫
+tfucio 茈
+tgegsi 恭
+tgemue 慕
+thabwe 鞴
+thafwe 芾
+thanju 萳
+thatoe 萚
+thaxii 菥
+thaxye 蕈
+thebao 菝
+thebni 蔈
+thefgi 葑
+thefuu 黼
+thegcu 藁
+thehso 蕻
+thehve 蕙
+thejie 芰
+thekju 莰
+thelko 菱
+themzu 某
+thenmi 蔫
+theoje 蘸
+thepuo 莆 蒱
+theqio 萁
+theqko 檠
+therso 荣
+thessi 菘
+thesue 蔌
+theuoe 槊
+thezyi 尊
+thibfu 苯
+thibio 荸
+thidue 芏
+thigji 苷
+thihro 荁
+thihuo 葫
+thiiae 差
+thijii 基
+thijmi 鞯
+thikei 苛
+thikuu 苦
+thimue 墓
+thioue 著
+thiqlo 蔷
+thiqme 茜
+thiqqo 酋
+thirsi 茸
+thisue 塑
+thitae 鞳
+thiuii 蓍
+thixli 葙
+thixpo 鞋
+thiyko 茔
+thurfe 葚
+tiajie 蓟
+tiamco 茆
+tiatco 萄
+tiaxmu 藓
+tiaxpe 薢
+tiaybe 茚
+tiecde 蔡
+tiecsi 葱
+tiedii 羝
+tiedio 荻
+tiefuo 菔
+tieguu 羖
+tiehoe 获
+tiejui 鞠
+tiejuo 菊
+tieniu 薿
+tieoiu 茋
+tiepgo 芃 蓬
+tiepuo 葡
+tieqii 欺
+tieqme 歉 芡
+tiesau 靸
+tietgo 藤
+tietuo 菟
+tieuco 芍
+tieuji 芟
+tieyzo 莸
+tieyzu 羑
+tiicio 鹚
+tiidje 萏
+tiigre 鹳
+tiigzu 苟
+tiiije 韂
+tiijmi 鹣
+tiijui 鞫
+tiimko 茗
+tiimno 鹋
+tiinnu 茑
+tiiqii 期
+tiiqte 鹊
+tiiuoe 朔
+tiixyo 荀
+tiiyie 鹢
+tiiyki 莺
+tiowue 芴
+tiubci 苞
+tiumjo 鞔
+tiuqio 芪
+tiuyre 苑
+tjapko 苹
+tjaruo 薷
+tjejxo 荚
+tjeldo 莱
+tjihoe 藿
+tjilwu 蕾
+tkabie 荜
+tkahyi 荤
+tkekji 戡
+tkelmo 莲
+tkemgo 甍
+tkepko 瓶
+tketio 荑
+tkigoo 馘
+tkikdu 蒈
+tkiqii 萋
+tkitdo 薹
+tkoyao 芽
+tkujue 苣
+tkupio 芘
+tkurco 荛
+tlabke 并
+tlawwu 苇
+tlayho 羊
+tlayue 芋
+tlefuo 芙
+tlegri 关 蒄
+tlemgo 蒙
+tlemoe 茉 靺
+tleofi 蓁
+tleqxi 葜
+tlesre 蒜
+tlevzu 藕
+tleyko 莹
+tleyyo 芸
+tligji 甘
+tligzi 鞲
+tlijio 藉
+tlijki 菁
+tliljo 兰
+tlinme 廿
+tliqui 曲
+tliyee 业
+tluwuo 芜
+tluyjo 芫
+tmacho 藏
+tmamhu 莽
+tmazhe 葬
+tmebao 茇
+tmedao 鞑 荙
+tmedme 奠
+tmefuo 黻 芣
+tmeiju 蒇
+tmejto 蕨
+tmelso 茏
+tmemce 茂
+tmemji 颟
+tmemwu 美
+tmende 萘
+tmeqro 颧
+tmerue 蓐
+tmeyro 羱
+tmeyzo 猷
+tmiiao 茬
+tmijme 荐
+tmiofi 葴
+tmippu 苤
+tmiqio 碁
+tmiroe 若
+tmirvo 蕤
+tmiwwi 葳
+tmixpe 薤
+tmolie 苈
+tmuhsi 薨
+tmuvee 苊
+tmuwue 靰
+tnehci 薅
+tnejii 芨
+tnesui 苏
+tnewjo 芄
+tnigui 菇
+tnijli 姜
+tnijxi 茄
+tniruo 茹
+tniuco 苕
+tnojmu 剪
+tnojni 艽
+tnokji 勘
+tnolco 劳
+tnolie 荔
+tnolwi 勒
+tnomue 募
+tnondu 艿
+tnoqbo 勤
+toalie 莉
+toaloe 荦
+toamoo 摹
+toaqko 擎
+toaqmi 芊
+toaqno 鞒 荞
+toefjo 蘩
+toeiho 苌
+toejke 敬
+toelio 藜
+toemwo 莓
+toeoui 茱
+toeqqi 萩
+toesje 散
+toetie 薙
+toetko 莛
+toeveo 莪
+toexii 羲
+toexyi 薰
+toidsu 董
+toiwwi 萎
+tooyzu 莠
+tpahgo 蘅
+tpajbe 靳
+tpalve 葎
+tpaqbo 芹
+tpasii 斯
+tpaxke 荇
+tpewwi 薇
+tpexiu 蓰
+tqilbe 蔺
+trabue 蔀
+tracve 萃
+tradie 蒂
+trajie 荠
+tramoe 藦
+tratko 葶
+traufi 莘
+traxbi 薪
+trebme 苄
+trebni 藨
+trecio 茨
+trecue 蔟
+tregdi 荄
+trejio 蒺
+trejlu 蒋
+trejni 茭
+trelio 蓠
+treoee 蔗
+trerho 蘘
+tresoi 蓑
+trewfo 芠
+trexme 羡
+treyie 薏
+treyji 菸
+trihci 蒿
+trijku 警
+trijuu 蒟
+trimio 蘼
+trimoo 蘑
+tripuo 菩
+triwge 蕹
+trixue 蓄
+trobhe 蒡
+trofhi 芳
+truisi 茺
+trumho 芒
+tsiqne 鞘
+ttabje 靽
+ttahju 蔊
+ttapko 荓
+ttaqio 蕲
+ttazco 凿
+ttebie 蔽
+tteggi 羹
+ttejmi 蒹
+tteoiu 黹
+tteszu 薮
+ttetju 菼
+tteyko 荧
+ttilzo 蒌
+ttiuoe 蒴
+tuajpe 芥
+tuecde 菜
+tuecsi 苁
+tuedmu 典
+tuegse 共
+tuehve 荟
+tueiao 茶
+tuelko 羚 苓
+tuelmu 蔹
+tuenpo 苶
+tueqio 其
+tuetuo 荼
+tuevde 艾
+tuicoe 莝
+tuifji 蕃
+tuifuo 莩
+tuiqro 荃
+tuisvi 荽
+tuiwgu 蓊
+tuixmi 莶
+tuiyko 蓥
+tuoffi 芬
+tuuchi 苍
+tuumnu 藐
+tuuqbo 芩
+tveoze 荮
+tveqio 綦
+tveyce 药
+tveyko 萦
+tvezii 兹
+tvihso 荭
+tvimoe 蓦
+tviyye 蕴
+tvoxli 芗
+tvoyce 靿
+tvuiyo 莼
+tvuqli 羌
+tvuufe 甚
+tvuyie 艺
+twajne 斠
+twanko 苧
+twaofi 斟
+twapko 萍
+twebco 薄
+tweboi 菠
+twedke 萣
+twegci 羔
+twejmi 煎
+twekze 蔻
+twelhe 蒗
+twepde 蒎
+twepuo 蒲
+twequo 蕖
+twetui 葖
+twexto 茓
+twezcu 藻
+twidhe 菪
+twifji 藩
+twiheo 菏
+twijli 茳
+twijmi 菅
+twijui 菹
+twiloe 落
+twioue 苎
+twirso 蓉
+twivji 鞍
+twixri 萱
+twixua 蓿
+twodhe 荡
+twouai 莎
+twufje 范
+twugru 莞
+twumho 茫
+twuwju 菀
+txahje 菡
+txahjo 邯
+txajpo 节
+txaoge 郑
+txaooo 茁
+txaroe 鄀
+txauje 鄯
+txaybo 鄞
+txayee 邺
+txegui 菰
+txeogi 蒸
+txesyi 荪
+txinpe 孽
+txixqi 羞
+txiybi 荫
+txizii 孳
+txosae 萨
+txubai 芭
+txubau 靶
+txukzi 芤
+txuuui 蔬
+tyabie 萆
+tyaose 茽
+tyaxti 薛
+tyayhu 养
+tyebcu 葆
+tyebmi 鞭
+tyefuo 茯 苻
+tyejni 蕉
+tyekvo 夔
+tyenpe 糵 蘖
+tyesvi 葰
+tyeszi 蒐
+tyeyuo 萸
+tyeyzo 莜
+tyibwe 蓓
+tyiheo 荷
+tyihro 萑
+tyiiio 茌
+tyilie 莅
+tyirfu 荏
+tyiuzu 首
+tyubie 蓖
+tyudzi 蔸
+tyuhli 荒
+tyuhxi 花
+tyupai 葩
+tyuxti 靴
+vaajnu 剿
+vaulju 缆
+vbafuo 绋
+vbanae 娜
+vbaofe 纼
+vbelve 绿
+vbifue 妇
+vbimbo 缗
+vbufwi 妃
+vbujie 纪
+vbunii 妮
+vbunuu 弩
+vbuwwu 娓
+vcauui 纾
+vcayie 绎
+vcayuo 妤
+vcenuo 奴
+vceove 缀
+vcesie 姒
+vcidde 绐
+vcijki 经
+vcitnu 嬥
+vciuiu 始
+vcolce 嫪
+vcomzo 缪
+vdathu 帑
+vdaufi 绅
+vdeghi 纲
+vdehro 嬛 缳
+vdehve 缋
+vdeico 巢
+vdejii 畿
+vdelio 蠡
+vdelwo 缧 嫘
+vdemje 缦
+vdemji 嫚
+vdenae 纳
+vdenuu 胬
+vdeoii 织
+vdeqmu 缱
+vdeqni 缲
+vdesii 缌
+vdetio 缇
+vdeuie 媞
+vdewai 娲
+vdeybi 姻
+vdeyuo 娱
+vdidao 妲
+vdiihi 娼
+vdijii 缉
+vdijpu 姐
+vdijre 绢
+vdijri 娟
+vdiliu 娌
+vdiozo 妯
+vdipwe 辔
+vdiruo 如
+vdivcu 媪
+vdixie 细
+vdiyki 缨
+vdizdi 甾
+vdizuu 组
+vdomnu 缈
+vdugyu 绲
+vdupki 娉
+vduugo 绳
+vduysi 邕
+veabmi 编
+veenlo 娘
+veenue 怒
+veeuue 恕
+veodue 妒
+vfahue 嫭
+vfaioe 绰
+vfeuuo 婌
+vfifwi 绯
+vgemie 糸
+vgomne 妙
+vgouai 纱
+vhahxe 嬅 婳
+vhakee 缂
+vhefue 缚
+vheggu 绠
+vhejie 妓
+vhelko 绫
+vhemoo 嫫
+vhemwo 媒
+vhenfe 嫩
+vheofu 缜
+vheoze 纣
+vhepni 缥
+vhepno 嫖
+vhexpo 缬
+vhexue 续
+vheyje 嬿
+vheyji 嫣
+vheyki 媖
+vhigje 绀
+vhigui 姑
+vhihgo 姮
+vhihso 红
+vhiioe 婼
+vhijbe 缙
+vhijio 姞
+vhijli 缰
+vhijpo 结
+vhikei 牁
+vhiqlo 嫱
+vhiwao 娃
+vhixii 嬉
+vhixli 缃
+vhixue 绪
+vhiyae 娅
+vhulcu 姥
+vhuxpe 绁
+viajle 绛
+viatco 绹
+viefge 缝
+vieniu 妳
+vieosi 终
+vietci 绦
+vieuoe 妁
+vieyti 约
+viibgi 绷
+viihyi 婚
+viiizi 婤
+viiizo 绸
+viiloe 络
+viilqu 绺
+viioze 绉
+viisii 鸶
+viiuji 姗
+viixre 绚
+vioziu 姊
+viugvu 姽
+viujto 绝
+viummu 娩
+viuoiu 纸
+vjiuli 孀
+vkajii 姬
+vkejpo 婕
+vkelme 练
+vkeqli 戕
+vkeyio 姨
+vkeyue 妪
+vkidpo 绖
+vkorso 绒
+vkossi 娀
+vkubiu 妣
+vkuiyo 纯
+vkupii 纰
+vkurce 绕
+vkurco 娆
+vlabhu 绑
+vlajmi 奸
+vlawwu 纬
+vlayjo 妍
+vlayui 纡
+vlebnu 婊
+vlejie 绩
+vlemwe 妹
+vlexme 线
+vleyyo 纭 妘
+vligze 媾
+vlijke 婧
+vlinvu 女
+vlisii 丝
+vluwje 妧
+vluwuu 妩
+vmayio 彝
+vmebao 妭
+vmefuo 绂
+vmehso 纮
+vmelno 嫽 缭
+vmerue 缛
+vmetre 彖
+vmeufi 娠
+vmeyro 嫄
+vmezhe 奘
+vmijmi 缄
+vmimmu 缅
+vmiqiu 绮 婍
+vmukue 绔
+vnejio 级
+vnerfe 纫
+vnewjo 纨
+vniuce 绍
+vnondu 奶
+vnonuu 努
+vnoyze 幼
+voajni 娇
+voaxmi 纤
+voeuui 姝
+voeuzi 收
+voeveo 娥
+voeyci 妖
+voezru 缵
+voidou 缍
+voirfe 妊
+voixke 姓
+vooxqe 绣
+vougei 纥
+vouoie 彘
+vpadre 断
+vpahho 绗
+vpigze 姤
+vpopjo 爿
+vpoxli 乡
+vqexmo 娴
+vradie 缔
+vraohi 嫜
+vratko 婷
+vrejio 嫉
+vrejni 姣
+vrejnu 绞
+vrelio 缡
+vremai 嬷
+vrewfo 纹
+vridio 嫡
+vrigcu 缟
+vriijo 缠
+vriuje 嬗
+vrofho 妨
+vrofhu 纺
+vrokle 纩
+vrutsu 统
+vsaiho 嫦
+vsiuhe 绱
+vsixni 绡
+vtabje 绊
+vtaijo 婵
+vtapbi 姘
+vtazhi 牂
+vtegvi 妫
+vtejmi 缣
+vtemwu 媄
+vtexmo 嫌
+vtilvu 缕
+vtiuje 缮
+vtiyie 缢
+vtizgi 缯
+vtodie 娣
+vtotio 绨
+vtujie 继
+vtuqro 婘
+vtuqru 绻
+vuayco 媱
+vuehru 缓
+vuehve 绘
+vuelko 姈
+vueqmi 孅
+vueuze 绶
+vuevde 嫒
+vuexlu 飨
+vueyco 姚
+vueyiu 以
+vueyre 媛
+vuezse 纵
+vuigwu 给
+vuisvo 绥
+vuivee 姶
+vuoffi 纷
+vuujbe 妗
+vuulyo 纶
+vvemuu 姆
+vvesci 缫
+vvexue 絮
+vveyro 缘
+vvimai 妈
+vvinuo 驽
+vvizii 缁
+vvuhre 幻
+vvuiri 巛
+vwaufu 婶
+vwebbi 缤
+vwejxe 嫁
+vweoje 绽
+vwepbo 嫔
+vwesii 厶
+vweyci 幺
+vwezsi 综
+vwisoi 缩
+vwiwji 婠
+vwiwju 绾
+vwuiae 姹
+vwuwju 婉
+vxaiue 绌
+vxajqi 纠
+vxeiii 媸
+vxihcu 好
+vximwe 媚
+vxinqi 妞
+vxinqu 纽
+vxinuo 孥
+vxivei 婀
+vxixue 婿
+vxutai 她
+vyabie 婢
+vyammo 绵
+vyebme 缏
+vyedre 缎
+vyegzi 缑
+vyejnu 缴
+vyeove 缒
+vyescu 嫂
+vyexio 媳
+vyiwwo 维
+vyupie 媲
+waajxu 甲
+waayti 曱
+wcayeu 野
+wcequi 黢
+wcocju 黪
+wdegre 贯
+wdehro 圜
+wdeyro 圆
+wdihvo 回
+wdiwwe 胃
+wdokui 圐
+weafao 罚
+weesii 思
+weevfi 恩
+weeyuo 愚
+wfaoce 罩
+wfizve 罪
+whalju 罱
+whatki 町
+whayuu 圉
+whebae 罢
+wheduo 黩
+whekye 困
+whepio 罴
+whepuu 圃
+whighi 罡
+whigue 固
+whiguu 罟
+whijii 羁
+whimoe 墨
+whioie 置
+whiqio 畦
+whiuue 墅
+whiuuu 署
+whixxo 黠
+whiyuu 圄
+whotro 团
+wiehou 夥
+wieloo 罗
+wietuo 图
+wieuuu 蜀
+wieyii 黟
+wiihro 鹮
+wiilqu 罶
+wiilte 略
+wiiyai 鸭
+wiohuo 囫
+wiusie 四
+wkewwe 畏
+wkudye 囤
+wkupio 毗
+wlawwo 围
+wlegoo 国
+wleizo 畴
+wligre 毌
+wliliu 里
+wliqki 圊
+wlitmo 田
+wliwuo 毋
+wluyro 园
+wmabie 畀
+wmefuo 罘
+wmekei 颗
+wmemoe 默
+wmeqru 畎
+wmeybi 因
+wmijii 畸
+wmiyze 囿
+wmuyju 罨
+wninji 囡
+wnonjo 男
+wnonnu 嬲
+woeqyi 囷
+woetmo 畋
+wpefje 畈
+wpewai 畖
+wreqko 黥
+wrilie 詈
+writru 疃
+wrivje 黯
+wtapje 畔
+wtizgi 罾
+wtuqri 圈
+wuajpe 界
+wuelko 囹
+wueqqo 囚
+wuoofu 畛
+wuujsu 囧
+wuulyo 囵
+wuuqmo 黔
+wvelwe 累
+wvoyzu 黝
+wwegou 果
+wwehwi 黑
+wwemuu 母
+wweyuo 禺
+wwilio 罹
+wwuwju 畹
+wxaiue 黜
+wxijmu 囝
+xvulko 〇
+yaajie 剂
+yaakee 刻
+yaalqo 刘
+yaapzi 剖
+yaixui 虚
+ybekfu 龈
+ybiwoe 龌
+yboluo 卢
+ybumho 氓
+ybuwji 弯
+ycaqie 弃
+ycebme 变
+ycegyu 衮
+ycejye 竣
+ycemce 袤
+ycepui 攴
+ycerve 叡
+yceuui 叔
+yciyie 翊
+yciyue 育
+ycuisi 充
+ycuyju 兖
+ydadie 帝
+ydadri 端
+ydalro 峦
+ydauie 市
+ydegou 裹
+ydeioe 龊
+ydejki 京
+ydelio 离
+ydelro 脔
+ydemjo 蛮
+ydeofi 贞
+ydexli 襄
+ydeyie 裛
+ydeyuo 虞
+ydeyyi 赟
+ydezii 赀
+ydidui 督
+ydigci 膏 高
+ydihli 肓
+ydiiie 啻
+ydiiue 畜
+ydijuu 龃
+ydikfu 肯
+ydilbe 吝
+ydilvu 膂
+ydimho 盲
+ydimuu 亩
+ydioje 占
+yditso 童
+ydiuhi 商
+ydiybi 音
+ydiyie 裔
+yduiji 觇
+ydujke 竞
+ydujpo 竭
+yduque 觑
+yeabme 辩
+yeebge 迸
+yeebie 避
+yeebii 逼
+yeebme 遍
+yeebmi 边
+yeebui 逋
+yeedao 达
+yeedce 道
+yeedde 迨
+yeeddu 逮
+yeedie 递
+yeedio 迪
+yeedpo 迭
+yeedve 憝
+yeedye 遁
+yeedze 逗
+yeefgo 逢
+yeefju 返
+yeeghe 戆
+yeegle 逛
+yeegoe 过
+yeegze 遘
+yeehdo 还
+yeehlo 遑
+yeehre 逭
+yeehze 逅
+yeeigu 逞
+yeeiio 迟
+yeeioi 逴
+yeeiro 遄
+yeejbe 进 近
+yeejie 迹
+yeejke 迳
+yeejsu 迥
+yeejue 遽
+yeejxi 迦
+yeekvo 逵
+yeelai 邋
+yeelbo 遴
+yeeliu 逦
+yeelme 恋
+yeelmo 连
+yeelno 辽
+yeeloo 逻
+yeelqo 遛
+yeelue 逯
+yeelve 虑
+yeemde 迈
+yeemio 迷
+yeemnu 邈
+yeendu 迺
+yeenie 逆
+yeeoee 这
+yeeoei 遮
+yeeoji 邅
+yeeouo 逐
+yeeovi 追
+yeeoyi 迍
+yeepho 逄
+yeepoe 迫
+yeeqie 迄
+yeeqmi 迁
+yeeqmu 遣
+yeeqqo 遒 逑
+yeeqyi 逡
+yeesse 送
+yeesue 速
+yeesve 遂 邃
+yeetae 遢
+yeetco 逃
+yeetie 逖
+yeetio 遆
+yeetju 忐
+yeetno 迢
+yeetsi 通
+yeetuo 途
+yeetve 退
+yeetze 透
+yeeuie 适 逝
+yeeuue 述
+yeevco 遨
+yeevee 遏
+yeeveu 迩
+yeewhe 忘
+yeewue 迕
+yeewwi 逶
+yeewwo 违
+yeexmi 暹
+yeexni 逍
+yeexpe 邂
+yeexru 选
+yeexxo 遐
+yeexye 逊 迅
+yeexyo 巡
+yeeyae 迓
+yeeyci 邀
+yeeyco 遥
+yeeyie 逸 意
+yeeyio 迤 遗
+yeeyko 迎
+yeeyru 远
+yeeyue 遇
+yeeyui 迂
+yeeyuo 逾
+yeeyye 运
+yeezce 造
+yeezci 遭
+yeezeo 迮
+yeezyi 遵
+yfeqni 敲
+yfijii 齑
+yfioje 站
+yfuyjo 虤
+yfuzii 龇
+ygobue 步
+yhadze 斗
+yhaohi 章
+yhaooo 卓
+yhatko 亭
+yhaxbi 辛
+yheido 柴
+yhelae 辣
+yhelro 栾
+yheooi 桌
+yheqbi 亲
+yheqio 歧
+yhessu 竦
+yhexpe 亵
+yhihee 壑
+yhikyi 堃
+yhiuuo 塾
+yhiysi 壅
+yhiyuu 龉
+yiazii 觜
+yiegje 赣
+yielou 蠃
+yielwo 羸
+yiesae 飒
+yieuki 衰
+yievdi 哀
+yiexbi 歆
+yieyie 毅
+yieyko 嬴 赢
+yieyuo 欤
+yiiiyo 鹑
+yiijqe 鹫
+yiilro 鸾
+yiiluo 鸬
+yiiquu 竘
+yiiyye 韵
+yiubci 龅
+yiuciu 此
+yiuhuu 虎
+yiuife 龀
+yiujke 竟
+yiukhe 亢
+yiulle 亮
+ykebue 瓿
+ykeoje 战
+ykinte 虐
+ylebku 禀
+yleluu 卤
+ylibbi 斌
+ylijke 靖
+ylilie 立
+yliluu 卤
+ylioiu 止
+yliouu 主
+yliuhe 上
+yliwhe 望
+ylixpi 些
+yliyjo 言
+yliyuu 与
+yliyzu 卣
+ymaodi 斋
+ymayie 弈
+ymehco 豪
+ymehho 颃
+ymehso 竑
+ymeije 颤
+ymejqe 就
+ymekei 颏
+ymeluo 颅
+ymepbo 频
+ymetzo 头
+ymeyie 奕
+ymeyjo 颜
+ymiode 砦
+ymirve 睿
+yneuuo 孰
+ynilro 娈
+yniqpe 妾
+ynitno 龆
+yniuco 韶
+yniwhe 妄
+ynoheo 劾
+ynoluu 虏
+ynoqko 勍
+yoalro 挛
+yoapwe 旆
+yoedyi 敦
+yoefhe 放
+yoelvu 旅
+yoeqio 旗
+yoesve 旞
+yoexne 效
+yoexro 旋
+yoezuo 族
+yoijki 旌
+yoioji 旃
+yoiyiu 旖
+youboo 亳
+youhco 毫
+youheo 龁
+youlqo 旒
+youmco 旄
+youniu 旎
+youuii 施
+ypabje 瓣
+ypaxbi 新
+yperho 瓤
+ypobni 彪
+ypofhi 方
+ypoglu 广
+ypoiju 产
+ypoohi 彰
+ypoyje 彦
+yqeljo 斓
+yreqmo 虔
+yrizii 訾
+yropho 旁
+ysekau 卡
+ytabme 辨
+ytecje 粲
+yticoo 鹾
+yuaiiu 齿
+yuazuo 卒
+yuecji 餐
+yuehde 亥
+yuejni 交
+yuelko 龄
+yuelqe 六
+yueysi 饔
+yueyuo 於
+yuilro 銮
+yvabme 辫
+yvalve 率
+yvewfu 紊
+yvexro 玄
+yveziu 紫
+yviysi 雍
+yvujii 乩
+yvuwho 亡
+ywebme 卞
+yweboa 卜
+ywedmu 点
+ywepgi 烹
+yweuuo 熟
+ywewfo 文
+yweyie 亦
+yweyii 衣
+yxabue 部
+yxafhi 邡
+yxagoi 郭
+yxahgi 亨
+yxajni 郊
+yxamho 邙
+yxaohi 鄣
+yxilro 孪
+yxixlu 享
+yyapbo 颦
+yyaqio 齐
+yyebci 褒
+yyepzo 裒
+yyequu 龋
+yyeyee 夜
+yyicio 雌

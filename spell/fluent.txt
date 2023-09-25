@@ -1,0 +1,352 @@
+
+kd 니
+kf 너
+kj 느
+ks 나
+kl 늬
+ke 내
+kc 네
+km 노
+kr 녀
+kw 냐
+ko 뉴
+ku 누
+kx 냬
+kz 녜
+kv 뇨
+dk 기
+dj 거
+df 그
+dl 가
+ds 긔
+di 개
+dm 게
+dc 고
+dr 구
+do 갸
+dw 규
+du 겨
+dn 걔
+dv 계
+dz 교
+jd 이
+jk 으
+jf 어
+js 아
+jl 의
+je 애
+ji 우
+jc 에
+jr 여
+jw 야
+jo 유
+jx 얘
+jn 오
+jz 예
+jv 요
+fk 디
+fd 드
+fj 더
+fl 다
+fs 듸
+fi 대
+fe 두
+fm 데
+fo 댜
+fw 듀
+fu 뎌
+fn 댸
+fx 도
+fv 뎨
+fz 됴
+ld 시
+lk 스
+lf 서
+lj 싀
+ls 사
+le 새
+li 수
+lc 세
+lm 쇼
+lr 셔
+lw 샤
+lu 슈
+lx 섀
+ln 소
+lz 셰
+sk 미
+sd 므
+sj 머
+sf 믜
+sl 마
+si 매
+se 무
+sm 메
+sc 묘
+sr 뮤
+so 먀
+su 며
+sn 먜
+sx 모
+sv 몌
+id 리
+if 러
+ij 르
+is 라
+il 릐
+ie 래
+ic 레
+ir 려
+iw 랴
+io 류
+iu 루
+ix 럐
+iz 례
+ek 키
+ej 커
+ef 크
+el 카
+es 킈
+ei 캐
+em 케
+er 쿠
+eo 캬
+ew 큐
+eu 켜
+en 컈
+ev 켸
+rk 티
+rd 트
+rj 터
+rl 타
+rs 틔
+ri 태
+re 투
+rm 테
+ro 탸
+rw 튜
+ru 텨
+rn 턔
+rv 톄
+ud 지
+uk 즈
+uf 저
+us 자
+ul 즤
+ue 재
+ui 주
+uc 제
+ur 져
+uw 쟈
+uo 쥬
+ux 쟤
+uz 졔
+md 찌
+mk 쯔
+mf 쩌
+ms 짜
+ml 쯰
+me 째
+mc 쩨
+mr 쪄
+mw 쨔
+mx 쨰
+mn 쪼
+mz 쪠
+mv 쬬
+ck 띠
+cd 뜨
+cj 떠
+cl 따
+cs 띄
+ci 때
+cm 떼
+co 땨
+cu 뗘
+cn 떄
+cx 또
+cv 뗴
+cz 뚀
+od 치
+ok 츠
+of 처
+oj 츼
+os 차
+oe 채
+oi 추
+oc 체
+or 쳐
+ow 챠
+ou 츄
+ox 챼
+oz 쳬
+wk 비
+wd 브
+wj 버
+wf 븨
+wl 바
+wi 배
+we 부
+wm 베
+wr 뷰
+wo 뱌
+wu 벼
+wn 뱨
+wv 볘
+nd 히
+nf 허
+nj 흐
+ns 하
+nl 희
+ne 해
+nc 헤
+nm 호
+nr 혀
+nw 햐
+nx 햬
+nz 혜
+nv 효
+xk 끼
+xj 꺼
+xf 끄
+xl 까
+xs 끠
+xi 깨
+xm 께
+xc 꼬
+xo 꺄
+xu 껴
+xn 꺠
+xv 꼐
+xz 꾜
+vd 씨
+vk 쓰
+vf 써
+vj 씌
+vs 싸
+ve 쌔
+vc 쎄
+vm 쑈
+vr 쎠
+vw 쌰
+vx 썌
+vn 쏘
+vz 쎼
+zk 피
+zd 프
+zj 퍼
+zf 픠
+zl 파
+zi 패
+zm 페
+zc 표
+zo 퍄
+zu 펴
+zn 퍠
+zx 포
+zv 폐
+
+td
+dt
+ts
+st
+te
+et
+tw
+wt
+tq
+qt
+qs
+sq
+qd
+dq
+qf
+fq
+qw
+wq
+qe
+eq
+qr
+rq
+qg
+gq
+gw
+wg
+ge
+eg
+gr
+rg
+ga
+ag
+gs
+sg
+gd
+dg
+
+
+hk
+kh
+hl
+lh
+hi
+ih
+ho
+oh
+hp
+ph
+yi 
+iy 
+yo 
+oy 
+yp 
+py 
+pu
+up
+pi
+ip
+po
+op
+pj
+jp
+pk
+kp
+pl
+lp
+
+wc
+wx
+ez
+ec
+rz
+rx
+ze 
+zr 
+xr 
+xw
+cw
+ce
+
+un
+uv
+im
+iv
+om
+on
+mi
+mo
+nu
+no
+vu
+vi
+
+qc
+cq
+tz
+zt
+gz
+zg
+gx
+xg
+
+pm
+mp

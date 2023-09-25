@@ -1,4 +1,4 @@
-#![feature(iter_intersperse)]
+#![feature(pattern, iter_intersperse)]
 #![allow(dead_code, unused, non_snake_case)]
 
 use std::collections::HashMap;
@@ -7,6 +7,7 @@ mod kt;
 mod py;
 mod mcr;
 mod spell;
+mod yubi;
 mod parser;
 mod util;
 mod sta;

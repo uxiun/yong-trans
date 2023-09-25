@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-use crate::out::YongDictSpellWords;
+use crate::{out::YongDictSpellWords, parser::StringStringsEntry};
 
 pub type ByLenSta = HashMap<u32, u32>;
 pub fn double_words_by_len(dict: YongDictSpellWords, count_level: u32)-> ByLenSta {
@@ -29,6 +29,12 @@ pub fn double_words_by_len_vec(dict: YongDictSpellWords, count_level: u32)
 		.map(|d| *d)
 		.collect()
 }
+
+// pub fn double_words_by_prefix(dict: YongDictSpellWords, prefix: &str)
+// -> (&str, u32)
+// {
+	
+// }
 
 pub fn display_hashmap<K,V>(h: HashMap<K,V>)->
 Vec<(K,V)>

@@ -55,7 +55,7 @@ pub fn main() {
 		}
 	);
 
-	write_spell_words_dict("table/cjpy-flow20000.txt", dict.clone()
+	write_spell_words_dict("table-custom/cjpy-flow20000.txt", dict.clone()
 	);
 }
 

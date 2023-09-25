@@ -302,7 +302,8 @@ impl WordSpellsEntry {
 								head.clone() + &rem ,
 								spell.clone() + "a" + &py_fix
 							]} else { vec![
-								spe.clone() 
+								spe.clone(),
+								head.clone() 
 							]}
 					}
 				} else {

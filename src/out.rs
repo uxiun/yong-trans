@@ -237,12 +237,10 @@ impl WordSpellsEntry {
 	// }
 	fn to_cjmain_with_specifier(self) -> WithMakeWordSpecifier {
 		let xxs = self.spells.iter().filter(|s| s.spelling == YongSpelling::Xxyx);
-		let cjs = self.spells.iter().filter(|s| s.spelling == YongSpelling::Cangjie && 
-			({ //難が前置されただけの重複した綴を取り除く
-				let k = s.spell.clone().split_off(1);
-				!self.spells.iter().any(|ss| ss.spell == k)
-			})
+		let cjs //: Vec<&SpecifySpelling> 
+			= self.spells.iter().filter(|s| s.spelling == YongSpelling::Cangjie 
 		);
+			// .collect();
 		let bihuas = self.get_xxyx_bihuas();
 		let py = get_shuangpin_tone(
 			self.word.chars().next().expect("at least one length word")
@@ -254,8 +252,19 @@ impl WordSpellsEntry {
 		};
 		
 		let swapdict = to_swap_key_dict("spell/swap-start.txt");
+		
+		let cjs_len = cjs.clone().count();
+		let specified_require = |spell: &str| {
+			if let Some(head) = spell.chars().next() {
+				head != 'x'
+				|| cjs_len == 1
+				|| spell.len() == 1
+			} else { false }
+		};
+
 		let cjfixes: Vec<WithMakeWordSpecifier> = cjs.map(|cj| {
 
+			let ok_to_add_specified = specified_require(&cj.spell);
 			let spe: String = cj.spell.chars().map(|c| {
 				swap_key(c.to_string(), &swapdict)
 			}).collect();
@@ -284,7 +293,10 @@ impl WordSpellsEntry {
 
 					WithMakeWordSpecifier {
 						specified_for_make_word_spells:
+							if ok_to_add_specified {
+
 								vec![ head.clone() + &rem + &py_fix ]
+							} else { vec![]}
 						, other_spells:
 							if &rem.len() > &0 { vec![
 								head.clone() + &rem ,
@@ -295,17 +307,19 @@ impl WordSpellsEntry {
 					}
 				} else {
 					WithMakeWordSpecifier {
-						specified_for_make_word_spells: vec![
-							spe.clone() + "a" + &py_fix
-						] 
+						specified_for_make_word_spells: 
+							if ok_to_add_specified {
+								vec![ spe.clone() + "a" + &py_fix ] 
+							} else { vec![]}
 						, other_spells: vec![spe.clone()]
 					}
 				}
 			} else {
 				WithMakeWordSpecifier {
-					specified_for_make_word_spells: vec![
-						spe.clone() + "a" + &py_fix
-					] 
+					specified_for_make_word_spells:
+						if ok_to_add_specified {
+							vec![ spe.clone() + "a" + &py_fix ] 
+						} else {vec![]}
 					, other_spells: vec![spe.clone()]
 				}
 			}; 

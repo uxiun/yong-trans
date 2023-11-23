@@ -1,5 +1,6 @@
 Case sensitive, V=無子音 (for e.g. 爱 ai4)
 有效行: ^\s*[a-z]\s+\S+.*$
+\S+ 部分は始めて登場する母音以降に相当
 
 
 u sh
@@ -10,6 +11,7 @@ v V
 q iu
 w ei
 r uan
+r er
 t ue
 t ve
 y un

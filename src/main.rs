@@ -4,19 +4,18 @@
 use std::collections::HashMap;
 
 mod kt;
-mod py;
 mod mcr;
-mod spell;
-mod yubi;
+mod out;
 mod parser;
-mod util;
+mod py;
+mod spell;
 mod sta;
-mod out; //execute translate
+mod util;
+mod yubi; //execute translate
 fn main() {
-
-  // let p = '略'.to_pinyin().unwrap().with_tone_num_end();
-  // println!("{} ", p);
-  out::main();
+	// let p = '略'.to_pinyin().unwrap().with_tone_num_end();
+	// println!("{} ", p);
+	out::main();
 }
 
 fn readfile(filename: &str) {}

@@ -309,7 +309,7 @@ impl WordSpellsEntry {
 				// let nfs = not_fluent_pairs();
 				let mut chs = spe.chars();
 				let first = chs.next().expect("empty spell?");
-
+				
 				let spellfor = if let Some(second) = chs.next() {
 					if let Some(third) = chs.next() {
 						let mut spell = spe.clone();
@@ -318,7 +318,8 @@ impl WordSpellsEntry {
 						let head: String = if is_left_key(second) != is_left_key(third)
 							|| fls.iter().any(|fluent| {
 								(second.to_string() + &third.to_string()).is_prefix_of(&fluent)
-									|| (third.to_string() + &second.to_string()).is_prefix_of(&fluent)
+									// || (third.to_string() + &second.to_string()).is_prefix_of(&fluent)
+									// 滑らかな運指は対称ではない。gc:fluent, but cg
 							}) {
 							spell.clone() + "+"
 						} else {

@@ -1,21 +1,24 @@
-use itertools::{izip};
+use itertools::Itertools;
 
 use crate::{
 	d,
 	kt::{from_word_spells_dict, swap_key, to_swap_key_dict, to_yong_dict, YongDictWordSpells},
 	parser::{self, StringStringsDict, StringStringsEntry},
 	py::get_shuangpin_tone,
-	spell::{BihuaXxyx, SpecifySpelling, YongSpelling},
+	spell::{perm_swap_table, perm_swap_table_process, BihuaXxyx, SpecifySpelling, YongSpelling},
 	sta::{display_hashmap, double_words_by_len},
-	util::{cmp_by_len_default, unions_hashmap},
+	util::{cmp_by_len_default, process_permutation_separately, unions_hashmap, with_elapsed_time},
 	yubi::{fluent_list, is_left_key, not_fluent_pairs},
 };
 use std::{
 	collections::{HashMap, HashSet},
 	fs::File,
 	io::{BufWriter, LineWriter, Write},
+	iter::zip,
 	path::Path,
 	str::pattern::Pattern,
+	time::Instant,
+	u32,
 };
 
 pub fn main() {
@@ -32,15 +35,32 @@ pub fn main() {
 		.into_iter()
 		.collect(),
 	);
-	let deduped: HashMap<String, Vec<SpecifySpelling>> = merged.clone().into_iter().map(|(k, v)| (k,
-		{let h: HashSet<SpecifySpelling> = HashSet::from_iter(v.into_iter());
-			h.into_iter()
-			.collect()} )
-		)
+	let deduped: HashMap<String, Vec<SpecifySpelling>> = merged
+		.clone()
+		.into_iter()
+		.map(|(k, v)| {
+			(k, {
+				let h: HashSet<SpecifySpelling> = HashSet::from_iter(v.into_iter());
+				h.into_iter().collect()
+			})
+		})
 		.collect();
 	println!("complete merge dicts");
 	let dict = deduped;
-	let mut dict = DictTranslator::Cjmain.flip_word_spells_with_make_word_specifier(dict);
+
+	// let mut dict = DictTranslator::Cjmain.flip_word_spells_with_make_word_specifier(
+	// 	dict,
+	// 	"spell/swap_refreq.txt",
+	// 	"shuang/xiaoque.txt",
+	// );
+
+	let mut dict = DictTranslator::Cjmain.explore_swap_and_flip_word_spells(
+		dict,
+		"spell/swap_predefined.txt",
+		"shuang/xiaoque.txt",
+		Err(10),
+	);
+
 	// let toadd = DictTranslator::Free.flip_word_spells(
 	// 	from_word_spells_dict("spell/add-short.txt")
 	// );
@@ -73,7 +93,7 @@ pub fn main() {
 	// 	display_hashmap(se)
 	// });
 
-	write_spell_words_dict("table-custom/cjpyhangul20000.txt", dict.clone());
+	write_spell_words_dict("table-custom/cjauto-20000.txt", dict.clone());
 }
 
 pub type YongDictSpellWords = HashMap<String, Vec<String>>;
@@ -103,6 +123,23 @@ where
 	Ok(())
 }
 
+pub fn spell_words_dict_tostring(dict: Vec<(String, Vec<String>)>) -> String {
+	let mut v: Vec<_> = dict.into_iter().collect();
+	v.sort_by(|j, k| cmp_by_len_default(&j.0, &k.0));
+
+	let dict: Vec<(String, Vec<String>)> = v.into_iter().collect();
+	dict.iter().fold(String::new(), |folding, t| {
+		let s = SpellWordsEntry {
+			spell: t.0.to_owned(),
+			words: t.1.to_owned(),
+		}
+		.to_string();
+
+		folding + &s
+		// file.write_all(s.as_bytes());
+	})
+}
+
 struct SpellWordsEntry {
 	spell: String,
 	words: Vec<String>,
@@ -118,11 +155,7 @@ impl SpellWordsEntry {
 		(self.spell.clone(), self.words.clone())
 	}
 	fn to_string(&self) -> String {
-		let word_clause = self
-			.words
-			.clone()
-			.into_iter()
-			.intersperse_with(|| " ".to_owned())
+		let word_clause = Iterator::intersperse_with(self.words.clone().into_iter(), || " ".to_owned())
 			.collect::<String>()
 			+ if self.spell.chars().count() < 1 && self.words.len() == 1 {
 				"$SPACE"
@@ -142,22 +175,26 @@ pub enum DictTranslator {
 	Free,
 }
 
-struct WithMakeWordSpecifier {
-	specified_for_make_word_spells: Vec<String>,
-	other_spells: Vec<String>,
+#[derive(Debug, Clone)]
+pub struct WithMakeWordSpecifier {
+	pub specified_for_make_word_spells: Vec<String>,
+	pub other_spells: Vec<String>,
 }
 
 impl DictTranslator {
-	fn flip_word_spells_with_make_word_specifier(
+	fn flip_word_spells_with_make_word_specifier<P: AsRef<Path>>(
 		&self,
 		dict: YongDictWordSpells,
+		swap_dict: P,
+		shuangpin_table: P,
 	) -> Vec<(String, Vec<String>)> {
 		let translator = match self {
 			Self::Cjmain => WordSpellsEntry::to_cjmain_with_specifier,
 			_ => WordSpellsEntry::to_cjmain_with_specifier,
 		};
+		let swapdict = to_swap_key_dict(swap_dict);
 		let j = dict.iter().map(|t| {
-			let withspecifiers = translator(WordSpellsEntry::from_tuple(t));
+			let withspecifiers = translator(WordSpellsEntry::from_tuple(t), &swapdict, &shuangpin_table);
 			(t.0.to_owned(), withspecifiers)
 		});
 
@@ -182,6 +219,150 @@ impl DictTranslator {
 				}
 			}
 			for spell in withspecifieds.specified_for_make_word_spells {
+				wordpsells.push(("^".to_string() + &spell, vec![word.clone()]));
+			}
+		}
+		wordpsells.extend(init.into_iter());
+
+		wordpsells
+	}
+
+	fn explore_swap_and_flip_word_spells<P: AsRef<Path>>(
+		&self,
+		dict: YongDictWordSpells,
+		swap_dict: P,
+		shuangpin_table: P,
+		takelen_max: Result<usize, usize>,
+	) -> Vec<(String, Vec<String>)> {
+		let translator = match self {
+			Self::Cjmain => WordSpellsEntry::to_cjmain_with_specifier,
+			_ => WordSpellsEntry::to_cjmain_with_specifier,
+		};
+
+		let mapf = |swap_dict: HashMap<char, char>| {
+			let stringdict: HashMap<String, String> = HashMap::from_iter(
+				swap_dict
+					.into_iter()
+					.map(|(k, v)| (k.to_string(), v.to_string())),
+			);
+			dict.iter().fold(
+				(0, vec![]),
+				|(mut count, mut word_withspecifiers), (word, spells)| {
+					let withspecifiers = translator(
+						WordSpellsEntry {
+							word: word.to_string(),
+							spells: spells.clone(),
+						},
+						&stringdict,
+						&shuangpin_table,
+					);
+					count += withspecifiers
+						.specified_for_make_word_spells
+						.iter()
+						.fold(0, |count, s| {
+							if let Some(c) = s.chars().nth(3) {
+								if ['.', ','].contains(&c) {
+									count + 1
+								} else {
+									count
+								}
+							} else {
+								count
+							}
+						});
+					word_withspecifiers.push((word.to_owned(), withspecifiers));
+					(count, word_withspecifiers)
+				},
+			)
+		};
+
+		let sorted = with_elapsed_time("sorted", || {
+			// let sort_key = |(nonchain, _)| nonchain;
+
+			// process_permutation_separately(permsetclone, process_perm, sort_key)
+
+			perm_swap_table_process(&swap_dict, takelen_max, |(count, _)| *count, mapf)
+		});
+
+		// let perms = with_elapsed_time("get_permutation",
+		// || perm_swap_table(&swap_dict, swap_perm_len)
+		// );
+		// let _sorted = with_elapsed_time("sort permutations", || {
+
+		// 	let mut tosort = perms.iter()
+		// 		.map(|swap_dict| {
+		// 			dict.iter().fold((0, vec![]), |(mut count, mut word_withspecifiers), (word, spells)| {
+		// 				let withspecifiers = translator(WordSpellsEntry { word: word.to_string(), spells: spells.clone() }, &swap_dict, &shuangpin_table);
+		// 				count += withspecifiers.specified_for_make_word_spells
+		// 					.iter()
+		// 					.fold(0, |count, s| if s.contains(['.', ',']) {count + 1} else {count} );
+		// 				word_withspecifiers.push((word.to_owned(), withspecifiers));
+		// 				(count, word_withspecifiers)
+		// 			})
+
+		// 		})
+		// 		.collect_vec();
+		// 	tosort.sort_by_key(|(nonchain, _)| *nonchain);
+		// 	tosort
+		// });
+
+		for (i, (notchain, js)) in &sorted[0..5] {
+			let allkeys = "qwertyuiopasdfghjklzxcbmnv";
+			let h: HashMap<char, char> = HashMap::from_iter(zip(allkeys.chars(), i.to_owned()));
+
+			let leftend = "tgb";
+			let y = "y";
+			let z = "z";
+			let rightend = "plv";
+
+			let mut s = String::new();
+			let mut is_next_rightstart = false;
+			let mut is_next_leftstart = true;
+			for (k, v) in h.into_iter() {
+				if rightend.contains(k) {
+					s = format!("{s}{k}\n");
+					is_next_leftstart = true;
+				} else if leftend.contains(k) {
+					s = format!("{s}{k} ");
+					is_next_rightstart = true;
+				} else if is_next_rightstart && !y.contains(k) {
+					s = format!("{s} {k}");
+				} else if is_next_leftstart && !z.contains(k) {
+					s = format!("{s} {k}");
+				} else {
+					s += k.to_string().as_str();
+					is_next_rightstart = false;
+					is_next_leftstart = false;
+				}
+			}
+
+			println!("notchain: {notchain}");
+			println!("{}", s);
+		}
+
+		let (_, (notchain, j)) = sorted[0].to_owned();
+
+		let mut init: YongDictSpellWords = HashMap::new();
+		let mut wordpsells = Vec::new();
+		for (word, withspecifieds) in j.into_iter() {
+			let both = [
+				&withspecifieds.other_spells,
+				&withspecifieds.specified_for_make_word_spells,
+			]
+			.into_iter()
+			.flatten();
+			for spell in both {
+				if let Some(mv) = init.get_mut(spell) {
+					// if mv.iter().all(|w| w != &word) {
+					if !mv.contains(&word) {
+						//綴の長さに応じて追加しないようにするかも
+						mv.push(word.clone());
+					}
+				} else {
+					init.insert(spell.clone(), vec![word.clone()]);
+				}
+			}
+			for spell in &withspecifieds.specified_for_make_word_spells {
 				wordpsells.push(("^".to_string() + &spell, vec![word.clone()]));
 			}
 		}
@@ -266,7 +447,11 @@ impl WordSpellsEntry {
 		self.spells.into_iter().map(|ss| ss.spell).collect()
 	}
 
-	fn to_cjmain_with_specifier(self) -> WithMakeWordSpecifier {
+	pub fn to_cjmain_with_specifier<P: AsRef<Path>>(
+		self,
+		swap_dict: &HashMap<String, String>,
+		shuangpin_table: P,
+	) -> WithMakeWordSpecifier {
 		let xxs = self
 			.spells
 			.iter()
@@ -278,7 +463,7 @@ impl WordSpellsEntry {
 		let bihuas = self.get_xxyx_bihuas();
 		let py = get_shuangpin_tone(
 			self.word.chars().next().expect("at least one length word"),
-			"shuang/xiaoque.txt",
+			shuangpin_table,
 		);
 		let py_fix: String = if let Some(py) = py {
 			py.to_string()
@@ -286,7 +471,7 @@ impl WordSpellsEntry {
 			"vva".to_string()
 		};
 
-		let swapdict = to_swap_key_dict("spell/swap-start.txt");
+		// let swapdict = to_swap_key_dict(swap_dict);
 
 		let cjs_len = cjs.clone().count();
 		let specified_require = |spell: &str| {
@@ -303,13 +488,13 @@ impl WordSpellsEntry {
 				let spe: String = cj
 					.spell
 					.chars()
-					.map(|c| swap_key(c.to_string(), &swapdict))
+					.map(|c| swap_key(c.to_string(), &swap_dict))
 					.collect();
 				let fls = fluent_list("spell/fluent.txt");
 				// let nfs = not_fluent_pairs();
 				let mut chs = spe.chars();
 				let first = chs.next().expect("empty spell?");
-				
+
 				let spellfor = if let Some(second) = chs.next() {
 					if let Some(third) = chs.next() {
 						let mut spell = spe.clone();
@@ -318,8 +503,8 @@ impl WordSpellsEntry {
 						let head: String = if is_left_key(second) != is_left_key(third)
 							|| fls.iter().any(|fluent| {
 								(second.to_string() + &third.to_string()).is_prefix_of(&fluent)
-									// || (third.to_string() + &second.to_string()).is_prefix_of(&fluent)
-									// 滑らかな運指は対称ではない。gc:fluent, but cg
+								// || (third.to_string() + &second.to_string()).is_prefix_of(&fluent)
+								// 滑らかな運指は対称ではない。gc:fluent, but cg
 							}) {
 							spell.clone() + "+"
 						} else {

@@ -1,0 +1,62 @@
+each char means cangjie spell char
+
+q w e r t 
+a s d f g 
+	z x c   b 
+
+y u i o p 
+h j k l 
+	m n v 
+
+
+旧配列*入れ替え
+
+p e n i d
+- f h o l
+	c v k   x*
+
+g u y a q*
+j m b r
+	t s w
+
+
+
+g u b a.q
+j m.y r.
+	t s w.
+
+a r w s
+
+
+縦横 l m j g q t y? 
+払い h o k 
+点々 i f c e p?
+折線 n d u v p?
+囲み r a w b s 
+    
+    頻出上位出現数
+縦横 m21 j4 g2 y7 l4 t5 q1
+払い h17 k4 o6
+点々 i8 c1 f4 e0
+折線 n8 d2 u3 v1
+囲み r6 a2 w2 b10 s3
+=> 各指に振分 
+最頻出 hmbnoiy : my ho i n b 
+aq,      ;a=-,q    ;p
+swz,     ;yjt      ;yfc   ;ifk
+dex,     ;         ;hvt   ;mce
+frc gtb, ;b=x, my  ;nek du;oys dg
+jum hy,  ;b        ;brs aw;nru jv 
+kin,     ;hok      ;mig   ;hlt
+lov,     ;ndv      ;ojl   ;baw
+p,       ;p        ;q
+                   ; swap_freq.txt 
+
+y , i + m 
+j , m + l
+
+b, j + j 
+
+a, r + r 
+w, r * 4, a + l 
+

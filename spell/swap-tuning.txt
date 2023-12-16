@@ -1,0 +1,73 @@
+<to> <from, cangjie input key> ( <from> <from> ...)
+j m 
+d h 
+k b 
+l r 
+f o 
+r i 
+e n 
+i y 
+s f 
+m t 
+g l 
+h j 
+u u 
+t d 
+c k 
+n s 
+wx e 
+xe v 
+y g 
+z c 
+q p 
+o a 
+v w 
+b q 
+p x 
+
+frequent
+[hen]
+                      w > x    ;  ;w ;W ,x ,s ,x       ,c ,x ;x             ;x ;
+iv rx x=e,w,s;;              e    ;w ;s ;X ,- ,- ;s             ;e             ;w ;
+vf xs    ew,es,we,se,sx,xs;; ew,es;we;se;XS,cs,cx;sc,se   ,sx   ;es,ew   ,ec   ;we;
+ev ex 饣 ew,es,we,se,sx,xs;; se,we;- ;xs;EX,ec   ;es,xs,cs,es,cs;ce,ce,se,se,we;cw;
+cd 狆 cd,wd,sd             ;;        ;wd      ;wd            ;wd,sd,- ,wd,sd;s ;
+ct 东 st,wt,et             ;;        ;wt      ;wt            ;wt,st   ,wt,st;  ;
+ce 九                                ;wE,we   ;we,wx!wc!we,wc!wc!sc   ,ws!sw!sc
+                                               ok       ok       ok          ok 
+                                                        -o        o-          o-
+st 米                                          ct    et xt xt;st wt          et
+dw 処                                          dx      ,dc,dx                    
+we 200
+wr 190
+wt 160
+ws 73
+
+
+
+rx 620
+fr 493
+fs 180
+er 120
+
+
+ok----
+db 生 > dp 
+
+old
+心水弓丶木
+  火竹人中
+  金女大
+ok
+心大弓丶
+  女竹人
+  金水火
+心大弓丶 女大5 竹弓33 火竹33 火金10 弓火89鰆
+  女竹人
+  金火水
+心火女丶 火大17 女竹30 竹水51 大金15 女水10 <<<< select
+  大竹人
+  金水弓
+心女火丶 女大5 火竹33 竹水51 大金15 水火9
+  大竹人
+  金水弓

@@ -1,5 +1,5 @@
 use std::{
-	collections::HashMap,
+	collections::{HashMap, HashSet},
 	fmt::Debug,
 	fs::File,
 	io::{self, BufRead, BufReader, Lines},
@@ -8,6 +8,7 @@ use std::{
 
 use crate::{
 	d,
+	out::YongDictSpellWords,
 	parser::{
 		read_line_cangjie_def, read_line_custom_add, read_line_swap_key, read_line_xxyx_def,
 		read_line_yong_def, StringStringsDict, StringStringsEntry, YongDef,
@@ -109,6 +110,35 @@ where
 
 pub type YongDictWordSpells = HashMap<String, Vec<SpecifySpelling>>;
 
+pub fn get_yongdictwordspells<I, P>(table_paths: I) -> YongDictWordSpells
+where
+	I: IntoIterator<Item = P>,
+	P: AsRef<Path> + Debug + Copy,
+{
+	let mut m: YongDictWordSpells = HashMap::new();
+	let merged = unions_hashmap(
+		&mut m,
+		table_paths
+			.into_iter()
+			.map(|path| to_yong_dict(path))
+			.into_iter()
+			.collect(),
+	);
+	let deduped: HashMap<String, Vec<SpecifySpelling>> = merged
+		.clone()
+		.into_iter()
+		.map(|(k, v)| {
+			(k, {
+				let h: HashSet<SpecifySpelling> = HashSet::from_iter(v.into_iter());
+				h.into_iter().collect()
+			})
+		})
+		.collect();
+	println!("complete merge dicts");
+
+	deduped
+}
+
 #[derive(Debug)]
 pub struct YongDefGroup {
 	defs: Vec<YongDef>,
@@ -141,6 +171,22 @@ impl YongDefGroup {
 
 pub type LinesBuf = Lines<BufReader<File>>;
 
+pub fn get_yong_defs<P: AsRef<Path>>(path: P) -> Vec<YongDef> {
+	let spelling: YongSpelling = if path_file_or_dict_prefix_match(&path, "xxyx") {
+		YongSpelling::Xxyx
+	} else if path_file_or_dict_prefix_match(&path, "cj") {
+		YongSpelling::Cangjie
+	} else {
+		YongSpelling::Free
+	};
+
+	if let Some(ly) = LinesBufYong::yong_def_part(&path) {
+		ly.collect_yong_defs(spelling)
+	} else {
+		vec![]
+	}
+}
+
 #[derive(Debug)]
 pub struct LinesBufYong {
 	x: LinesBuf,
@@ -153,6 +199,7 @@ impl LinesBufYong {
 			None
 		}
 	}
+
 	fn yong_def_part<P: AsRef<Path>>(path: P) -> Option<Self> {
 		let mut l = read_lines(path);
 

@@ -1,5 +1,6 @@
 use std::collections::HashMap;
 use std::fs::{self, File};
+use std::path::Path;
 use std::{default, slice};
 
 use pinyin::ToPinyin;
@@ -12,7 +13,7 @@ pub fn main() {
 	let py = d!(['見', '的', '得'].map(|c| get_shuangpin_tone(c, filepath)));
 }
 
-pub fn get_shuangpin_tone(c: char, filepath: &str) -> Option<ShuangPinTone> {
+pub fn get_shuangpin_tone<P: AsRef<Path>>(c: char, filepath: P) -> Option<ShuangPinTone> {
 	// let charforpinyin = d!(c);
 	if let Some(c) = c.to_pinyin() {
 		Some(ShuangPinTone::from(
@@ -115,7 +116,7 @@ impl ShuangPinTone {
 			};
 		s
 	}
-	pub fn from(py: &PinyinWithToneNumEnd, tables: &ShuangPinTables) -> Self {
+	fn from(py: &PinyinWithToneNumEnd, tables: &ShuangPinTables) -> Self {
 		let dmac = tables;
 		let (z, m) = py.split_cv();
 		let cs = z.chars().next();
@@ -168,7 +169,7 @@ impl ShuangPinTables {
 		}
 	}
 }
-fn shuangpin_table_parser(filepath: &str) -> ShuangPinTables {
+fn shuangpin_table_parser<P: AsRef<Path>>(filepath: P) -> ShuangPinTables {
 	let lines = read_lines(filepath).expect("existing filepath");
 	let mut tables = ShuangPinTables::new();
 	let res = lines.into_iter().fold(&mut tables, |s, d| {

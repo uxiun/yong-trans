@@ -3,7 +3,7 @@ use std::{
 	collections::HashMap,
 	fmt::Debug,
 	hash::Hash,
-	time::{Duration, Instant},
+	time::{Duration, Instant}, path::Path, fs::{File, OpenOptions}, io::{Read, Write},
 };
 
 use chrono::{DateTime, Local};
@@ -110,8 +110,11 @@ fn sg() {
 		(2, "hi"),
 	];
 	
-	let sorted = sort_groupby(v);
-	dbg!(sorted);
+	let sorted = sort_groupby(v.clone());
+	
+	let s: String = v.into_iter().map(|(i, s)| s.to_string()).collect();
+	
+	dbg!(s);
 }
 
 pub fn cmp_by_len_default(s: &String, d: &String) -> Ordering {
@@ -125,6 +128,31 @@ pub fn cmp_by_len_default(s: &String, d: &String) -> Ordering {
 			}
 		}
 	}
+}
+
+fn insert_at_beginning<P: AsRef<Path> + Clone>(file_path: P, content_to_insert: String) -> std::io::Result<()> {
+	// // Open the file in read mode to read existing content
+	// let mut file = 
+	
+	// File::open(file_path)?;
+	// Open the file in write mode to overwrite with new content
+	let mut file = OpenOptions::new()
+		.write(true)
+		.truncate(true)
+		.open(&file_path)?;
+	
+	// Read existing content
+	let mut existing_content = Vec::new();
+	file.read_to_end(&mut existing_content)?;
+	
+	
+	// Write new content at the beginning
+	file.write_all(content_to_insert.as_bytes())?;
+
+	// Write back the existing content after the new content
+	file.write_all(&existing_content)?;
+
+	Ok(())
 }
 
 pub fn now_string() -> String {

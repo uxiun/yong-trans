@@ -23,9 +23,9 @@ fn main() {
 	// println!("{} ", p);
 
 	// out::main();
-
+	
 	// sta::count_chain_main("table/cj5-20000.txt", true);
-
+	
 	repeat::loop_swap_table_permutation(
 		"shuang/xiaoque.txt",
 		"spell/swap_predefined.txt",

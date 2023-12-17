@@ -2,7 +2,7 @@ use std::{
 	collections::HashMap,
 	ffi::OsStr,
 	fmt::Debug,
-	fs::{self, create_dir, create_dir_all, remove_dir, File, OpenOptions},
+	fs::{self, create_dir, create_dir_all, remove_dir, File, OpenOptions, remove_dir_all},
 	hash::Hash,
 	io::{Error, Write},
 	marker::PhantomData,
@@ -56,9 +56,9 @@ where
 	Sort: Fn((D, T)) -> V,
 	Memo: Fn(D) -> String, // used as suffix of save file path
 	A: Fn(D) -> T,
-	D: Clone + Debug,
-	T: Clone,
-	V: Ord + ToString + Hash + Clone,
+	D: Debug + Clone,
+	T: Debug + Clone,
+	V: Debug + Ord + ToString + Hash + Clone,
 {
 	fn save_at<Pa: AsRef<Path> + Clone>(&self, path: Pa, d: D, t: T) -> std::io::Result<()> {
 		let mut file = File::create_new(path)?;
@@ -70,6 +70,13 @@ where
 	fn save(&self, converts: Vec<&(D, T)>) {
 		let now = Local::now();
 		let dts = sort_groupby(converts.into_iter().map(|dt| ((self.sort)(dt.clone()), dt)));
+		
+		
+		
+		// let vd = dts.clone().into_iter()
+		// 	.map(|(v, vc)| (v, vc.into_iter().map(|(d,t) | d).collect_vec() ))
+		// 	.collect_vec();
+		// dbg!(&vd);
 		
 		if let Some((v, topdts)) = dts.first() {
 			topdts.into_iter().enumerate().for_each(|(i, (d, t))| {
@@ -101,13 +108,30 @@ where
 				.write(true)
 				.open(&self.cursor_path())?;
 			
-			f.write_all((self.memo)(d.to_owned()).as_bytes())
+			let v = (self.sort)((d.clone(), t.clone()));
+			// let s: String = v.to_string() + &(self.memo)(d.to_owned());
+			
+			f.write_all((self.write)(d.to_owned(), t.to_owned()) .as_bytes())
 		} else {
 			Ok(())
 		}
 	}
+
 	
 	pub fn run<Stream: IntoIterator<Item = D>>(&self, stream: Stream, tops: Vec<(Option<V>, D)>) {
+		
+		{
+			let (isallsame, _) = tops.clone().into_iter().fold((true, None) , |(isallsame, last), (o, d)|
+				match (last, o) {
+					(Some(last), Some(v)) => (isallsame && last == v, Some(v)),
+					(_, o) => (isallsame && true, o)
+				}
+			);
+			
+			if !isallsame {
+				println!("tops value is not same.");
+			}
+		}
 		
 		let topconverts = tops
 					.clone()
@@ -150,9 +174,9 @@ where
 	}
 
 	fn init(&self) -> std::io::Result<()> {
-		let _ = File::create_new(&self.archive_path());
-		let _ = File::create_new(&self.cursor_path());
-		let _ = remove_dir(&self.path);
+		File::create_new(&self.archive_path());
+		File::create_new(&self.cursor_path());
+		remove_dir_all(&self.path);
 		create_dir_all(&self.path)
 	}
 
@@ -174,7 +198,10 @@ where
 		let path = &self.archive_path();
 		// let mut f = File::options();
 		// f.append(true);
-		let mut f = OpenOptions::new().append(true).open(path)?;
+		let mut f = OpenOptions::new()
+			.create(true)
+			.append(true)
+			.open(path)?;
 
 		let mut s: String = Iterator::intersperse(
 			tops
@@ -183,12 +210,13 @@ where
 			"\n".to_string(),
 		)
 		.collect();
-
+		
+		// dbg!(&s);
 		s += "\n";
-		f.write(s.as_bytes())?;
+		f.write_all(s.as_bytes())?;
 		Ok(())
 	}
-
+	
 	fn read_tops(&self) -> Vec<(Option<V>, D)> {
 		let savepaths: Vec<PathBuf> = Path::new(&self.path)
 			.read_dir()
@@ -212,13 +240,25 @@ where
 			})
 			.collect()
 	}
+	
+	// fn latest_from_archive(&self) -> Vec<(Option<V>, Option<D>)> {
+	// 	let o: Option<_> = {
+	// 		let archive = fs::read_to_string(self.archive_path()).ok()?;
+			
+	// 		let last = archive.lines().last()?;
+	// 		(self.read)(last.to_string())
+	// 	};
+		
+	// 	if let Some(v) { v }
+	// }
 
 	pub fn restart<Stream: IntoIterator<Item = D>>(&self, stream: Stream) -> std::io::Result<()> {
 		let mut tops = self.read_tops();
-		if let Some(cursor) = self.get_cursor() {
-			tops.push((None, cursor));
-		}
-
+		
+		// if let Some(cursor) = self.get_cursor() {
+		// 	tops.push((None, cursor));
+		// }
+		
 		let is_already_processed = true;
 		let mut now = Instant::now();
 		let mut stream = stream.into_iter().peekable();
@@ -227,8 +267,13 @@ where
 		let mut amongtop = false;
 		loop {
 			if let Some(d) = stream.peek()
-				&& let Some((_, top)) = tops.last()
-				&& !(self.eq)(&d, &top)
+			
+				// && let Some((_, top)) = tops.last()
+				// && !(self.eq)(&d, &top)
+				
+				&& let Some(cursor) = self.get_cursor()
+				&& !(self.eq)(&d, &cursor)
+				
 			{
 				stream.next();
 				skipped += 1.to_biguint().unwrap();
@@ -237,7 +282,7 @@ where
 			}
 		}
 
-		println!("skipped {} perms", skipped);
+		println!("skipped {}", skipped);
 		self.run(stream, tops);
 
 		Ok(())

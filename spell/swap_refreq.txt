@@ -23,4 +23,3 @@ o a
 v w 
 p q 
 b x 
-b z

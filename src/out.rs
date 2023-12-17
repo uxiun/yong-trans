@@ -47,27 +47,27 @@ pub fn main() {
 		.collect();
 	println!("complete merge dicts");
 	let dict = deduped;
-
-	// let mut dict = DictTranslator::Cjmain.flip_word_spells_with_make_word_specifier(
-	// 	dict,
-	// 	"spell/swap_refreq.txt",
-	// 	"shuang/xiaoque.txt",
-	// );
-
-	let mut dict = DictTranslator::Cjmain.explore_swap_and_flip_word_spells(
+	
+	let mut dict = DictTranslator::Cjmain.flip_word_spells_with_make_word_specifier(
 		dict,
-		"spell/swap_predefined.txt",
+		"spell/swap_refreq.txt",
 		"shuang/xiaoque.txt",
-		Err(10),
 	);
-
+	
+	// let mut dict = DictTranslator::Cjmain.explore_swap_and_flip_word_spells(
+	// 	dict,
+	// 	"spell/swap_predefined.txt",
+	// 	"shuang/xiaoque.txt",
+	// 	Err(10),
+	// );
+	
 	// let toadd = DictTranslator::Free.flip_word_spells(
 	// 	from_word_spells_dict("spell/add-short.txt")
 	// );
 	// let dict = unions_hashmap(&mut dict, vec![
 	// 	toadd
 	// ]
-
+	
 	// let sta = d!({
 	// 	let dict: YongDictSpellWords = dict.clone().into_iter().collect();
 	// 	let stas = [
@@ -92,8 +92,8 @@ pub fn main() {
 	// 	}
 	// 	display_hashmap(se)
 	// });
-
-	write_spell_words_dict("table-custom/cjauto-20000.txt", dict.clone());
+	
+	write_spell_words_dict("table-custom/cjrefreq-20000.txt", dict.clone());
 }
 
 pub type YongDictSpellWords = HashMap<String, Vec<String>>;
@@ -446,7 +446,7 @@ impl WordSpellsEntry {
 	fn just_pass_all_spells(self) -> Vec<String> {
 		self.spells.into_iter().map(|ss| ss.spell).collect()
 	}
-
+	
 	pub fn to_cjmain_with_specifier<P: AsRef<Path>>(
 		self,
 		swap_dict: &HashMap<String, String>,
@@ -472,7 +472,7 @@ impl WordSpellsEntry {
 		};
 
 		// let swapdict = to_swap_key_dict(swap_dict);
-
+		
 		let cjs_len = cjs.clone().count();
 		let specified_require = |spell: &str| {
 			if let Some(head) = spell.chars().next() {
@@ -481,7 +481,7 @@ impl WordSpellsEntry {
 				false
 			}
 		};
-
+		
 		let cjfixes: Vec<WithMakeWordSpecifier> = cjs
 			.map(|cj| {
 				let ok_to_add_specified = specified_require(&cj.spell);

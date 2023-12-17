@@ -3,6 +3,8 @@
 
 use std::{collections::HashMap, time::Duration};
 
+use spell::SwapDictChars;
+
 mod kt;
 mod mcr;
 mod out;
@@ -23,16 +25,40 @@ fn main() {
 	// println!("{} ", p);
 
 	// out::main();
-	
+
 	// sta::count_chain_main("table/cj5-20000.txt", true);
-	
-	repeat::loop_swap_table_permutation(
+
+	// repeat::log_swap_table_permutation(
+	// 	"shuang/xiaoque.txt",
+	// 	"spell/swap_predefined.txt",
+	// 	".auto/cj20000z",
+	// 	["table/cj5-20000.txt"],
+	// 	"qwertyuiopsdfghjklzxcbmnv",
+	// 	Duration::from_secs(60 * 3),
+	// 	300,
+	// )
+
+	random_swap_perm()
+}
+
+fn random_swap_perm() {
+	let s = SwapDictChars::new("qwertyuiopasdfghjklzxcbmnv", "spell/swap_base",
+	"z",
+	"a");
+
+	dbg!(s);
+	return;
+	s.perm(
 		"shuang/xiaoque.txt",
-		"spell/swap_predefined.txt",
-		".auto/cj20000z",
 		["table/cj5-20000.txt"],
-		"qwertyuiopsdfghjklzxcbmnv",
-		Duration::from_secs(60 * 3),
-		300,
-	)
+		".auto/cj20000random",
+		3000,
+		20,
+	);
+}
+
+#[test]
+fn lines() {
+	let s = "aaaa\nhwllo\n".lines();
+	dbg!(s.last()); // hwllo
 }

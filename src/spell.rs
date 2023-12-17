@@ -1,9 +1,10 @@
 use std::{
 	collections::HashMap,
 	ffi::OsStr,
-	fs::{self, File},
+	fmt::Debug,
+	fs::{self, File, OpenOptions},
 	hash::Hash,
-	io::{BufWriter, Write},
+	io::{BufWriter, Error, Write},
 	iter::zip,
 	marker::PhantomData,
 	path::Path,
@@ -14,11 +15,13 @@ use chrono::Local;
 use humantime::format_duration;
 use itertools::Itertools;
 use num_bigint::ToBigUint;
+use permutation_iterator::Permutor;
 
 use crate::{
 	d,
-	kt::{read_lines, to_swap_key_dict, YongDictWordSpells},
+	kt::{get_yongdictwordspells, read_lines, to_swap_key_dict, YongDictWordSpells},
 	parser::read_line_alpha_entry,
+	repeat::word_withspecifiers,
 	util::now_string,
 };
 
@@ -343,14 +346,33 @@ pub type PermTargetAndDict = (Vec<char>, HashMap<char, char>);
 
 #[derive(Debug, Clone)]
 pub struct SwapDictChars {
-	pub allchars: Vec<char>,
+	allchars: Vec<char>,
 	pub fromchars: Vec<char>,
 	pub tochars: Vec<char>,
 	pub predefined: HashMap<char, char>,
+	blacklist_to_from: HashMap<char, char>,
 }
 
 impl SwapDictChars {
-	pub fn new<P: AsRef<Path>>(allkeys: &'static str, path: P) -> Self {
+	pub fn index(&self, c: char) -> Option<usize> {
+		self
+			.allchars
+			.iter()
+			.enumerate()
+			.find_map(|(i, d)| if *d == c { Some(i) } else { None })
+	}
+
+	pub fn char_by_index(&self, i: usize) -> Option<char> {
+		self.allchars.get(i).map(|c| *c)
+	}
+
+	pub fn new<P: AsRef<Path>>(allkeys: &'static str, path: P, blacklist_from: &'static str, blacklist_to: &'static str) -> Self {
+		if blacklist_from.len() != blacklist_to.len() {
+			panic!("each blacklist must have same length");
+		}
+
+		let blacklist_map: HashMap<char, char> = zip(blacklist_to.chars(), blacklist_from.chars()).collect();
+
 		let predefined: HashMap<char, char> = to_swap_key_dict(path)
 			.into_iter()
 			.filter_map(|(k, v)| {
@@ -371,12 +393,12 @@ impl SwapDictChars {
 		let tochars = allchars
 			.clone()
 			.into_iter()
-			.filter(|c| !tobans.contains(&c))
+			.filter(|c| !tobans.contains(&c) && !blacklist_to.contains(*c) )
 			.collect_vec();
 		let fromchars: Vec<char> = allchars
 			.clone()
 			.into_iter()
-			.filter(|c| !frombans.contains(&c))
+			.filter(|c| !frombans.contains(&c) && !blacklist_from.contains(*c))
 			.collect_vec();
 
 		Self {
@@ -384,16 +406,25 @@ impl SwapDictChars {
 			tochars,
 			fromchars,
 			predefined,
+			blacklist_to_from: blacklist_map
 		}
 	}
 
-	pub fn restruct_swap_dict(self, perm: &Vec<char>) -> HashMap<char, char> {
+	pub fn restruct_swap_dict(&self, perm: &Vec<char>) -> HashMap<char, char> {
 		let mut selectedmap: HashMap<char, char> =
-			HashMap::from_iter(zip(self.tochars, self.fromchars.clone()));
+			HashMap::from_iter(zip(self.tochars.clone(), self.fromchars.clone()));
 
-		let mut h = HashMap::from_iter(zip(self.fromchars, perm.to_owned()));
+		// let trans = perm.into_iter()
+		// 	.map(|c| {
+		// 		self.blacklist_to_from.get(c)
+		// 		.unwrap_or(c)
+		// 		.to_owned()
+		// 	})
+		// 	;
 
-		h.extend(self.predefined);
+		let mut h = HashMap::from_iter(zip(self.fromchars.clone(), perm.clone()));
+
+		h.extend(self.predefined.clone());
 
 		h
 	}
@@ -407,22 +438,217 @@ impl SwapDictChars {
 	}
 }
 
-#[test]
-fn restruct() {
-	let s = SwapDictChars::new("qwertyuiopasdfghjklzxcbmnv", "spell/swap_predefined.txt");
+struct PermutorConverter<F, T> {
+	fromU64: F,
+	toU64: T,
+}
 
-	dbg!(&s);
-	let perm = &s.permutations().next().unwrap();
-	let all = s.allchars.clone();
-	let len = all.len();
-	let d = s.restruct_swap_dict(perm);
-	dbg!(&d);
-	for c in all {
-		if !d.contains_key(&c) {
-			dbg!(c);
+impl<FromU64, ToU64, T> PermutorConverter<FromU64, ToU64>
+where
+	FromU64: Fn(u64) -> T,
+	ToU64: Fn(T) -> u64,
+{
+	fn perm(&self, max: u64) -> Vec<T> {
+		let perms = Permutor::new(max);
+		perms.map(&self.fromU64).collect_vec()
+	}
+
+	fn action<M, U>(&self, max: u64, map: M) -> U
+	where
+		M: Fn(Vec<T>) -> U,
+	{
+		map(self.perm(max))
+	}
+
+	fn results<M, U, F>(
+		&self,
+		max: u64,
+		map: M,
+		// accum: Fv,
+		stopper: F,
+	) -> Vec<U>
+	where
+		M: Fn(Vec<T>) -> U,
+		// Fv: Fn(Vec<U>) -> V,
+		F: Fn(&Vec<U>) -> bool,
+	{
+		let mut results = vec![];
+		while !stopper(&results) {
+			let u = self.action(max, &map);
+			results.push(u);
+		}
+		results
+	}
+
+	fn repeat<M, U, F, A>(&self, max: u64, map: M, stopper: F, and: A)
+	where
+		M: Fn(Vec<T>) -> U,
+		F: Fn(&Vec<U>) -> bool,
+		A: Fn(Vec<U>) -> bool,
+	{
+		loop {
+			let res = self.results(max, &map, &stopper);
+			if and(res) {
+				// self.repeat(max, map, stopper, and)
+			} else {
+				// println!("break loop");
+				break;
+			}
 		}
 	}
-	assert_eq!(len, d.len());
+}
+
+struct FileAction<P, Save, Load> {
+	save: Save,
+	load: Load,
+	path: P,
+}
+
+impl<P, Save, Load, D> FileAction<P, Save, Load>
+where
+	P: AsRef<Path>,
+	Save: Fn(D) -> String,
+	Load: Fn(String) -> D,
+{
+	pub fn save(&self, data: D) -> std::io::Result<()> {
+		let s = (self.save)(data);
+		// let f = File::open(&self.path)?;
+		let f = OpenOptions::new()
+			.create(true)
+			.write(true)
+			.open(&self.path)?;
+		let mut f = BufWriter::new(f);
+		f.write_all(s.as_bytes())?;
+		f.flush()
+	}
+
+	pub fn append(&self, data: D) -> std::io::Result<()> {
+		let s = (self.save)(data);
+		// let f = File::open(&self.path)?;
+		let f = OpenOptions::new()
+			.create(true)
+			.append(true)
+			.open(&self.path)?;
+		let mut f = BufWriter::new(f);
+		f.write_all(s.as_bytes())?;
+		f.flush()
+	}
+
+	pub fn load(&self) -> Result<D, Error> {
+		let s = fs::read_to_string(&self.path);
+
+		s.map(&self.load)
+	}
+}
+
+impl SwapDictChars {
+	pub fn perm<P, I>(
+		&self,
+		shuangpin_table: P,
+		table_paths: I,
+		save_path: P,
+		nonchain_goal: usize,
+		process_perm_chunk: usize,
+	) where
+		I: IntoIterator<Item = P>,
+		P: AsRef<Path> + Clone + Debug + Copy,
+	{
+		let max = self.tochars.len() as u64;
+
+		let fromU = |u: u64| self.tochars.get(u as usize).unwrap().to_owned();
+
+		let toU = |c: char| self.tochars.iter().find_position(|d| **d == c).unwrap().0 as u64;
+
+		let dict = get_yongdictwordspells(table_paths);
+
+		type ScoredResult = (usize, Vec<(String, crate::out::WithMakeWordSpecifier)>);
+		type WithPerm = (Vec<char>, ScoredResult);
+
+		let map = |d: Vec<char>| -> WithPerm {
+			let swap_dict = self.restruct_swap_dict(&d);
+			let scored = word_withspecifiers(swap_dict, &dict, shuangpin_table.clone());
+
+			(d, scored)
+		};
+
+		let stopper = |results: &Vec<WithPerm>| results.len() >= process_perm_chunk;
+
+		let and = |results: Vec<WithPerm>| {
+			type ScoredPerm = (usize, Vec<char>);
+			let load = |s: String| -> Vec<ScoredPerm> {
+				s.lines()
+					.filter_map(|l| {
+						let mut cols = l.split("\t");
+						let score = cols
+							.next()
+							.map(|s| usize::from_str_radix(s, 10).ok())
+							.flatten()?;
+						let perm = cols.next().map(|s| s.chars().collect())?;
+
+						Some((score, perm))
+					})
+					.collect()
+			};
+
+			let save = |scoreds: Vec<ScoredPerm>| -> String {
+				Itertools::intersperse(scoreds
+					.into_iter()
+					.map(|(score, perm)| score.to_string() + "\t" + &perm.into_iter().collect::<String>()), "\n".to_string())
+					.collect::<String>()
+				+ "\n"
+			};
+
+			let fa = FileAction {
+				load,
+				save,
+				path: save_path,
+			};
+
+			let mut data: Vec<ScoredPerm> = results
+				.into_iter()
+				.map(|(perm, (score, dict))| (score, perm))
+				.collect();
+
+			data.sort_by_key(|(score, _)| *score);
+
+			let (top_score, efficient_perms) = {
+				let mut most_effs = vec![];
+				let mut last_score = None;
+				for (score, perm) in data.iter() {
+					if last_score.map(|s| s == score).unwrap_or(true) {
+						most_effs.push(perm);
+						last_score = Some(score);
+					} else {
+						break;
+					}
+				}
+
+				(last_score, most_effs)
+			};
+
+			// print
+			if let Some(score) = top_score {
+				println!("{score}");
+				for perm in efficient_perms {
+					let s: String = perm.into_iter().collect();
+					println!("  {s}");
+				}
+			}
+			let continu = top_score.map(|s| *s > nonchain_goal).unwrap_or(true);
+
+			if let Err(e) = fa.append(data) {
+				print!("error occured while save: {e}");
+			}
+
+			continu
+		};
+
+		PermutorConverter {
+			fromU64: fromU,
+			toU64: toU,
+		}
+		.repeat(self.tochars.len() as u64, map, stopper, and);
+	}
 }
 
 pub fn restruct_swap_dict<P: AsRef<Path>>(

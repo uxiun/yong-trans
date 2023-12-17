@@ -2,8 +2,11 @@ use std::{
 	cmp::Ordering,
 	collections::HashMap,
 	fmt::Debug,
+	fs::{File, OpenOptions},
 	hash::Hash,
-	time::{Duration, Instant}, path::Path, fs::{File, OpenOptions}, io::{Read, Write},
+	io::{Read, Write},
+	path::Path,
+	time::{Duration, Instant},
 };
 
 use chrono::{DateTime, Local};
@@ -103,17 +106,12 @@ where
 
 #[test]
 fn sg() {
-	let v = vec![
-		(5, "hello"),
-		(2, "ai"),
-		(3, "shy"),
-		(2, "hi"),
-	];
-	
+	let v = vec![(5, "hello"), (2, "ai"), (3, "shy"), (2, "hi")];
+
 	let sorted = sort_groupby(v.clone());
-	
+
 	let s: String = v.into_iter().map(|(i, s)| s.to_string()).collect();
-	
+
 	dbg!(s);
 }
 
@@ -130,22 +128,24 @@ pub fn cmp_by_len_default(s: &String, d: &String) -> Ordering {
 	}
 }
 
-fn insert_at_beginning<P: AsRef<Path> + Clone>(file_path: P, content_to_insert: String) -> std::io::Result<()> {
+fn insert_at_beginning<P: AsRef<Path> + Clone>(
+	file_path: P,
+	content_to_insert: String,
+) -> std::io::Result<()> {
 	// // Open the file in read mode to read existing content
-	// let mut file = 
-	
+	// let mut file =
+
 	// File::open(file_path)?;
 	// Open the file in write mode to overwrite with new content
 	let mut file = OpenOptions::new()
 		.write(true)
 		.truncate(true)
 		.open(&file_path)?;
-	
+
 	// Read existing content
 	let mut existing_content = Vec::new();
 	file.read_to_end(&mut existing_content)?;
-	
-	
+
 	// Write new content at the beginning
 	file.write_all(content_to_insert.as_bytes())?;
 

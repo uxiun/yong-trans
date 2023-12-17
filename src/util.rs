@@ -1,11 +1,12 @@
 use std::{
 	cmp::Ordering,
 	collections::HashMap,
-	fmt::Debug,
+	fmt::{format, Debug},
 	fs::{File, OpenOptions},
 	hash::Hash,
 	io::{Read, Write},
 	path::Path,
+	process::Command,
 	time::{Duration, Instant},
 };
 
@@ -14,6 +15,16 @@ use humantime::format_duration;
 use itertools::Itertools;
 use nom::Parser;
 use num_bigint::{BigUint, ToBigUint};
+
+pub fn hashmap_flip<K,V>(h: &HashMap<K,V>) -> HashMap<&V,&K>
+where
+	K: Hash + Eq,
+	V: Hash + Eq,
+{
+	h.into_iter()
+	.map(|(k,v)| (v,k))
+	.collect()
+}
 
 pub fn hashmap_flip_flatten<K, L>(
 	// base: &mut HashMap<<L as IntoIterator>::Item, K>,
@@ -125,6 +136,25 @@ pub fn cmp_by_len_default(s: &String, d: &String) -> Ordering {
 				Ordering::Greater
 			}
 		}
+	}
+}
+
+pub fn command_exe(cmd: &str, args: &[&str]) -> Option<String> {
+	let s: String = cmd.to_string()
+		+ " "
+		+ &Itertools::intersperse(args.into_iter(), &" ")
+			.map(|s| s.to_string())
+			.collect::<String>();
+
+	dbg!(&s);
+	let output = Command::new(cmd).args(args).output();
+	match output {
+		Err(e) => {
+			println!("{e}");
+			println!("failed to execute: {}", s);
+			None
+		}
+		Ok(output) => String::from_utf8(output.stdout).ok(),
 	}
 }
 

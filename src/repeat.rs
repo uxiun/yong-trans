@@ -394,7 +394,7 @@ pub fn loop_swap_table_permutation<P, Q, I>(
 	Q: AsRef<Path> + Copy + Debug,
 	I: IntoIterator<Item = Q>,
 {
-	let swaps = SwapDictChars::new(allkeys, swappath.clone());
+	let swaps = SwapDictChars::new(allkeys, swappath.clone(), "z", "a");
 
 	// dbg!(&swaps);
 
@@ -507,7 +507,7 @@ pub fn log_swap_table_permutation<P, Q, I>(
 	Q: AsRef<Path> + Copy + Debug,
 	I: IntoIterator<Item = Q>,
 {
-	let swaps = SwapDictChars::new(allkeys, swappath.clone());
+	let swaps = SwapDictChars::new(allkeys, swappath.clone(), "z", "a");
 
 	// dbg!(&swaps);
 

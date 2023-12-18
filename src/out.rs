@@ -21,7 +21,7 @@ use std::{
 	u32,
 };
 
-pub fn main() {
+pub fn main<P: AsRef<Path>, Q: AsRef<Path>>(save_path: P, swap_path: Q) {
 	let mut m: YongDictWordSpells = HashMap::new();
 	let merged = unions_hashmap(
 		&mut m,
@@ -50,7 +50,8 @@ pub fn main() {
 
 	let mut dict = DictTranslator::Cjmain.flip_word_spells_with_make_word_specifier(
 		dict,
-		"spell/swap_refreq.txt",
+		// "spell/swap_refreq.txt",
+		swap_path,
 		"shuang/xiaoque.txt",
 	);
 
@@ -93,7 +94,14 @@ pub fn main() {
 	// 	display_hashmap(se)
 	// });
 
-	write_spell_words_dict("table-custom/cjrefreq-20000.txt", dict.clone());
+
+	if let Err(e) = write_spell_words_dict(
+		// "table-custom/cjrefreq-20000.txt",
+		save_path,
+		dict.clone(),
+	) {
+		println!("write_spell_words_dict err: {}", e);
+	}
 }
 
 pub type YongDictSpellWords = HashMap<String, Vec<String>>;
@@ -103,6 +111,7 @@ where
 	P: AsRef<Path>,
 {
 	println!("start creating your table!");
+
 	let file = File::create(path)?;
 	// let mut file = LineWriter::new(file);
 	let mut file = BufWriter::new(file);
@@ -182,11 +191,11 @@ pub struct WithMakeWordSpecifier {
 }
 
 impl DictTranslator {
-	fn flip_word_spells_with_make_word_specifier<P: AsRef<Path>>(
+	fn flip_word_spells_with_make_word_specifier<P: AsRef<Path>, Q: AsRef<Path>>(
 		&self,
 		dict: YongDictWordSpells,
 		swap_dict: P,
-		shuangpin_table: P,
+		shuangpin_table: Q,
 	) -> Vec<(String, Vec<String>)> {
 		let translator = match self {
 			Self::Cjmain => WordSpellsEntry::to_cjmain_with_specifier,

@@ -2,7 +2,7 @@
 #[macro_export]
 macro_rules! d {
 	($x:expr) => {
-		dbg!($x)
+		dbg!(&$x)
 	};
 }
 

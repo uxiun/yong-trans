@@ -16,14 +16,12 @@ use itertools::Itertools;
 use nom::Parser;
 use num_bigint::{BigUint, ToBigUint};
 
-pub fn hashmap_flip<K,V>(h: &HashMap<K,V>) -> HashMap<&V,&K>
+pub fn hashmap_flip<K, V>(h: &HashMap<K, V>) -> HashMap<&V, &K>
 where
 	K: Hash + Eq,
 	V: Hash + Eq,
 {
-	h.into_iter()
-	.map(|(k,v)| (v,k))
-	.collect()
+	h.into_iter().map(|(k, v)| (v, k)).collect()
 }
 
 pub fn hashmap_flip_flatten<K, L>(

@@ -23,7 +23,7 @@ use crate::{
 	out::{spell_words_dict_tostring, WithMakeWordSpecifier, YongDictSpellWords},
 	parser::read_line_alpha_entry,
 	repeat::word_withspecifiers,
-	util::{now_string, hashmap_flip},
+	util::{hashmap_flip, now_string},
 };
 
 pub fn main() {
@@ -450,44 +450,42 @@ struct PermutorConverter<F, T> {
 	toU64: T,
 }
 
-struct PermSpecify<It,Iu> {
+struct PermSpecify<It, Iu> {
 	specials: It,
 	positions: Iu,
 }
 
-
 pub fn pure_perm<T>(items: &[T]) -> Vec<&T> {
-	Permutor::new(items.len() as u64).map(|u| items.get(u as usize).unwrap() ).collect()
+	Permutor::new(items.len() as u64)
+		.map(|u| items.get(u as usize).unwrap())
+		.collect()
 }
 
 impl<FromU64, ToU64, T> PermutorConverter<FromU64, ToU64>
 where
 	FromU64: Fn(u64) -> T,
 	ToU64: Fn(T) -> u64,
-	T: Clone
+	T: Clone,
 {
-
-	fn perm_specify<N>(&self, normals: &[T],
-
-		specials_slots: &[(Vec<T>, Vec<N>)],)
-	-> Vec<T>
+	fn perm_specify<N>(&self, normals: &[T], specials_slots: &[(Vec<T>, Vec<N>)]) -> Vec<T>
 	where
 		// T: Debug,
-		N: Eq + Copy + From<usize> + Into<usize> + Hash
-	// where I: IntoIterator<Item = T>,
+		N: Eq + Copy + From<usize> + Into<usize> + Hash, // where I: IntoIterator<Item = T>,
 	{
-		let special_map : HashMap<N, T> = specials_slots
+		let special_map: HashMap<N, T> = specials_slots
 			.into_iter()
-			.filter_map(|(specials, slots)| if specials.len() == slots.len() {
-				let specialmix = self.perm(specials.len() as u64);
+			.filter_map(|(specials, slots)| {
+				if specials.len() == slots.len() {
+					let specialmix = self.perm(specials.len() as u64);
 
-				// let z: HashMap<N, T> = zip(slots.into_iter().map(|s| *s), specialmix).collect();
-				// Some(z.into_iter())
+					// let z: HashMap<N, T> = zip(slots.into_iter().map(|s| *s), specialmix).collect();
+					// Some(z.into_iter())
 
-				Some(
-					zip(slots.into_iter().map(|s| *s) , specialmix)
-				)
-			} else {None})
+					Some(zip(slots.into_iter().map(|s| *s), specialmix))
+				} else {
+					None
+				}
+			})
 			.flatten()
 			.collect();
 
@@ -510,9 +508,7 @@ where
 
 			let k = match k {
 				Some(s) => s,
-				None =>
-					noraml_iter.next().unwrap().clone()
-
+				None => noraml_iter.next().unwrap().clone(),
 			};
 
 			v.push(k);
@@ -531,12 +527,14 @@ where
 		// 		}.next().unwrap()
 		// 	}
 		// ).collect()
-
-
 	}
 
-	fn action_specify<M, U, N>(&self, max: u64, map: M, normals: &[T],
-		specials_slots: &[(Vec<T>, Vec<N>)]
+	fn action_specify<M, U, N>(
+		&self,
+		max: u64,
+		map: M,
+		normals: &[T],
+		specials_slots: &[(Vec<T>, Vec<N>)],
 	) -> U
 	where
 		N: Eq + Copy + From<usize> + Into<usize> + Hash,
@@ -552,7 +550,7 @@ where
 		// accum: Fv,
 		stopper: F,
 		normals: &[T],
-		specials_slots: &[(Vec<T>, Vec<N>)]
+		specials_slots: &[(Vec<T>, Vec<N>)],
 	) -> Vec<U>
 	where
 		M: Fn(Vec<T>) -> U,
@@ -568,14 +566,20 @@ where
 		results
 	}
 
-	fn repeat_specify<M, U, F, A, N>(&self, max: u64, map: M, stopper: F, and: A, normals: &[T], specials_slots: &[(Vec<T>, Vec<N>) ])
-	where
+	fn repeat_specify<M, U, F, A, N>(
+		&self,
+		max: u64,
+		map: M,
+		stopper: F,
+		and: A,
+		normals: &[T],
+		specials_slots: &[(Vec<T>, Vec<N>)],
+	) where
 		M: Fn(Vec<T>) -> U,
 		F: Fn(&Vec<U>) -> bool,
 		A: Fn(Vec<U>) -> bool,
-		N: Eq + Copy + From<usize> + Into<usize> + Hash
+		N: Eq + Copy + From<usize> + Into<usize> + Hash,
 	{
-
 		loop {
 			let now = Instant::now();
 			let res = self.results_specify(max, &map, &stopper, normals, specials_slots);
@@ -588,7 +592,6 @@ where
 			println!("{}", format_duration(now.elapsed()));
 		}
 	}
-
 }
 
 impl<FromU64, ToU64, T> PermutorConverter<FromU64, ToU64>
@@ -600,10 +603,6 @@ where
 		let perms = Permutor::new(max);
 		perms.map(&self.fromU64).collect_vec()
 	}
-
-
-
-
 
 	fn action<M, U>(&self, max: u64, map: M) -> U
 	where
@@ -754,14 +753,15 @@ impl SwapDictChars {
 	}
 
 	fn specify(&self, specials_slots: &[(&str, &str)]) -> (Vec<char>, Vec<(Vec<char>, Vec<usize>)>) {
-		specials_slots.into_iter()
-		.fold((vec![], vec![]), |(mut specialchars, mut ss), (specials, slots)| {
-			specialchars.extend(specials.chars());
-			let slot_indice = slots.chars().filter_map(|c| self.index(c)).collect_vec();
-			ss.push((specials.chars().collect(), slot_indice));
-			(specialchars, ss)
-
-		})
+		specials_slots.into_iter().fold(
+			(vec![], vec![]),
+			|(mut specialchars, mut ss), (specials, slots)| {
+				specialchars.extend(specials.chars());
+				let slot_indice = slots.chars().filter_map(|c| self.index(c)).collect_vec();
+				ss.push((specials.chars().collect(), slot_indice));
+				(specialchars, ss)
+			},
+		)
 	}
 
 	pub fn perm<P, Q, I>(
@@ -778,10 +778,12 @@ impl SwapDictChars {
 		Q: AsRef<Path> + Clone + Debug + Copy,
 	{
 		let (specialchars, specials_slots) = self.specify(specials_slots);
-		let normalchars: Vec<char> = self.tochars.iter().filter(|c| !specialchars.contains(c) )
+		let normalchars: Vec<char> = self
+			.tochars
+			.iter()
+			.filter(|c| !specialchars.contains(c))
 			.map(|c| *c)
 			.collect();
-
 
 		let max = self.tochars.len() as u64;
 
@@ -885,7 +887,6 @@ impl SwapDictChars {
 		if specials_slots.len() > 0 {
 			permutor.repeat_specify(max, map, stopper, and, &normalchars, &specials_slots)
 		} else {
-
 			permutor.repeat(max, map, stopper, and);
 		}
 	}
@@ -1101,7 +1102,6 @@ where
 pub type ScoredPerm = (usize, Vec<char>);
 
 pub fn parse_score_perms(src: String) -> Vec<ScoredPerm> {
-
 	src
 		.lines()
 		.filter_map(|l| {
@@ -1134,7 +1134,7 @@ pub fn swap_table_quickcheck(src: String) {
 		.map(|(score, perm)| (score, swap.restruct_swap_dict(&perm), perm))
 	{
 		let pretty = swap_table_tostring(swap_table);
-		let permstr : String = perm.into_iter().collect();
+		let permstr: String = perm.into_iter().collect();
 		println!("↓ {score} {}", permstr);
 		println!("{}", pretty);
 	}
@@ -1180,21 +1180,28 @@ fn swap_table_tostring(swap_table: HashMap<char, char>) -> String {
 	let z = "z";
 	let rightend = "plv";
 
-	let slot = [
-		["qwert ", "yuiop"],
-		["asdfg ", "hjkl"],
-		[" zxc b", " mnv"],
-	];
+	let slot = [["qwert ", "yuiop"], ["asdfg ", "hjkl"], [" zxc b", " mnv"]];
 
-
-	Itertools::intersperse(slot.into_iter().map(|line| {
-		line.into_iter().map(|s| s.chars().map(|c|
-			hashmap_flip(&swap_table).get(&c)
-			.map(|cjkey| h.get(cjkey))
-			.flatten()
-			.unwrap_or(&'　')).collect::<String>() ).collect()
-
-	}), "\n".to_string()).collect()
+	Itertools::intersperse(
+		slot.into_iter().map(|line| {
+			line
+				.into_iter()
+				.map(|s| {
+					s.chars()
+						.map(|c| {
+							hashmap_flip(&swap_table)
+								.get(&c)
+								.map(|cjkey| h.get(cjkey))
+								.flatten()
+								.unwrap_or(&'　')
+						})
+						.collect::<String>()
+				})
+				.collect()
+		}),
+		"\n".to_string(),
+	)
+	.collect()
 
 	// let mut s = String::new();
 	// let mut is_next_rightstart = false;

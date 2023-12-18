@@ -4,9 +4,11 @@
 use std::{
 	collections::HashMap,
 	env::{self, Args},
+	fmt::Debug,
+	io,
 	path::Path,
 	process::{Command, Stdio},
-	time::Duration, fmt::Debug,
+	time::Duration,
 };
 
 use itertools::Itertools;
@@ -52,13 +54,23 @@ fn main() {
 	match args.next() {
 		None => println!("no subcommand was given"),
 		Some(command) => match command.as_str() {
+			"out" => out(&mut args),
 			"random" => random_swap_perm(),
 			"rg" => rg(&mut args),
+			"perm" => perm_restruct_cli(&mut args),
 			other => {
 				println!("Unknown command: {other}");
 			}
 		},
 	}
+}
+
+fn out(args: &mut Args) {
+	let swap_path = args.next().unwrap();
+	let save_path = args.next().unwrap_or(format!(".table/{}", swap_path));
+	d!(save_path);
+	d!(swap_path);
+	out::main(&save_path, &swap_path)
 }
 
 fn rg(args: &mut Args) {
@@ -108,6 +120,25 @@ fn perm_restruct() {
 	//OKOKOK saved score matches output file!
 }
 
+fn perm_restruct_cli(args: &mut Args) {
+	// let perm = "cmntkodxhlfviwruzgyejs".chars().collect_vec();
+	let permarg = args.next().unwrap();
+	let perm = permarg.chars().collect_vec();
+	let swap = SwapDictChars::new("qwertyuiopasdfghjklzxcbmnv", "spell/swap_base", "z", "a");
+
+	let save_path = format!(".auto/cj20000perm/{}", permarg);
+
+	swap.write_perm_dict(
+		&perm,
+		"shuang/xiaoque.txt",
+		["table/cj5-20000.txt"],
+		// ".auto/cj20000random-cmn",
+		&save_path,
+	);
+
+	//OKOKOK saved score matches output file!
+}
+
 // fn cj_perm_write_dict<P,I>(
 // 	perm: &'static str,
 // 	table_paths: I,
@@ -131,10 +162,7 @@ fn perm_restruct() {
 fn random_swap_perm() {
 	let s = SwapDictChars::new("qwertyuiopasdfghjklzxcbmnv", "spell/swap_base", "z", "a");
 
-	let specials = [
-		("mhboin", "sdfjkl")
-	];
-
+	let specials = [("mhboin", "sdfjkl")];
 
 	random_perm_specialize_name(
 		".auto/cj20000specify.random",
@@ -143,11 +171,11 @@ fn random_swap_perm() {
 		3000,
 		20,
 		s,
-		&specials
+		&specials,
 	);
 }
 
-fn random_perm_specialize_name<P,I>(
+fn random_perm_specialize_name<P, I>(
 	save_path_base: &str,
 	shuangpin_table: P,
 	table_paths: I,
@@ -155,8 +183,7 @@ fn random_perm_specialize_name<P,I>(
 	process_perm_chunk: usize,
 	sdc: SwapDictChars,
 	special_slots: &[(&str, &str)],
-)
-where
+) where
 	I: IntoIterator<Item = P>,
 	P: AsRef<Path> + Debug + Clone + Copy,
 {
@@ -173,19 +200,23 @@ where
 }
 
 fn special_name(base: &str, specials: &[(&str, &str)]) -> String {
-	let mut sorted = specials.into_iter().map(|(s,d)| {
-		let mut sc: Vec<char> = s.chars().collect();
-		let mut dc: Vec<char> = d.chars().collect();
-		sc.sort();
-		dc.sort();
-		let s: String = sc.into_iter().collect();
-		let d: String = dc.into_iter().collect();
-		(s, d)
-	}).collect::<Vec<_>>();
+	let mut sorted = specials
+		.into_iter()
+		.map(|(s, d)| {
+			let mut sc: Vec<char> = s.chars().collect();
+			let mut dc: Vec<char> = d.chars().collect();
+			sc.sort();
+			dc.sort();
+			let s: String = sc.into_iter().collect();
+			let d: String = dc.into_iter().collect();
+			(s, d)
+		})
+		.collect::<Vec<_>>();
 	sorted.sort();
-	
-	let s: String = sorted.into_iter()
-		.map(|(cjs, keys) | format!("-{}_{}", cjs, keys) )
+
+	let s: String = sorted
+		.into_iter()
+		.map(|(cjs, keys)| format!("-{}_{}", cjs, keys))
 		.collect();
 	base.to_string() + &s
 }

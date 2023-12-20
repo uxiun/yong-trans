@@ -11,13 +11,15 @@ use std::{
 	time::Duration,
 };
 
-use chain::{loopperm, restruct_keytocjchar_and_write, tryfrom_args_to_specs, loopperm_spec};
+use chain::{loopperm, restruct_keytocjchar_and_write, tryfrom_args_to_specs, loopperm_spec, read_loglines_prettyprint};
+use command::rg_sort_head;
 use itertools::Itertools;
 use repeat::word_withspecifiers;
 use spell::{swap_table_quickcheck, SwapDictChars};
-use util::command_exe;
+use util::{command_exe, print_error};
 
 mod chain;
+mod command;
 mod kt;
 mod mcr;
 mod out;
@@ -57,7 +59,9 @@ fn main() {
 		None => println!("no subcommand was given"),
 		Some(command) => match command.as_str() {
 			"out" => out(&mut args),
-			"rg" => rg(&mut args),
+			"rg" => {
+				rg(&mut args);
+			}
 			// "random" => random_swap_perm(&mut args),
 			// "perm" => perm_restruct_cli(&mut args),
 			"l" => loop_by(&mut args),
@@ -83,13 +87,14 @@ fn loop_by(args: &mut Args) {
 
 fn write_from(args: &mut Args) {
 	let a = args.next();
-	let s: String = args.into_iter().collect();
 	if let Some(a) = a {
 		match a.as_str() {
 			"level" => {
+				let s: String = args.into_iter().join(" ");
 				if let Err(e) = restruct_keytocjchar_and_write(&s) {
 					println!("{e}");
 				}
+
 			}
 			m => {
 				println!("unknown : {}", m);
@@ -138,7 +143,41 @@ fn out(args: &mut Args) {
 	out::main(&save_path, &swap_path)
 }
 
-fn rg(args: &mut Args) {
+
+
+fn rg(args: &mut Args)-> Result<(),&'static str> {
+	if let Some(a) = args.next() {
+		match a.as_str() {
+			"old" => {
+				rg_old(args);
+			},
+			"level" => {
+				let r: Result<(), &str> = {
+					let head_n = args.next().ok_or("need head_n")?;
+					let head_n = print_error(
+						usize::from_str_radix(&head_n, 10)
+					).ok_or("")?;
+					let path = args.next().ok_or("need path")?;
+					let lines = rg_sort_head(&path, head_n).ok_or("none")?;
+					Ok(
+						read_loglines_prettyprint(&lines)
+					)
+				};
+				print_error(r);
+			}
+			o => {
+				println!("unknown command: {}", o)
+			}
+		}
+	} else {
+		println!("need command");
+	}
+
+	Ok(())
+}
+
+
+fn rg_old(args: &mut Args) {
 	let target_path = args.next().unwrap_or(".auto/cj20000random".to_string());
 
 	let mut rg = Command::new("rg")

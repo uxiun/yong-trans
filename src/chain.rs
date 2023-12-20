@@ -1,7 +1,7 @@
 use std::{
 	collections::HashMap,
 	fmt::{Debug, Display},
-	fs::{self, File, OpenOptions},
+	fs::{self, File, OpenOptions, create_dir},
 	io::{self, BufWriter, Write},
 	iter::zip,
 	ops::Not,
@@ -77,15 +77,12 @@ where
 	let content = fs::read_to_string(path)?;
 	let stats = get_swap_stats(&content)?;
 
-	let predefined: HashMap<char, char> = HashMap::from_iter([('q', 'p'),('a', 'z'), ('b', 'x'), ('p', 'q')]);
 	let allchars = "qwertyuiopasdfghjklzxcbmnv";
 	let keys = allchars
 		.chars()
-		.filter(|c| !predefined.contains_key(c))
 		.collect_vec();
 	let vars = allchars
 		.chars()
-		.filter(|c| predefined.values().contains(c).not())
 		.collect_vec();
 
 	leveled_perm_spec(
@@ -170,7 +167,7 @@ where
 			let log = Log {
 				keytochar: keytochar.to_owned(),
 				score,
-				yongpaths: yongpaths.clone(),
+				yongpaths: yong_source_tables.clone().into_iter().map(|p| p.to_string()).collect(),
 			};
 
 			// let line = format!("{} {} {}", score, keytocjchar_tostring(keytochar), yongpath_string);
@@ -250,7 +247,7 @@ where
 			let log = Log {
 				keytochar: keytochar.to_owned(),
 				score,
-				yongpaths: yongpaths.clone(),
+				yongpaths: yong_source_tables.clone().into_iter().map(|s| s.to_string()).collect(),
 			};
 
 			// let line = format!("{} {} {}", score, keytocjchar_tostring(keytochar), yongpath_string);
@@ -275,21 +272,24 @@ where
 }
 
 pub fn restruct_keytocjchar_and_write(
+	// yong_path_dir: &str,
 	logline: &str,
 ) -> io::Result<()>
 {
 	match Log::try_from(logline) {
 		Ok(log) => {
 
-			let mut paths =log.yongpaths;
+			// let mut paths =log.yongpaths.into_iter().map(|name| yong_path_dir.to_string()+ &name ).collect_vec();
+			let mut paths = log.yongpaths.iter().map(|path| get_filename(path)).collect_vec();
 			paths.sort();
+			create_dir(".out");
 			let save_path = format!(
-				"{}-keytochar:{}",
+				".out/{}-keytochar:{}",
 				paths.join("_"),
 				keytocjchar_tostring(&log.keytochar)
 			);
 
-			let yongdict = get_yongdictwordspells(paths);
+			let yongdict = get_yongdictwordspells(log.yongpaths);
 
 			let swap_dict = &charchar_to_swap_dict(&log.keytochar);
 
@@ -394,7 +394,7 @@ pub fn write_extra_scored_withspecifier<P: AsRef<Path>>(
 		.write(true)
 		.open(save_path)?;
 	let mut f = BufWriter::new(f);
-	f.write_all((extra.to_string() + "\n" + &s).as_bytes())?;
+	f.write_all((extra.to_string() + "\n" + &s + "\n").as_bytes())?;
 	f.flush()
 }
 
@@ -536,3 +536,11 @@ fn permloop_specify<'a>(keys: &[char], chars: &[char], specs: &[Spec<'a>]) -> Re
 }
 
 
+pub fn read_loglines_prettyprint(lines: &str) {
+	lines.lines()
+	.filter_map(|line| Log::try_from(line).ok().map(|e| (line, e) ) )
+	.for_each(|(line, log)| {
+		println!("{}", line);
+		prettyprint_keytocjchar(&log.keytochar);
+	})
+}

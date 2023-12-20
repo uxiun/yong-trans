@@ -16,6 +16,17 @@ use itertools::Itertools;
 use nom::Parser;
 use num_bigint::{BigUint, ToBigUint};
 
+pub fn print_error<T,E: Display>(result: Result<T,E>) -> Option<T> {
+	match result {
+		Err(e) => {
+
+			println!("{e}");
+			None
+		},
+		Ok(t) => Some(t)
+	}
+}
+
 pub fn hashmap_flip<K, V>(h: &HashMap<K, V>) -> HashMap<&V, &K>
 where
 	K: Hash + Eq,

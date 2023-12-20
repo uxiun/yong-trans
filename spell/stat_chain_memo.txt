@@ -41,9 +41,9 @@ a r w s
 折線 n8 d2 u3 v1
 囲み r6 a2 w2 b10 s3
 => 各指に振分
-最頻出 hmbnoiy : my ho i n b さらに分ければ mh, bnoiy
-全体の統計（ただしcj5-90000）では m h, b r, n i y t f ...
-中段には dk mh, sfjl yibn,
+最頻出 hmbnoiy : my ho i n b
+全体の統計（ただしcj5-90000）では m h, b r, o n i y t f ...
+中段には dk mh, sfjl yibn; dk mh, sfjleiwo bnoiyrtf
 aq,      ;a=-,q    ;p
 swz,     ;yjt      ;yfc   ;ifk    ;ifk                           ;
 dex,     ;         ;hvt   ;mce    ;m e   ; mde

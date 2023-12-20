@@ -131,20 +131,17 @@ where
 }
 
 pub fn spell_words_dict_tostring(dict: Vec<(String, Vec<String>)>) -> String {
-	let mut v: Vec<_> = dict.into_iter().collect();
+	let mut v = dict;
 	v.sort_by(|j, k| cmp_by_len_default(&j.0, &k.0));
 
-	let dict: Vec<(String, Vec<String>)> = v.into_iter().collect();
-	dict.iter().fold(String::new(), |folding, t| {
-		let s = SpellWordsEntry {
+	v.into_iter().map(|t| {
+		SpellWordsEntry {
 			spell: t.0.to_owned(),
 			words: t.1.to_owned(),
 		}
-		.to_string();
-
-		folding + &s
-		// file.write_all(s.as_bytes());
+		.to_string()
 	})
+	.join("")
 }
 
 struct SpellWordsEntry {

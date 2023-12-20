@@ -11,7 +11,7 @@ use std::{
 	time::Duration,
 };
 
-use chain::{loopperm, restruct_keytocjchar_and_write};
+use chain::{loopperm, restruct_keytocjchar_and_write, tryfrom_args_to_specs, loopperm_spec};
 use itertools::Itertools;
 use repeat::word_withspecifiers;
 use spell::{swap_table_quickcheck, SwapDictChars};
@@ -107,10 +107,26 @@ fn random_leveled_perm(args: &mut Args) {
 	let msg = "could not parse as usize";
 	let i = usize::from_str_radix(&i, 10).expect(msg);
 	let j = usize::from_str_radix(&j, 10).expect(msg);
-	let sources = args.collect_vec();
-	if sources.len() > 0 {
 
-		loopperm(i, j, sources);
+	let rems = args.collect_vec();
+	let mid = rems.iter().find_position(|s| s.as_str() == "-" ).map(|(i,_)| i).unwrap_or(rems.len());
+
+	let (dicts, specpart) = rems.split_at(mid+1);
+
+	if dicts.len() > 0 {
+		if specpart.len() > 0 {
+			let mut dicts = dicts.into_iter().collect_vec();
+			dicts.pop();
+			match tryfrom_args_to_specs(specpart) {
+				Err(e) =>
+					println!("{}", e),
+				Ok(specs) => {
+					loopperm_spec(&specs, i, j, dicts);
+				}
+			}
+		} else {
+			loopperm(i, j, dicts);
+		}
 	} else {
 		println!("no source path was given");
 	}

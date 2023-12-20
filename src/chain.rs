@@ -126,6 +126,7 @@ where
 	yongpaths.sort();
 
 	let yongpath_string =yongpaths.join("_");
+	create_dir(".auto");
 	let save_path = format!( ".auto/{}", yongpath_string);
 
 	let logfile_path = format!("{}.log", save_path);

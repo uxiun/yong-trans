@@ -1,4 +1,4 @@
-use crate::{d, out::WordSpellsEntry};
+use crate::out::WordSpellsEntry;
 use nom::{
 	bytes::complete::{is_not, tag, take_while1},
 	character::{
@@ -21,7 +21,7 @@ pub fn main() {
 
 fn parsetameshi() {
 	//OK
-	let x = d!([
+	let x = dbg!([
 		// xxyx_spell("h 好 word1  词 ".as_bytes()),
 		read_line_custom_add("可 h rh".to_owned()),
 		read_line_custom_add("vlai invalid num  ".to_owned()),
@@ -90,7 +90,7 @@ pub fn read_line_xxyx_def(line: String) -> Option<YongDef> {
 				.collect(),
 		})
 	} else {
-		// let k = d!(&t);
+		// let k = dbg!(&t);
 		None
 	}
 }
@@ -217,7 +217,7 @@ fn xxyx_spell(i: &[u8]) -> IResult<&[u8], Vec<u8>> {
 							if shouldbe_vowels.iter().all(|d| is_vowel_char(d.as_char())) {
 								Ok((rem, js.to_vec()))
 							} else {
-								// let msg = d!("should be vowels");
+								// let msg = dbg!("should be vowels");
 								Err(nom::Err::Error(Error {
 									input: i,
 									code: nom::error::ErrorKind::IsNot,

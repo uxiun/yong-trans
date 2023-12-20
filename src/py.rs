@@ -5,16 +5,15 @@ use std::{default, slice};
 
 use pinyin::ToPinyin;
 
-use crate::d;
 use crate::kt::read_lines;
 
 pub fn main() {
 	let filepath = "shuang/xiaoque.txt";
-	let py = d!(['見', '的', '得'].map(|c| get_shuangpin_tone(c, filepath)));
+	let py = dbg!(['見', '的', '得'].map(|c| get_shuangpin_tone(c, filepath)));
 }
 
 pub fn get_shuangpin_tone<P: AsRef<Path>>(c: char, filepath: P) -> Option<ShuangPinTone> {
-	// let charforpinyin = d!(c);
+	// let charforpinyin = dbg!(c);
 	if let Some(c) = c.to_pinyin() {
 		Some(ShuangPinTone::from(
 			&PinyinWithToneNumEnd(c.with_tone_num_end().to_owned()),
@@ -84,7 +83,7 @@ impl PinyinWithToneNumEnd {
 	}
 
 	fn split_cv(&self) -> (String, String) {
-		// let dd = d!(self);
+		// let dd = dbg!(self);
 		let (sheng, tone) = self.split_tone();
 		let mui = &sheng.chars().position(|c| "aeuioü".contains(c));
 		// .unwrap() //としたいところだけど 嗯 n2 とかいう拼音もあるらしい
@@ -137,7 +136,7 @@ impl ShuangPinTone {
 			}
 		};
 		let f =
-      // d!(
+      // dbg!(
         m.replace("ü", "v")
       // )
       ;

@@ -1,7 +1,7 @@
 use std::{
 	cmp::Ordering,
 	collections::HashMap,
-	fmt::{format, Debug},
+	fmt::{format, Debug, Display},
 	fs::{File, OpenOptions},
 	hash::Hash,
 	io::{Read, Write},
@@ -392,3 +392,19 @@ where
 // 		tosort
 // 	}
 // }
+
+pub fn concat_lines<I, S>(lines: I) -> String
+where
+	I: IntoIterator<Item = S>,
+	S: ToString,
+{
+	Iterator::intersperse(lines.into_iter().map(|s| s.to_string()), "\n".to_string()).collect()
+}
+
+pub fn strip_dir_from_path<P: Display>(path: P) -> String {
+	path.to_string().split("/").last().unwrap_or("").to_string()
+}
+
+pub fn get_filename<P: Display>(path: P) -> String {
+	strip_dir_from_path(path).split(".").next().unwrap_or("").to_string()
+}

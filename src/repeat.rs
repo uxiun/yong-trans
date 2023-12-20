@@ -650,6 +650,44 @@ pub fn word_withspecifiers<P: AsRef<Path>>(
 	)
 }
 
+pub fn word_withspecifiers_stringdict<P: AsRef<Path>>(
+	swap_dict: &HashMap<String, String>,
+	dict: &YongDictWordSpells,
+	shuangpin_table: P,
+) -> (usize, Vec<(String, WithMakeWordSpecifier)>) {
+	let translator = WordSpellsEntry::to_cjmain_with_specifier;
+
+	dict.iter().fold(
+		(0, vec![]),
+		|(mut count, mut word_withspecifiers), (word, spells)| {
+			let withspecifiers = translator(
+				WordSpellsEntry {
+					word: word.to_string(),
+					spells: spells.clone(),
+				},
+				swap_dict,
+				&shuangpin_table,
+			);
+			count += withspecifiers
+				.specified_for_make_word_spells
+				.iter()
+				.fold(0, |count, s| {
+					if let Some(c) = s.chars().nth(3) {
+						if ['.', ','].contains(&c) {
+							count + 1
+						} else {
+							count
+						}
+					} else {
+						count
+					}
+				});
+			word_withspecifiers.push((word.to_owned(), withspecifiers));
+			(count, word_withspecifiers)
+		},
+	)
+}
+
 #[test]
 fn perm() {
 	let max = 9;

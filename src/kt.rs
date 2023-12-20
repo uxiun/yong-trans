@@ -7,7 +7,6 @@ use std::{
 };
 
 use crate::{
-	d,
 	out::YongDictSpellWords,
 	parser::{
 		read_line_cangjie_def, read_line_custom_add, read_line_swap_key, read_line_xxyx_def,
@@ -25,13 +24,12 @@ pub fn main() {
 	];
 	let mut m: YongDictWordSpells = HashMap::new();
 	let merged = unions_hashmap(&mut m, hs.into_iter().collect());
-	let va = d!([merged.get("看"), merged.get("上"), merged.get("車"),]);
 }
 
-pub fn to_yong_dict<P: AsRef<Path> + Copy + Debug>(path: P) -> YongDictWordSpells {
-	let spelling: YongSpelling = if path_file_or_dict_prefix_match(path, "xxyx") {
+pub fn to_yong_dict<P: AsRef<Path> + Debug + Clone>(path: P) -> YongDictWordSpells {
+	let spelling: YongSpelling = if path_file_or_dict_prefix_match(path.clone(), "xxyx") {
 		YongSpelling::Xxyx
-	} else if path_file_or_dict_prefix_match(path, "cj") {
+	} else if path_file_or_dict_prefix_match(path.clone(), "cj") {
 		YongSpelling::Cangjie
 	} else {
 		YongSpelling::Free
@@ -45,7 +43,6 @@ pub fn to_yong_dict<P: AsRef<Path> + Copy + Debug>(path: P) -> YongDictWordSpell
 		YongDefGroup { defs }.to_dict(spelling)
 	} else {
 		println!("seems the file has no def part");
-		let couldnotopen = d!(path);
 		HashMap::new()
 	}
 }
@@ -56,7 +53,7 @@ pub fn from_word_spells_dict<P: AsRef<Path> + Copy + Debug>(path: P) -> YongDict
 		WordSpellsLineFormat::Free
 	};
 	println!("start collect defs with format:");
-	// let format = d!(format);
+	// let format = dbg!(format);
 	// let mut dict: YongDictWordSpells = HashMap::new();
 
 	if let Some(ly) = LinesBufYong::def_part_entire(path) {
@@ -78,7 +75,6 @@ pub fn from_word_spells_dict<P: AsRef<Path> + Copy + Debug>(path: P) -> YongDict
 			.collect()
 	} else {
 		println!("seems the file has no def part");
-		let couldnotopen = d!(path);
 		HashMap::new()
 	}
 }
@@ -113,7 +109,7 @@ pub type YongDictWordSpells = HashMap<String, Vec<SpecifySpelling>>;
 pub fn get_yongdictwordspells<I, P>(table_paths: I) -> YongDictWordSpells
 where
 	I: IntoIterator<Item = P>,
-	P: AsRef<Path> + Debug + Copy,
+	P: AsRef<Path> + Debug + Clone,
 {
 	let mut m: YongDictWordSpells = HashMap::new();
 	let merged = unions_hashmap(

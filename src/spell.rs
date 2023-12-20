@@ -18,7 +18,6 @@ use num_bigint::ToBigUint;
 use permutation_iterator::Permutor;
 
 use crate::{
-	d,
 	kt::{get_yongdictwordspells, read_lines, to_swap_key_dict, YongDictWordSpells},
 	out::{spell_words_dict_tostring, WithMakeWordSpecifier, YongDictSpellWords},
 	parser::read_line_alpha_entry,
@@ -27,7 +26,7 @@ use crate::{
 };
 
 pub fn main() {
-	let j = d!([BihuaXxyx::Shu.chain_as(BihuaXxyx::Zhe)]);
+	let j = dbg!([BihuaXxyx::Shu.chain_as(BihuaXxyx::Zhe)]);
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
@@ -89,7 +88,7 @@ impl BihuaXxyx {
 			})
 			.map(|a| (a.value, a.key))
 			.collect::<HashMap<_, _>>();
-		// let di = d!(di);
+		// let di = dbg!(di);
 		let key = self.to_aeuio().to_string() + &s.to_aeuio().to_string();
 		*di.get(&key).expect(&format!(
 			"
@@ -349,7 +348,7 @@ pub type PermTargetAndDict = (Vec<char>, HashMap<char, char>);
 pub struct SwapDictChars {
 	allchars: Vec<char>,
 	pub fromchars: Vec<char>,
-	pub tochars: Vec<char>,
+	pub tochars: Vec<char>, // will be permutation.
 	pub predefined: HashMap<char, char>,
 	blacklist_to_from: HashMap<char, char>,
 }
@@ -752,30 +751,38 @@ impl SwapDictChars {
 		f.flush()
 	}
 
-	fn specify(&self, specials_slots: &[(&str, &str)]) -> (Vec<char>, Vec<(Vec<char>, Vec<usize>)>) {
+	fn specify<S: ToString>(
+		&self,
+		specials_slots: &[(S, S)],
+	) -> (Vec<char>, Vec<(Vec<char>, Vec<usize>)>) {
 		specials_slots.into_iter().fold(
 			(vec![], vec![]),
 			|(mut specialchars, mut ss), (specials, slots)| {
-				specialchars.extend(specials.chars());
-				let slot_indice = slots.chars().filter_map(|c| self.index(c)).collect_vec();
-				ss.push((specials.chars().collect(), slot_indice));
+				specialchars.extend(specials.to_string().chars());
+				let slot_indice = slots
+					.to_string()
+					.chars()
+					.filter_map(|c| self.index(c))
+					.collect_vec();
+				ss.push((specials.to_string().chars().collect(), slot_indice));
 				(specialchars, ss)
 			},
 		)
 	}
 
-	pub fn perm<P, Q, I>(
+	pub fn perm<P, Q, I, S>(
 		&self,
 		shuangpin_table: P,
 		table_paths: I,
 		save_path: Q,
 		nonchain_goal: usize,
 		process_perm_chunk: usize,
-		specials_slots: &[(&str, &str)],
+		specials_slots: &[(S, S)],
 	) where
 		I: IntoIterator<Item = P>,
 		P: AsRef<Path> + Clone + Debug + Copy,
 		Q: AsRef<Path> + Clone + Debug + Copy,
+		S: ToString,
 	{
 		let (specialchars, specials_slots) = self.specify(specials_slots);
 		let normalchars: Vec<char> = self
@@ -887,6 +894,8 @@ impl SwapDictChars {
 		if specials_slots.len() > 0 {
 			permutor.repeat_specify(max, map, stopper, and, &normalchars, &specials_slots)
 		} else {
+			println!("no specials_slots, run normal repeat");
+
 			permutor.repeat(max, map, stopper, and);
 		}
 	}
@@ -1189,7 +1198,7 @@ fn swap_table_tostring(swap_table: HashMap<char, char>) -> String {
 				.map(|s| {
 					s.chars()
 						.map(|c| {
-							hashmap_flip(&swap_table)
+							hashmap_flip(&swap_table) //<keyboard, cjkey> => swap_table<cjkey, keyboard>, but swapfile line: <keyboard, cjkey>
 								.get(&c)
 								.map(|cjkey| h.get(cjkey))
 								.flatten()
@@ -1229,4 +1238,64 @@ fn swap_table_tostring(swap_table: HashMap<char, char>) -> String {
 	// }
 
 	// s
+}
+
+pub fn swap_table_literal_tostring(keytocjchar: &HashMap<char, char>) -> String {
+	let keyboard = "qwertyuiopasdfghjklzxcbmnv";
+	let h: HashMap<char, char> = HashMap::from_iter([
+		('q', '手'),
+		('w', '田'),
+		('e', '水'),
+		('r', '口'),
+		('t', '廿'),
+		('y', '卜'),
+		('u', '山'),
+		('i', '戈'),
+		('o', '人'),
+		('p', '心'),
+		('a', '日'),
+		('s', '尸'),
+		('d', '木'),
+		('f', '火'),
+		('g', '土'),
+		('h', '竹'),
+		('j', '十'),
+		('k', '乂'),
+		('l', '中'),
+		('z', '！'),
+		('x', '難'),
+		('c', '金'),
+		('b', '月'),
+		('m', '一'),
+		('n', '弓'),
+		('v', '女'),
+	]);
+
+	let leftend = "tgb";
+	let y = "y";
+	let z = "z";
+	let rightend = "plv";
+
+	let slot = [["qwert ", "yuiop"], ["asdfg ", "hjkl"], [" zxc b", " mnv"]];
+
+	Itertools::intersperse(
+		slot.into_iter().map(|line| {
+			line
+				.into_iter()
+				.map(|s| {
+					s.chars()
+						.map(|c| {
+							keytocjchar
+								.get(&c)
+								.map(|cjkey| h.get(cjkey))
+								.flatten()
+								.unwrap_or(&'　')
+						})
+						.collect::<String>()
+				})
+				.collect()
+		}),
+		"\n".to_string(),
+	)
+	.collect()
 }

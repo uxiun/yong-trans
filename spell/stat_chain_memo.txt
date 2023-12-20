@@ -43,14 +43,24 @@ a r w s
 => 各指に振分
 最頻出 hmbnoiy : my ho i n b
 aq,      ;a=-,q    ;p
-swz,     ;yjt      ;yfc   ;ifk    ;ifk
-dex,     ;         ;hvt   ;mce    ;m e
-frc gtb, ;b=x, my  ;nek du;oys dg ;oys dl
-jum hy,  ;b        ;brs aw;nru jv ;nru jg
-kin,     ;hok      ;mig   ;hlt    ;htv
+swz,     ;yjt      ;yfc   ;ifk    ;ifk                           ;
+dex,     ;         ;hvt   ;mce    ;m e   ; mde
+frc gtb, ;b=x, my  ;nek du;oys dg ;oys dl; oys jg
+jum hy,  ;b        ;brs aw;nru jv ;nru jg; nru lv or tv (slightly inefficient?)
+kin,     ;hok      ;mig   ;hlt    ;htv   ; htc  or hlc
 lov,     ;ndv      ;ojl   ;baw    ;
 p,       ;p        ;q
-                   ; swap_freq.txt;swap_retune
+                   ; swap_freq.txt;swap_retune x ;
+
+swz
+m      ed
+o      ys dl
+nru ta
+hlc
+bvw
+q
+
+o 
 
 y , i + m
 j , m + l

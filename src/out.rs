@@ -1,7 +1,6 @@
 use itertools::Itertools;
 
 use crate::{
-	d,
 	kt::{from_word_spells_dict, swap_key, to_swap_key_dict, to_yong_dict, YongDictWordSpells},
 	parser::{self, StringStringsDict, StringStringsEntry},
 	py::get_shuangpin_tone,
@@ -69,7 +68,7 @@ pub fn main<P: AsRef<Path>, Q: AsRef<Path>>(save_path: P, swap_path: Q) {
 	// 	toadd
 	// ]
 
-	// let sta = d!({
+	// let sta = dbg!({
 	// 	let dict: YongDictSpellWords = dict.clone().into_iter().collect();
 	// 	let stas = [
 	// 		double_words_by_len(dict.clone(), 1),
@@ -93,7 +92,6 @@ pub fn main<P: AsRef<Path>, Q: AsRef<Path>>(save_path: P, swap_path: Q) {
 	// 	}
 	// 	display_hashmap(se)
 	// });
-
 
 	if let Err(e) = write_spell_words_dict(
 		// "table-custom/cjrefreq-20000.txt",
@@ -202,6 +200,50 @@ impl DictTranslator {
 			_ => WordSpellsEntry::to_cjmain_with_specifier,
 		};
 		let swapdict = to_swap_key_dict(swap_dict);
+		let j = dict.iter().map(|t| {
+			let withspecifiers = translator(WordSpellsEntry::from_tuple(t), &swapdict, &shuangpin_table);
+			(t.0.to_owned(), withspecifiers)
+		});
+
+		let mut init: YongDictSpellWords = HashMap::new();
+		let mut wordpsells = Vec::new();
+		for (word, withspecifieds) in j.into_iter() {
+			let both = [
+				withspecifieds.other_spells,
+				withspecifieds.specified_for_make_word_spells.clone(),
+			]
+			.into_iter()
+			.flatten();
+			for spell in both {
+				if let Some(mv) = init.get_mut(&spell) {
+					// if mv.iter().all(|w| w != &word) {
+					if !mv.contains(&word) {
+						//綴の長さに応じて追加しないようにするかも
+						mv.push(word.clone());
+					}
+				} else {
+					init.insert(spell.clone(), vec![word.clone()]);
+				}
+			}
+			for spell in withspecifieds.specified_for_make_word_spells {
+				wordpsells.push(("^".to_string() + &spell, vec![word.clone()]));
+			}
+		}
+		wordpsells.extend(init.into_iter());
+
+		wordpsells
+	}
+
+	fn flip_word_spells_with_make_word_specifier_byswapdict<P: AsRef<Path>, Q: AsRef<Path>>(
+		&self,
+		dict: YongDictWordSpells,
+		swapdict: &HashMap<String, String>,
+		shuangpin_table: Q,
+	) -> Vec<(String, Vec<String>)> {
+		let translator = match self {
+			Self::Cjmain => WordSpellsEntry::to_cjmain_with_specifier,
+			_ => WordSpellsEntry::to_cjmain_with_specifier,
+		};
 		let j = dict.iter().map(|t| {
 			let withspecifiers = translator(WordSpellsEntry::from_tuple(t), &swapdict, &shuangpin_table);
 			(t.0.to_owned(), withspecifiers)
@@ -766,7 +808,7 @@ impl WordSpellsEntry {
 			let mut bim = vec![];
 			let bihua_lens: Vec<_> = bihuas.iter().map(|d| d.len() as u32).collect();
 			// 	.sort_by(|s,d| s.len().cmp(&d.len()));
-			// let debugcheck = d!((self.word, &bihuas_composed));
+			// let debugcheck = dbg!((self.word, &bihuas_composed));
 			let toadd: Vec<String> = bihuas_composed
 				.iter()
 				.flat_map(|(bihua, xxyx_fix)| {
